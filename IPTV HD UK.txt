@@ -1,0 +1,1034 @@
+#EXTINF:-1 xui-id="11591" tvg-id="" tvg-name="Supersport Premier League" tvg-logo="https://panel.4kchannels.co.uk:443/images/vCF-UF7wlvh2UNzzoqOkkFiG5Bjw887vffdKm5xGQtIH4mv5BTdwsCTBl9_a_XPDZFDa1YOUwUXp8HTUuWoDxBL3TrI6mdJlHz1wAv5UMF8_sY-CC3Ich1621mxVmuTG.png" group-title="Sports | Premier League",Supersport Premier League
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd9bNQWBzPTmkrTAoxJ5tV9X1nfUhVOkgWpaYHj1znncE/ts
+#EXTINF:-1 xui-id="11590" tvg-id="" tvg-name="SuperSport Cricket" tvg-logo="https://panel.4kchannels.co.uk:443/images/vCF-UF7wlvh2UNzzoqOkkFiG5Bjw887vffdKm5xGQtIH4mv5BTdwsCTBl9_a_XPDZFDa1YOUwUXp8HTUuWoDxBL3TrI6mdJlHz1wAv5UMF8_sY-CC3Ich1621mxVmuTG.png" group-title="Sports | Premier League",SuperSport Cricket
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd5Ev2HALCtVSFNYzBrxNojEMMbKq3hIMznrB71yeFc4j/ts
+#EXTINF:-1 xui-id="11586" tvg-id="PRLITV" tvg-name="Premier League 01– AD FREE" tvg-logo="https://panel.4kchannels.co.uk:443/images/vCF-UF7wlvh2UNzzoqOkkFiG5Bjw887vffdKm5xGQtIH4mv5BTdwsCTBl9_a_XPDZFDa1YOUwUXp8HTUuWoDxBL3TrI6mdJlHz1wAv5UMF8_sY-CC3Ich1621mxVmuTG.png" group-title="Sports | Premier League",Premier League 01– AD FREE
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd95HZqVfOI0anS1j18SJ_u8t2ef8xtKM-Sc_dSmCJYYo/ts
+#EXTINF:-1 xui-id="11585" tvg-id="" tvg-name="DD Sports" tvg-logo="https://panel.4kchannels.co.uk:443/images/vCF-UF7wlvh2UNzzoqOkkFiG5Bjw887vffdKm5xGQtIH4mv5BTdwsCTBl9_a_XPDZFDa1YOUwUXp8HTUuWoDxBL3TrI6mdJlHz1wAv5UMF8_sY-CC3Ich1621mxVmuTG.png" group-title="Sports | Premier League",DD Sports
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdzRHUILjfcCWiwAxu-8ht-CDZ73IYES1TfiytV2sJWGz/ts
+#EXTINF:-1 xui-id="11584" tvg-id="PRLITV" tvg-name="Premier League 02 – AD FREE" tvg-logo="https://panel.4kchannels.co.uk:443/images/vCF-UF7wlvh2UNzzoqOkkFiG5Bjw887vffdKm5xGQtIH4mv5BTdwsCTBl9_a_XPDZFDa1YOUwUXp8HTUuWoDxBL3TrI6mdJlHz1wAv5UMF8_sY-CC3Ich1621mxVmuTG.png" group-title="Sports | Premier League",Premier League 02 – AD FREE
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd_JU4OVn1iY4tG5muFiqYEJ1qwM9Rv-Nos3IrYSzAaMD/ts
+#EXTINF:-1 xui-id="8493" tvg-id="" tvg-name="SSC NEWS" tvg-logo="https://panel.4kchannels.co.uk:443/images/vCF-UF7wlvh2UNzzoqOkkFiG5Bjw887vffdKm5xGQtIJqhiGF9rUeGnKlXX-9CAs_YBfCkNwxDvFlg5tN2o__PaBQ1v0ypXQ9FiXkeM8AFKBAUNcFp_6Fr2hc_lMO8Fb.png" group-title="SSC | Sports TV",SSC NEWS
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd0txqhy1zKKld4lrIOPzOgs/ts
+#EXTINF:-1 xui-id="8484" tvg-id="" tvg-name="SSC Sport 5" tvg-logo="https://panel.4kchannels.co.uk:443/images/vCF-UF7wlvh2UNzzoqOkkFiG5Bjw887vffdKm5xGQtIWD7v0WKPM29mtf7CilprffAPE0vhKueFvZQuwYjpn-w.png" group-title="SSC | Sports TV",SSC Sport 5
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdz3Qw8ujkBEKsq-g77mzBWk/ts
+#EXTINF:-1 xui-id="8483" tvg-id="" tvg-name="SSC Sport 4" tvg-logo="https://panel.4kchannels.co.uk:443/images/vCF-UF7wlvh2UNzzoqOkkFiG5Bjw887vffdKm5xGQtL6m0CMuXsfn3tBI9F04CqFMq2SAwqiv--p7837eOpm6Q.png" group-title="SSC | Sports TV",SSC Sport 4
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd2igf-zrJaBgcioIz18pTWs/ts
+#EXTINF:-1 xui-id="8482" tvg-id="" tvg-name="SSC Sport 3" tvg-logo="https://panel.4kchannels.co.uk:443/images/vCF-UF7wlvh2UNzzoqOkkFiG5Bjw887vffdKm5xGQtLpP8zeyT7bKYIA32Fl4vqp6PsAUKvZAAz5i9rwfTzB4w.png" group-title="SSC | Sports TV",SSC Sport 3
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd-diad22iTAiawzGtu-ncX0/ts
+#EXTINF:-1 xui-id="8481" tvg-id="" tvg-name="SSC Sport 2" tvg-logo="https://panel.4kchannels.co.uk:443/images/vCF-UF7wlvh2UNzzoqOkkFiG5Bjw887vffdKm5xGQtIRfaIUQGcLQ-Rfhh_ShhBayh7XDJV2nBmsZ2U_gIPkqA.png" group-title="SSC | Sports TV",SSC Sport 2
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd3kVdv__-PsWueU5gY0A73g/ts
+#EXTINF:-1 xui-id="8480" tvg-id="" tvg-name="SSC Sport 1" tvg-logo="https://panel.4kchannels.co.uk:443/images/vCF-UF7wlvh2UNzzoqOkkFiG5Bjw887vffdKm5xGQtL3TA-BAWuJLW2xTyGoFz-z0IxSILRhLOwMuhucz4KGYw.png" group-title="SSC | Sports TV",SSC Sport 1
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd5GaX73fKMDVW1QyipR834Y/ts
+#EXTINF:-1 xui-id="8479" tvg-id="" tvg-name="AR: SSC Extra 3" tvg-logo="" group-title="SSC | Sports TV",AR: SSC Extra 3
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd3tE96ibLaCk5lDbBc_wttE/ts
+#EXTINF:-1 xui-id="8478" tvg-id="" tvg-name="SSC Extra 2" tvg-logo="https://panel.4kchannels.co.uk:443/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optiVrmorXl2MSggQbg88ovAVH3RWwq-MJ4IM2TY308rvXRBxtc0cIfuU3EFG7VOHiKs.png" group-title="SSC | Sports TV",SSC Extra 2
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd78FLdlDnd3JCK6jvuNZJgM/ts
+#EXTINF:-1 xui-id="8477" tvg-id="" tvg-name="SSC Extra 1" tvg-logo="https://panel.4kchannels.co.uk:443/images/vCF-UF7wlvh2UNzzoqOkkFiG5Bjw887vffdKm5xGQtL3TA-BAWuJLW2xTyGoFz-z0IxSILRhLOwMuhucz4KGYw.png" group-title="SSC | Sports TV",SSC Extra 1
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd0Hk_NVnSRdYz7zrC2b_9tA/ts
+#EXTINF:-1 xui-id="8447" tvg-id="SSPORAC" tvg-name="UK: Sky Sports Racing" tvg-logo="https://panel.4kchannels.co.uk:443/images/vCF-UF7wlvh2UNzzoqOkkIPD9CEoKX1j-tGh90zbAVVI_xfaSPp1ae3MRFYKvG8yc6GaF0FSfo6egWpMCJjCOQ.png" group-title="UK | SKY Sports",UK: Sky Sports Racing
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd3FXbOH5wfKebfmmx00iyjA/ts
+#EXTINF:-1 xui-id="8446" tvg-id="SSPOPLH" tvg-name="UK: Sky Sports Premier League" tvg-logo="https://panel.4kchannels.co.uk:443/images/vCF-UF7wlvh2UNzzoqOkkIPD9CEoKX1j-tGh90zbAVV4pFMb6xNeFGhtgu3RNT3t5EB-IRyAmI09L75AzPZqSA.png" group-title="UK | SKY Sports",UK: Sky Sports Premier League
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd8tty-c1mfG7g7xbPyckIGc/ts
+#EXTINF:-1 xui-id="8444" tvg-id="" tvg-name="UK: SKY Sports NFL" tvg-logo="https://panel.4kchannels.co.uk:443/images/vCF-UF7wlvh2UNzzoqOkkFiG5Bjw887vffdKm5xGQtIUTwRsX5Z4sgIsUxCh1GL2i5UYRTsTYTTKy3HNhpC8GA.png" group-title="UK | SKY Sports",UK: SKY Sports NFL
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd3yeWdyiKaWz8eKCJzV6zxo/ts
+#EXTINF:-1 xui-id="8443" tvg-id="SSPONED" tvg-name="UK: SKY Sports NEWS" tvg-logo="https://panel.4kchannels.co.uk:443/images/HM3xx55KZnCUdlPuNC1k2IPJinOlJVnENfBFlS2f8OEDTSJcK4P_zy_IqqQ4Kq2Ru80XI9HtaQAi357h50L-_w.png" group-title="UK | SKY Sports",UK: SKY Sports NEWS
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd7t_8_4LgBk9rtwgufZhMwQ/ts
+#EXTINF:-1 xui-id="8442" tvg-id="SSPOMXH" tvg-name="UK: SKY Sports MIX" tvg-logo="https://panel.4kchannels.co.uk:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yqtZUbhMunmt0ipxCUzXUsJtvVi7RNX4MtaQAkofu8XBg.png" group-title="UK | SKY Sports",UK: SKY Sports MIX
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdyQQNmftZCA5BblMqGRYKuQ/ts
+#EXTINF:-1 xui-id="8441" tvg-id="SSPOMEH" tvg-name="UK: SKY Sports MAIN Event" tvg-logo="https://panel.4kchannels.co.uk:443/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4opthMaUo08iVH6b1vEziwTMDf44SffpWlQwjGu2Wky5oKjz7j590scZYEw2jmocU2HXU.png" group-title="UK | SKY Sports",UK: SKY Sports MAIN Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd2HpxJgvfF-P2TSpnRmQXdE/ts
+#EXTINF:-1 xui-id="8440" tvg-id="SSPOGOD" tvg-name="UK: SKY Sports GOLF" tvg-logo="https://panel.4kchannels.co.uk:443/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optiunkRa27FYYv5ecM0v02E0mnSXwLuwNWBbtN6xVz-c5sJogVuFX8E3IYfV1dxJJhc.png" group-title="UK | SKY Sports",UK: SKY Sports GOLF
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd7NaMHEjnDqPkLyNxitSaUs/ts
+#EXTINF:-1 xui-id="8439" tvg-id="SSPOFBH" tvg-name="UK: SKY Sports Football" tvg-logo="https://panel.4kchannels.co.uk:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yrhm80guVfoDWT6Mh0qadRFrt6gNHplx1v-eTfHi02mmA.png" group-title="UK | SKY Sports",UK: SKY Sports Football
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdw4LXWBblPVRyhTpeTPlQ1c/ts
+#EXTINF:-1 xui-id="8438" tvg-id="SSPOF1H" tvg-name="UK: SKY Sports F1" tvg-logo="https://panel.4kchannels.co.uk:443/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwJery_mDHX3uAJ_vinb240ofUDeL-WpQJR9r9vqoIr99A.png" group-title="UK | SKY Sports",UK: SKY Sports F1
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd6xWjvkCg2SmRAlueUHoQzI/ts
+#EXTINF:-1 xui-id="8437" tvg-id="SSPOCRH" tvg-name="UK: SKY Sports Cricket Live" tvg-logo="https://panel.4kchannels.co.uk:443/images/HM3xx55KZnCUdlPuNC1k2GwUee_HeV47TzX8gNpnfyB3-7xmIuOeQ213xrjRJxsGkajdliwFUHGqXIDg7KXYcA.png" group-title="UK | SKY Sports",UK: SKY Sports Cricket Live
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdy55bOSzpESsPI-hpcG-bjU/ts
+#EXTINF:-1 xui-id="8431" tvg-id="" tvg-name="UK: Sky MAX" tvg-logo="" group-title="UK | SKY Sports",UK: Sky MAX
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd5av0rz1bVPzqJ4V3_0ktlI/ts
+#EXTINF:-1 xui-id="8380" tvg-id="SSPOARH" tvg-name="UK: SKY Sports Arena" tvg-logo="https://panel.4kchannels.co.uk:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yqwnWEGe6IxCuCbbJZEuqe4_6RJSzrKzsZ1vhqArhoNEQ.png" group-title="UK | SKY Sports",UK: SKY Sports Arena
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd7amFbKQOWVdGWKJwzsxCDM/ts
+#EXTINF:-1 xui-id="13306" tvg-id="" tvg-name="UK: DSTV" tvg-logo="https://panel.4kchannels.co.uk:443/images/vCF-UF7wlvh2UNzzoqOkkIgnQP3k-e2Zi1vQ1jWQ0i1SPu5q8KcJJmXLB6ENN17x.jpg" group-title="UK | DSTV Sports",UK: DSTV
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd_9BScXnYP05znC2NwzdrDTkvew7fBRjhiyo3_-6a2pY/ts
+#EXTINF:-1 xui-id="8529" tvg-id="" tvg-name="DSTV: SuperSport OTT 8" tvg-logo="https://panel.4kchannels.co.uk:443/images/1UHVLidf_rKESMiIuInNJJ_u_Tc23mdD4P38b1EV_Nhl8Yu1D5SeXdFZyvC2lkSXeYEONjaBbpMw4rkT22c0XXXWq2OQINeXwI3saboqOWU.png" group-title="UK | DSTV Sports",DSTV: SuperSport OTT 8
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd7Zsy_Y1mXF1wUm6k-PRq8g/ts
+#EXTINF:-1 xui-id="8528" tvg-id="" tvg-name="DSTV: WWE Channel" tvg-logo="https://panel.4kchannels.co.uk:443/images/vCF-UF7wlvh2UNzzoqOkkFiG5Bjw887vffdKm5xGQtIOJ52XfJjp6yZc547h-eURprse310muqdrty00bJZF5hq2IrB_WXBWFm9B1KiyspjO9BuUjj1ruJxdOQskSXK8.png" group-title="UK | DSTV Sports",DSTV: WWE Channel
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd1MuBpnmFSrAJ16oxizS1h8/ts
+#EXTINF:-1 xui-id="8526" tvg-id="" tvg-name="DSTV: Maximo 1 Direto" tvg-logo="https://panel.4kchannels.co.uk:443/images/vCF-UF7wlvh2UNzzoqOkkFiG5Bjw887vffdKm5xGQtLWe8L14c5DFn_fCSrR3RCZiJdVFfTJ8KhgGKe70czR2sSAJo_QNgfu1NLFwiGFJeG0Z_HMERQCczb66Ea66VeR.png" group-title="UK | DSTV Sports",DSTV: Maximo 1 Direto
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd_jxOWUgeoYvGARpzE9OWOU/ts
+#EXTINF:-1 xui-id="8525" tvg-id="" tvg-name="DSTV: Ginxe Sports" tvg-logo="https://panel.4kchannels.co.uk:443/images/vCF-UF7wlvh2UNzzoqOkkFiG5Bjw887vffdKm5xGQtK7C8fLIO73PoC_W3MwjgHAJgBUai05xRvJwh6TQuqbdXJCJS5BhZ8YQYVEKFElFthKEdlue9WsoWKODwhwS292.png" group-title="UK | DSTV Sports",DSTV: Ginxe Sports
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd-tL-L1ZTnw70CFSkD7vSgU/ts
+#EXTINF:-1 xui-id="8522" tvg-id="" tvg-name="DSTV: ESPN" tvg-logo="https://panel.4kchannels.co.uk:443/images/vCF-UF7wlvh2UNzzoqOkkFiG5Bjw887vffdKm5xGQtInME0P7NTtfoJtwDk4DIuChKFJB43e6Lk_WMFpE7vjE6cZaIrdl1zpaOJgMtKFwIeHdjN1CsTkrwEl9ZqdfvHD.png" group-title="UK | DSTV Sports",DSTV: ESPN
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd0iMILIercMsJeuALTRj4g4/ts
+#EXTINF:-1 xui-id="8521" tvg-id="" tvg-name="DSTV: Astro Arena 1" tvg-logo="https://panel.4kchannels.co.uk:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWDUTZ2a5tPG2CGIwj8Pk8UVdVXPDM86njJocloxut-UfRPlt-8xRyLqiVTZAFBTBrqqYAdxJ9Mq0-uJXHTZDtU.png" group-title="UK | DSTV Sports",DSTV: Astro Arena 1
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdyRZXFMt-cUZGssjotueWDA/ts
+#EXTINF:-1 xui-id="8519" tvg-id="" tvg-name="DSTV: SuperSport Schools" tvg-logo="https://panel.4kchannels.co.uk:443/images/vCF-UF7wlvh2UNzzoqOkkFiG5Bjw887vffdKm5xGQtIWLlVk-BAFvHRZ7TupYhHQOdDCVyoowFUcpTYxYmlg-vU7ADLDKc3mvh_VZsFCOR4_r8HJoBKGJPkhZPVs-ex_.png" group-title="UK | DSTV Sports",DSTV: SuperSport Schools
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd07_G7dCISLceJXdMrlWy9A/ts
+#EXTINF:-1 xui-id="8516" tvg-id="" tvg-name="DSTV: Supersport Premier League Live" tvg-logo="https://panel.4kchannels.co.uk:443/images/vCF-UF7wlvh2UNzzoqOkkFiG5Bjw887vffdKm5xGQtJB-7W5hwS9H-HOhPHRLcia5WTOcrIQUhhtHHRcAFEnNPqqT4POfoYwGFhKb38u1wMjLHjFLpP5Bmc3OSOdEDOI.png" group-title="UK | DSTV Sports",DSTV: Supersport Premier League Live
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdydnovZMRnG4vS5RhP59-II/ts
+#EXTINF:-1 xui-id="8515" tvg-id="" tvg-name="DSTV: Supersport PLAY" tvg-logo="https://panel.4kchannels.co.uk:443/images/vCF-UF7wlvh2UNzzoqOkkFiG5Bjw887vffdKm5xGQtJJOwvZfwwuRPkim6-PEurCe8Q_Y6EQWhFg3Wrb6z0DjLGkqdKNMmEfaDfK5_AmJHnHfDxsLzI4n7DIuUE6otSf.png" group-title="UK | DSTV Sports",DSTV: Supersport PLAY
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdxmJI3VP0aK5tJTGyREJ0jo/ts
+#EXTINF:-1 xui-id="8513" tvg-id="" tvg-name="DSTV: Supersport La liga" tvg-logo="https://panel.4kchannels.co.uk:443/images/vCF-UF7wlvh2UNzzoqOkkFiG5Bjw887vffdKm5xGQtIEWtLxq9EgqTU8EbDVXceHTqSGzZO0QrVnqd2pC2Au0TE4oQLloR9tai2p9R9LvdiMsx55hIyBYa5bbOncxPc5.png" group-title="UK | DSTV Sports",DSTV: Supersport La liga
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd_xuNw1LJwqw2SZOEBvKPkY/ts
+#EXTINF:-1 xui-id="8512" tvg-id="" tvg-name="DSTV: Supersport Grandstand" tvg-logo="https://panel.4kchannels.co.uk:443/images/vCF-UF7wlvh2UNzzoqOkkFiG5Bjw887vffdKm5xGQtKbQF9PskVD-HBUHKIRYVsaGrj30RetG6tnVNbD1srreQ.png" group-title="UK | DSTV Sports",DSTV: Supersport Grandstand
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd9F9MQQod7Tfi82c-kgELxM/ts
+#EXTINF:-1 xui-id="8509" tvg-id="" tvg-name="DSTV: Supersport Football" tvg-logo="https://panel.4kchannels.co.uk:443/images/vCF-UF7wlvh2UNzzoqOkkFiG5Bjw887vffdKm5xGQtIHvtp6h-g9wZllvgpFRdDsvyvQygEuJW9jRN-MRU_KyxAx0bVSSUu6fYGQPGmv6J3sVW0z7g0DGXmliSCs81to.png" group-title="UK | DSTV Sports",DSTV: Supersport Football
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd_3ECeoD0ac4hlTPKc9ZVE8/ts
+#EXTINF:-1 xui-id="8501" tvg-id="" tvg-name="DSTV: Supersport Variety" tvg-logo="https://panel.4kchannels.co.uk:443/images/vCF-UF7wlvh2UNzzoqOkkFiG5Bjw887vffdKm5xGQtLg8OH78AfpAtBwh7AJlB8tneKrIRrvOZKuuu4ROSlx6qMKjLh9niARFOv1EYkP8UIbSUtnFWGuflQGUHxZKIRC.png" group-title="UK | DSTV Sports",DSTV: Supersport Variety
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd-jMXqaXnbNjyb5HCf9G3L0/ts
+#EXTINF:-1 xui-id="8500" tvg-id="" tvg-name="DSTV: SuperSport OTT 7" tvg-logo="https://panel.4kchannels.co.uk:443/images/1UHVLidf_rKESMiIuInNJJ_u_Tc23mdD4P38b1EV_Nhl8Yu1D5SeXdFZyvC2lkSXhZxjiOKJEh4dDe6q4lRKywjBcCs5uhwGnBcttn6akNs.png" group-title="UK | DSTV Sports",DSTV: SuperSport OTT 7
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdz_g2fMZYt3V7xpsltGcdA8/ts
+#EXTINF:-1 xui-id="8499" tvg-id="" tvg-name="DSTV: SuperSport OTT 6" tvg-logo="https://panel.4kchannels.co.uk:443/images/1UHVLidf_rKESMiIuInNJJ_u_Tc23mdD4P38b1EV_Nhl8Yu1D5SeXdFZyvC2lkSXzvoM7ZiWjdY0mBS6J9xGsrhe898PxYJSQbj5GZk4u2Q.png" group-title="UK | DSTV Sports",DSTV: SuperSport OTT 6
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd4Zj0IiqsnvXo12JzMvHfeI/ts
+#EXTINF:-1 xui-id="8498" tvg-id="" tvg-name="DSTV: SuperSport OTT 5" tvg-logo="https://panel.4kchannels.co.uk:443/images/1UHVLidf_rKESMiIuInNJJ_u_Tc23mdD4P38b1EV_Nhl8Yu1D5SeXdFZyvC2lkSX8Rq_66YP0OEtTDtX_f5JFKVeqzISk6MHXtsbpo1ROAY.png" group-title="UK | DSTV Sports",DSTV: SuperSport OTT 5
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd_v-Rju7LLVHWR9ZWqnyxio/ts
+#EXTINF:-1 xui-id="8497" tvg-id="" tvg-name="DSTV: SuperSport OTT 4" tvg-logo="https://panel.4kchannels.co.uk:443/images/1UHVLidf_rKESMiIuInNJJ_u_Tc23mdD4P38b1EV_Nhl8Yu1D5SeXdFZyvC2lkSXH1E556VvOgQdbCwHvRwN3d2tJZ-xkx1_vecz8ey5-DM.png" group-title="UK | DSTV Sports",DSTV: SuperSport OTT 4
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdzrFsUh7XxkbR4GxLgzcWkA/ts
+#EXTINF:-1 xui-id="8496" tvg-id="" tvg-name="DSTV: SuperSport OTT 3" tvg-logo="https://panel.4kchannels.co.uk:443/images/1UHVLidf_rKESMiIuInNJJ_u_Tc23mdD4P38b1EV_Nhl8Yu1D5SeXdFZyvC2lkSXRAArvrYIjDOTZrHslz_vSUuRX3ynomEwp7m8kCB7ZaI.png" group-title="UK | DSTV Sports",DSTV: SuperSport OTT 3
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd8NZSsHHG7rHxyBdQit27ek/ts
+#EXTINF:-1 xui-id="8495" tvg-id="" tvg-name="DSTV: SuperSport OTT 2" tvg-logo="https://panel.4kchannels.co.uk:443/images/1UHVLidf_rKESMiIuInNJJ_u_Tc23mdD4P38b1EV_Nhl8Yu1D5SeXdFZyvC2lkSXLmYNegaORVr-7ehJ4drvrM6l6ZsoYl4RcSjUcNaISG8.png" group-title="UK | DSTV Sports",DSTV: SuperSport OTT 2
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd7b-mGcATEl2n5nWqoiOeeM/ts
+#EXTINF:-1 xui-id="8494" tvg-id="" tvg-name="DSTV: SuperSport OTT 1" tvg-logo="https://panel.4kchannels.co.uk:443/images/1UHVLidf_rKESMiIuInNJJ_u_Tc23mdD4P38b1EV_Nhl8Yu1D5SeXdFZyvC2lkSXp_Yk8G2ornHni-jmiExcYKoYfOMGQo66fb4qT0OLDoI.png" group-title="UK | DSTV Sports",DSTV: SuperSport OTT 1
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd13orHVfIxRNa6OZP8GzpOg/ts
+#EXTINF:-1 xui-id="133248" tvg-id="TNTSPOR" tvg-name="UK: TNT Sports 8" tvg-logo="https://panel.4kchannels.co.uk:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yrDH6L21A30s_XhhTOh3oCUOg6ptlr8hpgP_mEqP-DpvQ.png" group-title="UK | TNT Sports",UK: TNT Sports 8
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd9bE7Vq7pqcAO8B2Gu8XSvbSxVxGvfN9F31XjFVu_I2m/ts
+#EXTINF:-1 xui-id="133247" tvg-id="TNTSPOR" tvg-name="UK: TNT Sports 10" tvg-logo="https://panel.4kchannels.co.uk:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yrDH6L21A30s_XhhTOh3oCUOg6ptlr8hpgP_mEqP-DpvQ.png" group-title="UK | TNT Sports",UK: TNT Sports 10
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd9bE7Vq7pqcAO8B2Gu8XSvZFkKzuC_GjtSUfPTrDT1H-/ts
+#EXTINF:-1 xui-id="72793" tvg-id="TNTSPOR" tvg-name="UK: TNT Sports 9" tvg-logo="https://panel.4kchannels.co.uk:443/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dRuSHr5mR43VIEpZTfGeqJM9wMKlWNb_QgzLFGY79Q5mA.png" group-title="UK | TNT Sports",UK: TNT Sports 9
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd6l1RzvagWIXrp5a4fUDRO3-NNNyuHzGHxO-uFI7KJMe/ts
+#EXTINF:-1 xui-id="72791" tvg-id="TNTSPOR" tvg-name="UK: TNT Sports 7" tvg-logo="https://panel.4kchannels.co.uk:443/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dRuSHr5mR43VIEpZTfGeqJM9wMKlWNb_QgzLFGY79Q5mA.png" group-title="UK | TNT Sports",UK: TNT Sports 7
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd4w1lc1trrNAIO5Yfn33yf9Odx1EjhmWOqLr-2WMXT2r/ts
+#EXTINF:-1 xui-id="72790" tvg-id="TNTSPOR" tvg-name="UK: TNT Sports 6" tvg-logo="https://panel.4kchannels.co.uk:443/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dRuSHr5mR43VIEpZTfGeqJM9wMKlWNb_QgzLFGY79Q5mA.png" group-title="UK | TNT Sports",UK: TNT Sports 6
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd1-lrRkFEyRXyHoYLxqdQWcr_y46xjfomFy-K9KLcwfT/ts
+#EXTINF:-1 xui-id="72789" tvg-id="TNTSPOR" tvg-name="UK: TNT Sports 5" tvg-logo="https://panel.4kchannels.co.uk:443/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dRuSHr5mR43VIEpZTfGeqJM9wMKlWNb_QgzLFGY79Q5mA.png" group-title="UK | TNT Sports",UK: TNT Sports 5
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd07iUfPABizHtyrf7ERfKGa6xQBR4mxGWbIsAEDofQwo/ts
+#EXTINF:-1 xui-id="72788" tvg-id="TNTSPOR" tvg-name="UK: TNT Sports 4" tvg-logo="https://panel.4kchannels.co.uk:443/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dRuSHr5mR43VIEpZTfGeqJM9wMKlWNb_QgzLFGY79Q5mA.png" group-title="UK | TNT Sports",UK: TNT Sports 4
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdzburnjnhGi2ul56MeRQ-8FYwTTCDISoA6npUKcw7KHr/ts
+#EXTINF:-1 xui-id="72787" tvg-id="TNTSPOR" tvg-name="UK: TNT Sports 3" tvg-logo="https://panel.4kchannels.co.uk:443/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dRuSHr5mR43VIEpZTfGeqJM9wMKlWNb_QgzLFGY79Q5mA.png" group-title="UK | TNT Sports",UK: TNT Sports 3
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd9QoEGHILdB3XKsoP62QLTx2SYpl_SaIN7t72fc3EoHj/ts
+#EXTINF:-1 xui-id="72786" tvg-id="TNTSPOR" tvg-name="UK: TNT Sports 2" tvg-logo="https://panel.4kchannels.co.uk:443/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dRuSHr5mR43VIEpZTfGeqJM9wMKlWNb_QgzLFGY79Q5mA.png" group-title="UK | TNT Sports",UK: TNT Sports 2
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd3ZpHaKEaHtbzVAcPC6eopBNUujx1p4CEP0T1fR1T9aS/ts
+#EXTINF:-1 xui-id="72785" tvg-id="TNTSPOR" tvg-name="UK: TNT Sports 1" tvg-logo="https://panel.4kchannels.co.uk:443/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dRuSHr5mR43VIEpZTfGeqJM9wMKlWNb_QgzLFGY79Q5mA.png" group-title="UK | TNT Sports",UK: TNT Sports 1
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd9RhgDRyjdamCdGGAVteuEugxJ0IfkgdvboSmtCcVWCb/ts
+#EXTINF:-1 xui-id="13180" tvg-id="TNTSPOR" tvg-name="UK: TNT Sports" tvg-logo="https://panel.4kchannels.co.uk:443/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optjnYtF__6WpDwTp_KfSueSyMsM5UqaDnRJa0VVwPiJFhsyUDfZmvi_9CXAr4ZQ15gw.png" group-title="UK | TNT Sports",UK: TNT Sports
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdzaLLtY4UbeAlDHumDuPBBjKkoVwwNzAYOqk8lALW6Ix/ts
+#EXTINF:-1 xui-id="72099" tvg-id="" tvg-name="EFL35| No Scheduled Event" tvg-logo="None" group-title="UK | EFL",EFL35| No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd4nSih9sKyW6aAKDC5S-C-KNZLlW8XPBH_d_woTEbHSu/ts
+#EXTINF:-1 xui-id="72098" tvg-id="" tvg-name="EFL34| No Scheduled Even" tvg-logo="None" group-title="UK | EFL",EFL34| No Scheduled Even
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd4K8KTcUv3xXFxOciuuMzRROs6Peh1gaKthhCHaYYw60/ts
+#EXTINF:-1 xui-id="72097" tvg-id="" tvg-name="EFL33| No Scheduled Even" tvg-logo="None" group-title="UK | EFL",EFL33| No Scheduled Even
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd5F2kDVSn0cNKj1htgGJzboSFvqATkFvoQsnkS1f-q6N/ts
+#EXTINF:-1 xui-id="72096" tvg-id="" tvg-name="EFL32| No Scheduled Even" tvg-logo="None" group-title="UK | EFL",EFL32| No Scheduled Even
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd4sIX1WY6LD3cXOVw2PcvqG6v4HzWORYW6wcVwuUEpb0/ts
+#EXTINF:-1 xui-id="72095" tvg-id="" tvg-name="EFL31| No Scheduled Even" tvg-logo="None" group-title="UK | EFL",EFL31| No Scheduled Even
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdxLOoCoqceeiJVEkUBQY36_YCERIHSThxdbogjgeVxlK/ts
+#EXTINF:-1 xui-id="72094" tvg-id="" tvg-name="EFL30| No Scheduled Even" tvg-logo="None" group-title="UK | EFL",EFL30| No Scheduled Even
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd_ygVHOLTRX2LcfvQzxYBPop_EkxUrOyTMT6HwBbLQR4/ts
+#EXTINF:-1 xui-id="72093" tvg-id="" tvg-name="EFL29| No Scheduled Even" tvg-logo="None" group-title="UK | EFL",EFL29| No Scheduled Even
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd1EdMA8To1G5CTB2eRXhVFtFlODOBEqyC74iUzBBqnRq/ts
+#EXTINF:-1 xui-id="72092" tvg-id="" tvg-name="EFL28| No Scheduled Even" tvg-logo="None" group-title="UK | EFL",EFL28| No Scheduled Even
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdxy9GUdjx8iEzFuLgVNdHwF1xxgUcX5goIp55zofTnxE/ts
+#EXTINF:-1 xui-id="72091" tvg-id="" tvg-name="EFL27| No Scheduled Even" tvg-logo="None" group-title="UK | EFL",EFL27| No Scheduled Even
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd7R8cJGKzZexQzHK27hsucxkMaGMFHJEMfrl1I0ZwZgf/ts
+#EXTINF:-1 xui-id="72090" tvg-id="" tvg-name="EFL26| No Scheduled Even" tvg-logo="None" group-title="UK | EFL",EFL26| No Scheduled Even
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd9CYjciV42W6Z2RdLSp-dvZtVQEI4SN4mY-puz3Mlds-/ts
+#EXTINF:-1 xui-id="72089" tvg-id="" tvg-name="EFL25| No Scheduled Even" tvg-logo="None" group-title="UK | EFL",EFL25| No Scheduled Even
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd1j9RhOWYWdCvvpQwu_uwh9UwW4uCXoQ_6u7VKNowvc3/ts
+#EXTINF:-1 xui-id="72088" tvg-id="" tvg-name="EFL24| No Scheduled Even" tvg-logo="None" group-title="UK | EFL",EFL24| No Scheduled Even
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd8TISzV8BnOkUB1lamAjHeQ329ux76fh72L0c1-lxOGA/ts
+#EXTINF:-1 xui-id="72087" tvg-id="" tvg-name="EFL23| No Scheduled Even" tvg-logo="None" group-title="UK | EFL",EFL23| No Scheduled Even
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd7wkFX402YqDCZVPxqDiCQIZlOvnzK9jfGQIALxpKMUE/ts
+#EXTINF:-1 xui-id="72086" tvg-id="" tvg-name="EFL22| No Scheduled Even" tvg-logo="None" group-title="UK | EFL",EFL22| No Scheduled Even
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdznrRURIQg-7QriSOmgQ9d22ue6-E94tnng1P4RQCErg/ts
+#EXTINF:-1 xui-id="72085" tvg-id="" tvg-name="EFL21| No Scheduled Even" tvg-logo="None" group-title="UK | EFL",EFL21| No Scheduled Even
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdwnUs2VslsFXqvJ1emqghPu8A3OvY-l-uGtvmVKnWr1j/ts
+#EXTINF:-1 xui-id="72084" tvg-id="" tvg-name="EFL20| No Scheduled Even" tvg-logo="None" group-title="UK | EFL",EFL20| No Scheduled Even
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd-KajXGXqALEhUXro-8AIiZ9jk4mdddZHywd-bJ8gl1U/ts
+#EXTINF:-1 xui-id="72083" tvg-id="" tvg-name="EFL19| No Scheduled Event" tvg-logo="None" group-title="UK | EFL",EFL19| No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd0Wp-ASVe97Q7Y90VZaEW3HFlKZj1TVUEzHh2bgAqDBW/ts
+#EXTINF:-1 xui-id="72082" tvg-id="" tvg-name="EFL18| No Scheduled Event" tvg-logo="None" group-title="UK | EFL",EFL18| No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd7QtXWECxqRjpaxs-zME6A8c6t8TqqokpySdLOoRhrw4/ts
+#EXTINF:-1 xui-id="72081" tvg-id="" tvg-name="EFL17| No Scheduled Event" tvg-logo="None" group-title="UK | EFL",EFL17| No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdxicccCY_dpqiWhbw92QQY2K4YxSdReGvu6XBfLiRPF7/ts
+#EXTINF:-1 xui-id="72080" tvg-id="" tvg-name="EFL16| No Scheduled Event" tvg-logo="None" group-title="UK | EFL",EFL16| No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd15RjpzhYcAG0g18YIzA5UAcj7YXc_Jckey7ksmP9Ls3/ts
+#EXTINF:-1 xui-id="72079" tvg-id="" tvg-name="EFL15| No Scheduled Event" tvg-logo="None" group-title="UK | EFL",EFL15| No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd-BYvlfvPuVp4lUQUpa6ufshcGRIISWs4xvjI4n3v-hO/ts
+#EXTINF:-1 xui-id="72078" tvg-id="" tvg-name="EFL14?| No Scheduled Event" tvg-logo="None" group-title="UK | EFL",EFL14?| No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd5XCyxGxsKyUH4VahNhwxhuPEmrbgSWKPtY9HSJlX2pJ/ts
+#EXTINF:-1 xui-id="72077" tvg-id="" tvg-name="EFL13?| No Scheduled Event" tvg-logo="None" group-title="UK | EFL",EFL13?| No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd4AKy5oCPv2UMjGxX8wvApZyYeb6Ks1_llxXszd9kXtv/ts
+#EXTINF:-1 xui-id="72076" tvg-id="" tvg-name="EFL12?| No Scheduled Event" tvg-logo="None" group-title="UK | EFL",EFL12?| No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdxE-Mk5BQXLYHtArXdjhTnD9xu9AgfpF2z-dPkV_o5cI/ts
+#EXTINF:-1 xui-id="72075" tvg-id="" tvg-name="EFL11?| No Scheduled Event" tvg-logo="None" group-title="UK | EFL",EFL11?| No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd4FcCmbCNc_vn55Wi0xcHmIdAbYL7h9NxnOg3Ts9IrYL/ts
+#EXTINF:-1 xui-id="72074" tvg-id="" tvg-name="EFL10?| No Scheduled Event" tvg-logo="None" group-title="UK | EFL",EFL10?| No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd45rfbwoWHbi-wbM8itIY5SS6OLWjJqclO9EEljKy9ld/ts
+#EXTINF:-1 xui-id="72073" tvg-id="" tvg-name="EFL09?| No Scheduled Event" tvg-logo="None" group-title="UK | EFL",EFL09?| No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd4xIRF3CGGv6Fsp6jCa9F_Ha86mrwRABZA6EP7QvomTD/ts
+#EXTINF:-1 xui-id="72072" tvg-id="" tvg-name="EFL08?| No Scheduled Event" tvg-logo="None" group-title="UK | EFL",EFL08?| No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd6Bompc-Pm43kpLDy9E58z7j3xux3yqYoJuM5LroyH7g/ts
+#EXTINF:-1 xui-id="72071" tvg-id="" tvg-name="EFL07?| No Scheduled Event" tvg-logo="None" group-title="UK | EFL",EFL07?| No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd7ySpPfjLFDnMwkHeHkzDJmyCws8aO-4N02d-5mdAI2R/ts
+#EXTINF:-1 xui-id="72070" tvg-id="" tvg-name="EFL06?| No Scheduled Event" tvg-logo="None" group-title="UK | EFL",EFL06?| No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd5Tl07GWi5DdSOWXyG6Lj9WlvmmQTMDi9QzQQQSl_PJW/ts
+#EXTINF:-1 xui-id="72069" tvg-id="" tvg-name="EFL05?| No Scheduled Event" tvg-logo="None" group-title="UK | EFL",EFL05?| No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdztI92v0b6YmC36Emo_oUCqgAgE200CVmWb2aWZRiZ75/ts
+#EXTINF:-1 xui-id="72068" tvg-id="" tvg-name="EFL04?| No Scheduled Event" tvg-logo="None" group-title="UK | EFL",EFL04?| No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd6MQAUHnDnPOfzPpsDXYQVacdoASjrm5XYWAUPR3iEZY/ts
+#EXTINF:-1 xui-id="72067" tvg-id="" tvg-name="EFL03?| No Scheduled Event" tvg-logo="None" group-title="UK | EFL",EFL03?| No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdza8YaRmMxwO3n4dC5L0PG0h3q9ZMzEdHujT2P7H8O0Z/ts
+#EXTINF:-1 xui-id="72066" tvg-id="" tvg-name="EFL02?| No Scheduled Event" tvg-logo="None" group-title="UK | EFL",EFL02?| No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd7d3jK4wXlwV-nVnONZ0z_i-2IHxJhAJo7mTQ-Kqwcn0/ts
+#EXTINF:-1 xui-id="72065" tvg-id="" tvg-name="EFL01?| No Scheduled Event" tvg-logo="None" group-title="UK | EFL",EFL01?| No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd5bhbgIZHPfXVevrcqBbK9tGZOihRmg_tqb5o5Pt23WG/ts
+#EXTINF:-1 xui-id="72483" tvg-id="" tvg-name="EPL 05?: No Scheduled Event" tvg-logo="None" group-title="UK | EPL",EPL 05?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdzj6L3hPB1HjxwUuizze3LZJ8xAjp-yI08hY80oOMn-a/ts
+#EXTINF:-1 xui-id="72482" tvg-id="" tvg-name="19 August 2023 17:30" tvg-logo="None" group-title="UK | EPL",19 August 2023 17:30
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdxJj6HonwLCSRv1VpOgZZrD_4qc3jaBSEtHEW91EtwkI/ts
+#EXTINF:-1 xui-id="72481" tvg-id="" tvg-name="EPL 04?: No Scheduled Event" tvg-logo="None" group-title="UK | EPL",EPL 04?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd6LBbsJE2hEotPZmsG1h4KTYbgEyXC1y0V-P1K1rNDhX/ts
+#EXTINF:-1 xui-id="72480" tvg-id="" tvg-name="19 August 2023 15:00" tvg-logo="None" group-title="UK | EPL",19 August 2023 15:00
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd24jHsxz11vEvSkcShZ6Rf5X8qMxBiG_Th42hyaxSBk4/ts
+#EXTINF:-1 xui-id="72479" tvg-id="" tvg-name="26 August 2023 15:00" tvg-logo="None" group-title="UK | EPL",26 August 2023 15:00
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd0TTjFCg1lOR69Y5iXywT__mDIutTyTCA-o0ckKU0OBx/ts
+#EXTINF:-1 xui-id="72478" tvg-id="" tvg-name="EPL 03?: No Scheduled Event" tvg-logo="None" group-title="UK | EPL",EPL 03?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdwV9xBNUTGvd4TBOOV1BjrszjlKJLRO81kLX2kE-QaY8/ts
+#EXTINF:-1 xui-id="72477" tvg-id="" tvg-name="19 August 2023 15:00" tvg-logo="None" group-title="UK | EPL",19 August 2023 15:00
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd-NQOKBVX2KCpIPBMCRXD94uQVn7zlkzBNFf1s80PnhL/ts
+#EXTINF:-1 xui-id="72476" tvg-id="" tvg-name="EPL 02?: No Scheduled Event" tvg-logo="None" group-title="UK | EPL",EPL 02?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd5-mWKsMCH3jaHllbsOVs-AjwOlxamrfKNlxwrA9LgfK/ts
+#EXTINF:-1 xui-id="72475" tvg-id="" tvg-name="EPL 01?: No Scheduled Event" tvg-logo="None" group-title="UK | EPL",EPL 01?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd8fYntuOKr5INiklTnBQjARiN8azVQ_c41UbaKUuU9Hm/ts
+#EXTINF:-1 xui-id="72474" tvg-id="" tvg-name="18 August 2023 19:45" tvg-logo="None" group-title="UK | EPL",18 August 2023 19:45
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd3VNV7mzhQNSwO7FpQVPlNT3lvbphHjS8_uwmd2cCBFX/ts
+#EXTINF:-1 xui-id="72717" tvg-id="" tvg-name="UK: RedBull TV" tvg-logo="https://panel.4kchannels.co.uk:443/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optjFi_tkVq5T3WQWXVzZgUVnKIjVxsba-oOUtchtWnHneF2-8_4257SOKMeQFrKYWRM.png" group-title="UK | Sports TV",UK: RedBull TV
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd9zpiGO0-h7T8wcq960oPD0MOuvkrwGP4Epxim0XIcfo/ts
+#EXTINF:-1 xui-id="72707" tvg-id="" tvg-name="UK: Premier Sports 2" tvg-logo="https://panel.4kchannels.co.uk:443/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optiHwxBUFYxp9g_Kuws55bQ-LRNhrGmDJJ6W22rXKTlKQMgswaZtKfwKj5ELD3ct0fs.png" group-title="UK | Sports TV",UK: Premier Sports 2
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd7CnNi8jxNdIYovMVJZq8A_hseDkvRGd9rLnQ-EjXtyZ/ts
+#EXTINF:-1 xui-id="72706" tvg-id="" tvg-name="UK: Premier Sports 1" tvg-logo="https://panel.4kchannels.co.uk:443/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4opti6ElDO_LNaK4FpzKZgMEDvP2omZAqdplLeW5Km_pW5DdOlniYBhmthP_i7iM3XIWA.png" group-title="UK | Sports TV",UK: Premier Sports 1
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdw7h8HxWz9TXBprlRCL3X7aJ1NwjaEa1JDYtFOsZhdHh/ts
+#EXTINF:-1 xui-id="72692" tvg-id="" tvg-name="UK: Nautical Channel" tvg-logo="https://panel.4kchannels.co.uk:443/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optjphAe7yZh0XjoqRZDf2Pnh50PK-4yEI2mnGEYjbJTV77ElHfIu4m60KPmPaTySrrc.jpg" group-title="UK | Sports TV",UK: Nautical Channel
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd9cgH0vqIx4iY0vjZH1NrU-lJGraSptD2G_rx0D3aDHy/ts
+#EXTINF:-1 xui-id="72686" tvg-id="" tvg-name="UK: MotoRRacing" tvg-logo="https://panel.4kchannels.co.uk:443/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optgIOdMwdCmtkk3z-KL-hrQnwrGEy0yzwPUPMeqShE9dDm5GuQMY1_NuYxvdeajqR-I.png" group-title="UK | Sports TV",UK: MotoRRacing
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd7GcYtze5J5ESZjbqJR1s6IU643veRgBewAuWgDh5L0k/ts
+#EXTINF:-1 xui-id="72677" tvg-id="" tvg-name="UK: LFC TV" tvg-logo="https://panel.4kchannels.co.uk:443/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4opth6UWMSzjRNA0-LlmoQV8UZiNrwRPo3o_SuUWhLdq_btH5xH4c7zGnYUAC83gDtCN0.png" group-title="UK | Sports TV",UK: LFC TV
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd2007sJpfer8salivUrGrAKk7d3GyZfsPmad0gEn1y1d/ts
+#EXTINF:-1 xui-id="72660" tvg-id="" tvg-name="UK: Horse & Country TV" tvg-logo="https://panel.4kchannels.co.uk:443/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optihgnGLwtV7OoagiDamvQjKPiZ_RQM31bvNVFzy3TA_yArkszYmB9GyoXxOFgVJ6c4.png" group-title="UK | Sports TV",UK: Horse & Country TV
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdzuCqFwx5DRljZ_LcjNuVcRReBNafKFzxfBNaeMZQEoK/ts
+#EXTINF:-1 xui-id="72640" tvg-id="" tvg-name="UK: Ginx eSports" tvg-logo="https://panel.4kchannels.co.uk:443/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optjG2s_GmvhAgCktHJag2pWXj6OU1HbxNtyylrytpIqu5WPie9CaeORS9HelQMyaFd8.png" group-title="UK | Sports TV",UK: Ginx eSports
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd6qm7EgEEZBx1YaNBPPJYDw8Yhw182T1cIiTliR8nP5o/ts
+#EXTINF:-1 xui-id="72631" tvg-id="" tvg-name="UK: EUROSPORT 1" tvg-logo="https://panel.4kchannels.co.uk:443/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4opthu_V_bBdjFVTPi-I0MCCgLfWd4lV68ZUA4DHPX_n90AFTBvke6n5ZfqjhdZRRm4zQ.png" group-title="UK | Sports TV",UK: EUROSPORT 1
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd5nrbMjF6j4eODVaPAk2O8Mi8raVhf6TNKqxnowg7P5l/ts
+#EXTINF:-1 xui-id="72628" tvg-id="" tvg-name="UK: Edge Sport" tvg-logo="https://panel.4kchannels.co.uk:443/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optgl1wrfK3h16tWsGVF6nvsB9C9RMcYBVhUQ76lTibOGKw8DlSGoZZWF9XyhJ1RVvJQ.png" group-title="UK | Sports TV",UK: Edge Sport
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd9IX_vjt54DxROEYxxCr3XopMQUUs-7tSo-DqRAczfOY/ts
+#EXTINF:-1 xui-id="72498" tvg-id="" tvg-name="UK: FS2" tvg-logo="https://panel.4kchannels.co.uk:443/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optgaJL_6MUoMjELdtJ_R06ipHIw3tdxRR9MHBfnXw_N0H0TXMWssh10OMKkER7hRfvU.png" group-title="UK | Sports TV",UK: FS2
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd8NmX8yth0FbOuw2Yri5zQnNvw8lnS1uA0wMqCit1epQ/ts
+#EXTINF:-1 xui-id="72260" tvg-id="NBCNN" tvg-name="UK: Eurosport 2" tvg-logo="https://panel.4kchannels.co.uk:443/images/jm8F9gn4Uijqh5Bdep74RwMM1C0ZTAvaTRH-XM647pOawtzKn4iub5CMpJ_k515JfVDSApxYk2ZTZ_cON7Lq1Q.png" group-title="UK | Sports TV",UK: Eurosport 2
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd_c4rjIn3_rLUeCG9bQs3dpzJLM4K80_A-j9Oe-jDfQ-/ts
+#EXTINF:-1 xui-id="11467" tvg-id="RMADH" tvg-name="UK: REAL Madrid" tvg-logo="https://panel.4kchannels.co.uk:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yqQH61RE6uValcZejmc5LM2.png" group-title="UK | Sports TV",UK: REAL Madrid
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd1ahoZ9_eEcwzqMg-_fa__NYAV8vRn-QpKtUZX9YZgAH/ts
+#EXTINF:-1 xui-id="11466" tvg-id="" tvg-name="UK: Celtic TV" tvg-logo="https://panel.4kchannels.co.uk:443/images/vCF-UF7wlvh2UNzzoqOkkFiG5Bjw887vffdKm5xGQtJMPcjRVlfC8l_-ZDChuYbxn4ifW_meVgTCUU1XNcStcw.png" group-title="UK | Sports TV",UK: Celtic TV
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd3gFr8yyktTqMmMKkvGf6Q28h4_ZTVptf4RIdMsmEbhQ/ts
+#EXTINF:-1 xui-id="8450" tvg-id="" tvg-name="UK: WWE PPV" tvg-logo="https://panel.4kchannels.co.uk:443/images/vCF-UF7wlvh2UNzzoqOkkFiG5Bjw887vffdKm5xGQtIVjrptQbFR3AYbawnBGzqmtpEoupLwomsk1pk-44MWZA.png" group-title="UK | Sports TV",UK: WWE PPV
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd2bl7iP8MtF2E2NguzQtLik/ts
+#EXTINF:-1 xui-id="8448" tvg-id="" tvg-name="UK: UFC Fight PASS" tvg-logo="https://panel.4kchannels.co.uk:443/images/vCF-UF7wlvh2UNzzoqOkkFiG5Bjw887vffdKm5xGQtL9SjFgBqshTZUDNYwTaRfX9m_KON9g8mIljFRsvlkpgQ.png" group-title="UK | Sports TV",UK: UFC Fight PASS
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd2q0R9nW-HflurjQHXlM7p4/ts
+#EXTINF:-1 xui-id="8425" tvg-id="" tvg-name="UK: MUTV" tvg-logo="https://panel.4kchannels.co.uk:443/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optjo0A5VUPtzjxdN5BiAABUiTC4btcH4ztKZYYEuzPGEzpvkBYqXFDU4gnE4SQFXyjE.png" group-title="UK | Sports TV",UK: MUTV
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd83ikTXd0IHkRUgX15d6-X0/ts
+#EXTINF:-1 xui-id="8422" tvg-id="" tvg-name="UK: Motors TV" tvg-logo="https://panel.4kchannels.co.uk:443/images/vCF-UF7wlvh2UNzzoqOkkFiG5Bjw887vffdKm5xGQtIN5BvqluDtJ5ZoREkmOzHK3qql3vy10AVj6dKTIg4qew.png" group-title="UK | Sports TV",UK: Motors TV
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdxkHLFNNxcVxD4mAXh1hUMg/ts
+#EXTINF:-1 xui-id="8420" tvg-id="LIGATV" tvg-name="UK: LA LIGA TV" tvg-logo="https://panel.4kchannels.co.uk:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yqgi-a8kw2i5dV43Tbqs5GO7Lk9Vw5lpxQcPiTtNl9uuw.png" group-title="UK | Sports TV",UK: LA LIGA TV
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd8IiARLWMx3zeo9Qejw7kC8/ts
+#EXTINF:-1 xui-id="8419" tvg-id="FREESPO" tvg-name="UK: FREE Sports" tvg-logo="https://panel.4kchannels.co.uk:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yp2wuBO1aCjvS9w5WI74_4Xwk7XfnuUHFztyIfrA_YMqw.png" group-title="UK | Sports TV",UK: FREE Sports
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd7g2L4J_dx-bNTZPBSqKmbo/ts
+#EXTINF:-1 xui-id="8418" tvg-id="FIGHTBH" tvg-name="UK: Fightbox" tvg-logo="https://panel.4kchannels.co.uk:443/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78RMTJeVebMQ33c-oS08nQ8G1y7LB_J_q3stkxw3mYeytg.png" group-title="UK | Sports TV",UK: Fightbox
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdzB6A89S82rMRUne3OacOJ0/ts
+#EXTINF:-1 xui-id="8417" tvg-id="" tvg-name="UK: Live Eurosports 2" tvg-logo="" group-title="UK | Sports TV",UK: Live Eurosports 2
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd_-qgPRSI1H8gzJf7EMOwkk/ts
+#EXTINF:-1 xui-id="8395" tvg-id="BTSPX4H" tvg-name="UK: BT Sport BOX Office PPV" tvg-logo="https://panel.4kchannels.co.uk:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yoEjMfhBqbcQ4U0RVhDStaViM00bgAiNqkXGDM3ZIOJLg.png" group-title="UK | Sports TV",UK: BT Sport BOX Office PPV
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd2ISWPYygy-QWZkgNfckUKo/ts
+#EXTINF:-1 xui-id="8384" tvg-id="BOXNAUK" tvg-name="UK: Trace Sport Stars" tvg-logo="https://panel.4kchannels.co.uk:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yrKCUPsJHSEEEq19EyIpoe7oI2GIutkB5qqu0JncQ2jng.png" group-title="UK | Sports TV",UK: Trace Sport Stars
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdxv9HwAg8s_21L1fTwEqdag/ts
+#EXTINF:-1 xui-id="8382" tvg-id="RACING" tvg-name="UK: Racing TV" tvg-logo="https://panel.4kchannels.co.uk:443/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4opthPzYENo_JDKO6g5eRanplxCBx7_EMxpWVExdNZQctAdfrix1Ktfth35hPjOb0VopA.png" group-title="UK | Sports TV",UK: Racing TV
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd3EYbQdn5iUNxZp09H2IgtQ/ts
+#EXTINF:-1 xui-id="72364" tvg-id="" tvg-name="CHAMP | Birmingham City" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3_cK5TTUpdVObQVv6WUR-wY4FcqHZfZ9zVvc_8FK-w_Eg_MYg3Hg2CDh_EZQqRkUO7uGBidMXEjQO3oCfP-bAYQ.png" group-title="UK | iFollow",CHAMP | Birmingham City
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd30mPEkXQUHQu1XgepRHms4niU9H28g11S7u_zBVQXA1/ts
+#EXTINF:-1 xui-id="72363" tvg-id="" tvg-name="CHAMP | Blackburn Rovers" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuYaHRlpaQ-kxTSpzBjlnAjihjlswbB-8thOR8M9gX9T68qFHnexETIaD0GP75b6lho.png" group-title="UK | iFollow",CHAMP | Blackburn Rovers
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd1j-ydf-Se-OsOOHozFyO8T_r2s77JuzJ02lh8y-htxl/ts
+#EXTINF:-1 xui-id="72362" tvg-id="" tvg-name="CHAMP | Bristol City" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuadDV43x4eTzVjAHbPb2cEzeMRvKVjHTH4KrD_SYt-5KeILROKBrvNDNar_pPxi9KkD36gmFOIDoVZNcjzMJAOq.png" group-title="UK | iFollow",CHAMP | Bristol City
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd1tKDLd2ePTECgVLyv2UyrbL3NUuIloGii0798qIALag/ts
+#EXTINF:-1 xui-id="72361" tvg-id="" tvg-name="CHAMP | Cardiff City" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeub1TBtX5DuVeWL9lMu4bK9BE2tT0mLII60OOhmb7a9w36hL7KlJiGEdvcgboVS0MmU.png" group-title="UK | iFollow",CHAMP | Cardiff City
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd_5JI_gagjl214O6eOgAkbVSml54yMr0DkqYH04jDUjJ/ts
+#EXTINF:-1 xui-id="72360" tvg-id="" tvg-name="CHAMP | Coventry City" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeubovnuIp2-pZC4cgaX4meLXYbUsHIySL_vIJcA5z_htRhVmYDZmjEaeLUXeQCRC8Z8.png" group-title="UK | iFollow",CHAMP | Coventry City
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdwUlofJPL8e4BjjSnhtYGhDFnXH1vsxlsZDLXsUGHBqH/ts
+#EXTINF:-1 xui-id="72359" tvg-id="" tvg-name="CHAMP | Huddersfield Town" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3_cK5TTUpdVObQVv6WUR-wWoGKKfk_IpOrD5GoTaxtCWT-4uwLwn2XR6wshuTsVjcjPo9TKorgbj7A0oinLpiB9cW2ugMQw5bo__Xt6Z2dQQ.png" group-title="UK | iFollow",CHAMP | Huddersfield Town
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd6pXK--xNwrCYaKASNc-6FmckmtO6nuX7UmMzYro05nC/ts
+#EXTINF:-1 xui-id="72358" tvg-id="" tvg-name="CHAMP | Hull City" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuZ7ug7_dSi87Pw3gafmd_I-Q2KnfAVJbBwvyLm7TNcThwslnVVWAUSXUe21eUHznPIEcTCiDAxwqbeQBnahu5WB.png" group-title="UK | iFollow",CHAMP | Hull City
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd_a6WIFXE7TdOlRejYN1ZWCzWBHukyDumjCiEZw_qM6g/ts
+#EXTINF:-1 xui-id="72357" tvg-id="" tvg-name="CHAMP | Luton Town" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuY54Esq8k19yRz5Zoi00c6SbAuNy-ExLeyR_hKqvwlxkbqOf5YsWdRddm90WNmpSrQ.png" group-title="UK | iFollow",CHAMP | Luton Town
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd1dRiuCvCygL8fQmc4lsKp8BZdy0V-FcZ2wQ2J1wwvYf/ts
+#EXTINF:-1 xui-id="72356" tvg-id="" tvg-name="CHAMP | Middlesbrough" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3_cK5TTUpdVObQVv6WUR-wbY6Bs2rMKvXdoNJHhmVkwm77BN-KF7Geq-gKmdlexMubv0ZDYOS1ygkYDWo5ilB7A.png" group-title="UK | iFollow",CHAMP | Middlesbrough
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd8rKHRpYzG9u1-nTj-oeE6mEXDBpeZ5AUSnQp9ayvgaW/ts
+#EXTINF:-1 xui-id="72355" tvg-id="" tvg-name="CHAMP | Milwall" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3_cK5TTUpdVObQVv6WUR-waH9sKTcqzGiWwQp3rTILoxRJf-wcBpna9eK4km29n2GkldBY7EHuqLtVccGbkwbQg.png" group-title="UK | iFollow",CHAMP | Milwall
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd_GWY9EN7Ln3VRVloIqCxyBkZ-wiYopSq2tSYP2hkmuX/ts
+#EXTINF:-1 xui-id="72354" tvg-id="" tvg-name="CHAMP | Norwich City" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3_cK5TTUpdVObQVv6WUR-wbGihpbUvNFLDtTJCPXdQfyCbmhhnV1NYgIxsHKdzT5Mr4RytCXJ9GtLFvAN7k54Sw.png" group-title="UK | iFollow",CHAMP | Norwich City
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd01NU1EMmmispvDaK9SJ7pu5ei8Kq3-Tdkro6v78Dp5i/ts
+#EXTINF:-1 xui-id="72353" tvg-id="" tvg-name="CHAMP | Preston North End" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeublbuJGEiiVmdLa7WDC4TiH6nRCCSXUM7i7t8Ns_GMtGEV7_UevmcrTeJjgVnpS9JI.png" group-title="UK | iFollow",CHAMP | Preston North End
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd1BRGyA1Lr7olhFzdIM3JcUMZysAmQ2M5K9US1A8iGqz/ts
+#EXTINF:-1 xui-id="72352" tvg-id="" tvg-name="CHAMP | Queens Park Rangers" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuZyFH4DI0dn4hU4YSMSsnGuHCyE-YSY1oSweM6jRqOKAlV3B9O7ehXUqzUicr80UJU.png" group-title="UK | iFollow",CHAMP | Queens Park Rangers
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdy7cWzIULDWDt2z3QhxctP2qUdGWBFte5LimpF_V8PWU/ts
+#EXTINF:-1 xui-id="72351" tvg-id="" tvg-name="CHAMP | Rotherham United" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuYaHRlpaQ-kxTSpzBjlnAjip1sK1HIe6HYttvM1SM7taKrW0Ibg1EL5a8zzVkNETSM.png" group-title="UK | iFollow",CHAMP | Rotherham United
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd9zSeHytzjJsOh8T6kOoAp4-E14NC9nPGJ21EyienCHb/ts
+#EXTINF:-1 xui-id="72350" tvg-id="SHEFF" tvg-name="CHAMP | Sheffield United" tvg-logo="https://panel.4kchannels.co.uk:443/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwJyVXSB4uXfLLxBqd_jlUBuBR67LQ3YwAsEVa3sdwFsnA.png" group-title="UK | iFollow",CHAMP | Sheffield United
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd0Gk3A4nYu-fBVx1031nKlNIjOobslO73Eku0lQ-lG2C/ts
+#EXTINF:-1 xui-id="72349" tvg-id="" tvg-name="CHAMP | Stoke City" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuaQ6b6ynY7fPForLKASiJBZjpvm5g9UYyOQsRAiG0ZetGQnA4Khx-zSFQk0fOGh5u7m4rbQyGINfPU0E2ma5-H3.png" group-title="UK | iFollow",CHAMP | Stoke City
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdyQiOszw54LZ-T2JGbxWpMt8bMKAeUQ27zPjxYNmbQbQ/ts
+#EXTINF:-1 xui-id="72348" tvg-id="" tvg-name="CHAMP | Sunderland" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeualu8AKWxI7EsyuDDLoDVJ6fWZKpqRlCqHP4OtY_rKcaP7hHUWm2mD_vlzrkG0Lx9BMs9gVkDjxGJp8fens8tR8.png" group-title="UK | iFollow",CHAMP | Sunderland
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd7jIkPliNYIGRTnPi4LwxgNF-AZ2IDLMjdDi5zMqrWBZ/ts
+#EXTINF:-1 xui-id="72347" tvg-id="" tvg-name="CHAMP | Swansea City" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3_cK5TTUpdVObQVv6WUR-wbM4M8E1yhPRQes9_SA7vz1V524bNHj1k6t453LJbI8wf0ija2Z_TvLDHbGjdvHI5w.png" group-title="UK | iFollow",CHAMP | Swansea City
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd1jP21nP0GGXgJ2exGiyrg6RunXe-qtP9TuQcWepAVDa/ts
+#EXTINF:-1 xui-id="72346" tvg-id="" tvg-name="CHAMP | West Bromwich Albion" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuaC6XcZtp0h_1a_M_ojoOCqiSlvlAIZzVyMhjB9Eh2xFNlS1QgNFq6hepq5M89RhqqxWnkTeTkBGq3V9LpkJVtt.png" group-title="UK | iFollow",CHAMP | West Bromwich Albion
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd-P0327hyapZfN2fVw6pGMlm32tJXBceEIJVJ09mE0rd/ts
+#EXTINF:-1 xui-id="72345" tvg-id="" tvg-name="CHAMP | Watford" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3_cK5TTUpdVObQVv6WUR-wfh1yzs7Rpp9kTc4-E_MrNCIwDgX0h9a5KXgDYeKAUldgjRZLSdjRnIcglNhbofn3g.png" group-title="UK | iFollow",CHAMP | Watford
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd72Qal-koRZaHSlnUsOTe3Dhu8eoNWOPbNGjMe-G2Oou/ts
+#EXTINF:-1 xui-id="72344" tvg-id="" tvg-name="CHAMP | Wigan Athletic" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuYgRPxcShUyUjj9oeOQ950g0yJegB86DN44SPkVAmJAEH42EeWmAM_d5LCmrQYmX4Q.png" group-title="UK | iFollow",CHAMP | Wigan Athletic
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdz3VggqPtcZUfFO87af2kooSszlcc3Ian3ej0LxdK3pD/ts
+#EXTINF:-1 xui-id="72343" tvg-id="" tvg-name="]CHAMP | Leicester city" tvg-logo="" group-title="UK | iFollow",]CHAMP | Leicester city
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd2-4-1QESmZGM5NM9W1sRqYGndLDvnOwdJQxiSQfOhOB/ts
+#EXTINF:-1 xui-id="72342" tvg-id="" tvg-name="CHAMP | Southampton" tvg-logo="" group-title="UK | iFollow",CHAMP | Southampton
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd9OtP9TMxDlW87_rPP8KnvswGnzlzMQ0e_zPxssvdNfg/ts
+#EXTINF:-1 xui-id="72341" tvg-id="" tvg-name="CHAMP |Plymouth Argyle" tvg-logo="" group-title="UK | iFollow",CHAMP |Plymouth Argyle
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdyXmGGO4vbwTRYlM83lr6qWd_B1i7LBhomzabZ5w85Bn/ts
+#EXTINF:-1 xui-id="72340" tvg-id="" tvg-name="CHAMP | Leeds United" tvg-logo="" group-title="UK | iFollow",CHAMP | Leeds United
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd_d9mHn3bI0n2v9C6Rs8UJrqzVW7JKp5rD0D8Wr-PFW3/ts
+#EXTINF:-1 xui-id="72395" tvg-id="" tvg-name="L1 | Barnley" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeubUQT7cgv7jmzjjXjyA-Amv27pS8Ve7yZnG2tDWYJ3kWJ0nL-jrPkTUiQz9nbylZyA.png" group-title="UK | iFollow L1",L1 | Barnley
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd_Vp8wcL3qAuD9pEsDoUu_ouMN6j5tcZAVrK6384Ls6y/ts
+#EXTINF:-1 xui-id="72394" tvg-id="" tvg-name="L1 | Bolton Wanderers" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeubXrT1MWdnmXzWuwr-55Z4a0P02sPDWORsWtosUss_gMoBYui-7Hr-wIJznpKcnA3g.png" group-title="UK | iFollow L1",L1 | Bolton Wanderers
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdy69EhNGewxwuDsLyLgfSO8coUpWI2cotqt55mQECu3W/ts
+#EXTINF:-1 xui-id="72393" tvg-id="" tvg-name="L1 | Bristol Rovers" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeubEk1vfol5WiCaZYx94GWZzu9YhSzwRBlurMkH9x5CMlFT537QWTyB08qfSNnwe7j0.png" group-title="UK | iFollow L1",L1 | Bristol Rovers
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd3mumz1QNBNAWzpY9dnhbKxULq7IvwGSztfCH6SKKszR/ts
+#EXTINF:-1 xui-id="72392" tvg-id="" tvg-name="L1 | Burton Albion" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeua-nh8Qq6JZNBhK6jzJH5LQXSqdEdZ05ABq1k71k9IsnN5dqpRLhMzFB29ZqokwW4A.png" group-title="UK | iFollow L1",L1 | Burton Albion
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd7MZR895Cf9-Q3ne3sKNY1cKF8lmxeXMVGxHlIekJ-1D/ts
+#EXTINF:-1 xui-id="72391" tvg-id="" tvg-name="L1 | Cambridge United" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuZVpzYPPAvqo5n8h9AbiHEKBDeL5yDzFj4zkFiedcXGIfN1fDMZFkO1GvKLQaPqp28.png" group-title="UK | iFollow L1",L1 | Cambridge United
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd4OzWTd9CoFYxzJSBVq9dJxzr7zKYLXftb_q6Vvh13pl/ts
+#EXTINF:-1 xui-id="72390" tvg-id="" tvg-name="L1 | Charlton Athletic" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeubs9s5EBZFddkpjKgbmcksYltovrsPw2oJwiMCDStHBXHIpU1hu0VT-Ve88QamgEqo.png" group-title="UK | iFollow L1",L1 | Charlton Athletic
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd0QSwVG6MeyNo7EK0emBHWy2hOpfpT5IqiqGFZZxLjGF/ts
+#EXTINF:-1 xui-id="72389" tvg-id="" tvg-name="L1 | Cheltenham Town" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuZjtLlVMtAZSaGxHoVIxMqyM2jA7jzWtLSgZCQbACRtV15KNKIJhq1rLC3E64fR7NY.png" group-title="UK | iFollow L1",L1 | Cheltenham Town
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd2qr_OgrbwIEcbQrnOfZQBUdVYW-EJ0uZGQ1jW3H1R6H/ts
+#EXTINF:-1 xui-id="72388" tvg-id="" tvg-name="L1 | Derby County" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZXMDlCx9S6QvK6pRUpTa37_Xuum9pOhTSv9xOTg07xuNKHrio9Wtp0kEUVDiBVwVpUnIond_A8dDzoW_0hdNSyRCXXwDQMNzRGlHvVSt32cO2bn-A4uizrT1BFEgWCXuvsaNu-eV_ixSCzrmHvG3NJ7E_240hT-T6NUnM4V9PXQn.png" group-title="UK | iFollow L1",L1 | Derby County
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd8rvVCKgo0efVC9XsHzIpyM2b8HbF-IXAVL2-s1Pi4Nd/ts
+#EXTINF:-1 xui-id="72387" tvg-id="" tvg-name="L1 | Exeter City" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3nSjM5THu16I7hS_e4N2DtISzFEmTKCQMdxI4vHPke07RUtFTQ7Or29lt95uNf67cu1D70y80RQAUNpgT8CSPHA.png" group-title="UK | iFollow L1",L1 | Exeter City
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd-8cTQS-oOsiBuxIlp7BMZhnkH80qlAob5oM9NLrRAcD/ts
+#EXTINF:-1 xui-id="72386" tvg-id="" tvg-name="L1 | Fleetwood Town" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuZkUnv_i_lWYykVKqN6x26-FoBSQWn1I_B4PnBHD16TYxs2VN4CLSlSNjz2dcoXVJc.png" group-title="UK | iFollow L1",L1 | Fleetwood Town
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdxQPypTxGuft6R9DrMDfTJb8xRHlorT57R5HFmD6yt-a/ts
+#EXTINF:-1 xui-id="72385" tvg-id="" tvg-name="L1 | Forest Green Rovers" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3nSjM5THu16I7hS_e4N2DtJlZZha-fedfZV85-dGJZDpz7LvH60xGMOmLYzpASrGHOyuGIMQVESM4HnAvHmNjgXuDkIADSct6g0z6PNb3rxE.png" group-title="UK | iFollow L1",L1 | Forest Green Rovers
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd25Kik_PtoPGJX6Q9gOV3PAmQTNEjdW0nA1kS2rxmq67/ts
+#EXTINF:-1 xui-id="72384" tvg-id="" tvg-name="L1 | Ipswich Town" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuZ48aPTI7_vugIzFHiemLElacfiCKw56MNkP9bAEgQLYDNupE4nijDK7mu032_pFY4.png" group-title="UK | iFollow L1",L1 | Ipswich Town
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd4y72UT57fjwD0k8Qif6iMPn77Jy2f71RR8X8oufMkzf/ts
+#EXTINF:-1 xui-id="72383" tvg-id="" tvg-name="L1 | Lincoln City" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3vAzpPQbWwa_iZKvMHYtbxrh4ZDyyXpBfV7v28k_ziTsze53xV1E0ClpUWBlfi53cV_Ov4rEaj0tGgSnHGQQXow.png" group-title="UK | iFollow L1",L1 | Lincoln City
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd6ZU6ETTbXX5S8JhmJOcmLkquDLZ7ZVQJ2lbrXX9iWoV/ts
+#EXTINF:-1 xui-id="72382" tvg-id="" tvg-name="L1 | MK Dons" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRIw2noD_cpaakPdJkkR0qQYwa8k1Nu-rATAT0Hc2Bfcvn4IVR-HuWWxLFlziHDN0_E8tPKlKPNWMrMbl0HabC4TB7UANjirG9eIFrmt2bhBE_bbt0wo5QRgYksCZsKRvDlg.png" group-title="UK | iFollow L1",L1 | MK Dons
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd5f-Le8VvqzlqGLkHZi5r9Ko5K4pDqyKrPoJGK4Zzaeq/ts
+#EXTINF:-1 xui-id="72381" tvg-id="" tvg-name="L1 | Morecambe" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMCMnu-Oe0Xkt3GUSC6F2RbQgkgngCjG0Nq8VYAQDM_oHlP6j0eg1vkI5bh7R2HAnDoKalJyVo4hThC47UG1JQf5Z5fN50NKOu8DQP-ztKqvYBqcNX03wmlT7DKGnuaCAvBRLGPkfBNE6YqWaZ_oP3LfUdj1qVVQQ51kuJPPmBY3Y.png" group-title="UK | iFollow L1",L1 | Morecambe
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd8WV3vsZQ1qfxj_s7JMpl-aS8Mvc7gj8S_ZVYg5oWONM/ts
+#EXTINF:-1 xui-id="72380" tvg-id="" tvg-name="L1 | Oxford United" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuY_Nx1zp-4J8HdYNIKrMyYCxHLEzaZg7nbLAuuvP0nblZ4jDDslnT_JZbJ35VsF6tpEFxya88fm7wgEJsKoAgw-cNry_AJqGTSogzi6Ev-4YcB_D8hTT1AhE8uiM5AKOUA.png" group-title="UK | iFollow L1",L1 | Oxford United
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd2vQWV2x4gdohgRL1ZZAakVq4oztaQK1quYKc-ufxvLu/ts
+#EXTINF:-1 xui-id="72379" tvg-id="" tvg-name="L1 | Peterborough United" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeub-4EzHDilXSOjrTNoPYn1oABPvRblefqQzHl9B8O9FEQtdl9dcBmOwNdFBMS0yg4s6ul9Irsnio07sC59WXcbr.png" group-title="UK | iFollow L1",L1 | Peterborough United
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd-MbLW4YjLRo61NWtf_1npifElOI_qpVzoIQAIxogOY8/ts
+#EXTINF:-1 xui-id="72378" tvg-id="" tvg-name="L1 | Plymouth Argyle" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuY54Esq8k19yRz5Zoi00c6SEGrr9fP-7Fp6fYu64LUyzdd7LrDhFpRH5ELAHTy4ios.png" group-title="UK | iFollow L1",L1 | Plymouth Argyle
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd0LXWBIQkfBP50Gg0F9w0r5Ofud-EtIbbU5Fij5kMtjW/ts
+#EXTINF:-1 xui-id="72377" tvg-id="" tvg-name="L1 | Portsmouth" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3vAzpPQbWwa_iZKvMHYtbxv3G4rF1x3UfY1-tylrNmJonC4ZWvZ-wou5pDXyySAKwNRGIF8xpljGo_wDex5kHjQ.png" group-title="UK | iFollow L1",L1 | Portsmouth
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd_w52YmkZK7NVxUR8VMvYm69jF_ZgPiaAqtZoF__IknS/ts
+#EXTINF:-1 xui-id="72376" tvg-id="" tvg-name="L1 | Port Vale" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeubXrT1MWdnmXzWuwr-55Z4a4ibF_ZgcMRZ0TuuXWU60xPJW1NgkrbEBedKKO5Y-JME.png" group-title="UK | iFollow L1",L1 | Port Vale
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd826lweSZ5tja1uqDvBtmADRwYkO5qeRMg6pfyQ4oWkb/ts
+#EXTINF:-1 xui-id="72375" tvg-id="" tvg-name="L1 | Sheffield Wednesday" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeubqCPkM9O5wzRlDMeBqAvHrbTmkKfz8tzxV2esattfHmSKs8jZhWA6BOw8mXB4JNhlmHXyZ4dNV0A-CdTZAlOJU.png" group-title="UK | iFollow L1",L1 | Sheffield Wednesday
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd2NboTIKqBD25MBlU_s_OpYxyr_lEKNyR8-43EpD7Vct/ts
+#EXTINF:-1 xui-id="72374" tvg-id="" tvg-name="L1 | Shrewsbury Town" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuYuRWiivc8OOB-T-75vv2zz0Q-PljVVxdxxDbK2ailj1J4lbM-glCxZMZVFypK-jp0.png" group-title="UK | iFollow L1",L1 | Shrewsbury Town
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdwOpt5olhMoIECOyKpJ_yu5OR2u4DN1GbGtaQkWAtb-k/ts
+#EXTINF:-1 xui-id="72373" tvg-id="" tvg-name="L1 | Wycombe Wanderers" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuZkUnv_i_lWYykVKqN6x26-_3f3VHbJYWcaOA2zVtELkx9KEAy8ZHtQ84E5gVfyNkM.png" group-title="UK | iFollow L1",L1 | Wycombe Wanderers
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdzcLJ_EIBAzi7QnJBOVkqR0A-6-npWY0CVm2HTsrEvdH/ts
+#EXTINF:-1 xui-id="72372" tvg-id="" tvg-name="L1 | Carlisle United" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuYMkXDfArBy9brqLzMTndTTXLJHQy8XcZh09kz00qPnab944R2UmezK0GtJT_uOSKE.png" group-title="UK | iFollow L1",L1 | Carlisle United
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd2hRPnsVHlOt7YkRN49k1fFaWiYY0w4gMlp7Ho3Kc29L/ts
+#EXTINF:-1 xui-id="72371" tvg-id="" tvg-name="L1| Leyton Orient" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3nSjM5THu16I7hS_e4N2DtKbs5zpxCiqU-aHsXM4cPycXopLa8Z1aHiuD8aOnSEImmOsVrrq8xmkntCpSptJyeQ.png" group-title="UK | iFollow L1",L1| Leyton Orient
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd1QqHzZej5AAUQvdTYhv_fl7ODen5KbhQwleY-rI_Du6/ts
+#EXTINF:-1 xui-id="72369" tvg-id="" tvg-name="L1: Reading" tvg-logo="" group-title="UK | iFollow L1",L1: Reading
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd_VkZYUfabAGpfrMDilsxn4vSmjjiBHXcAedpgSKINQY/ts
+#EXTINF:-1 xui-id="72368" tvg-id="" tvg-name="L1:Northampton Town" tvg-logo="" group-title="UK | iFollow L1",L1:Northampton Town
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd2SFxmJv8Hsk0uBjo_lj0ySk_wkHCkQoCVTaNNY79_Ob/ts
+#EXTINF:-1 xui-id="72367" tvg-id="" tvg-name="L1:Blackpool" tvg-logo="" group-title="UK | iFollow L1",L1:Blackpool
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd1t5abYNaRYG2GxuUdycBSC49pYmVnftckhFraJAWZEh/ts
+#EXTINF:-1 xui-id="72366" tvg-id="" tvg-name="L1:Barnsley" tvg-logo="" group-title="UK | iFollow L1",L1:Barnsley
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd-quzVpjdAaTJ6S3RkuibUYu2XIOcAGid1x6ZQXnDn6f/ts
+#EXTINF:-1 xui-id="72365" tvg-id="" tvg-name="L1::Stevenage" tvg-logo="" group-title="UK | iFollow L1",L1::Stevenage
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdxfPNAQvfZ1Iu5DoW2BL90u3vm55Yobd0vEajMR6fpgQ/ts
+#EXTINF:-1 xui-id="72417" tvg-id="" tvg-name="L2 | AFC Wimbledon" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRIw2noD_cpaakPdJkkR0qQYzoPSTOMldaRHkbxVFPkYN60uJzZX8OX2ay_NVEOatJGM4SqklVa5jw4UI6Lpz6y9K7kCssCRTdkAnJnkQuD71U8ldGF9YAsEihx0jGmQf0SA.png" group-title="UK | iFollow L2",L2 | AFC Wimbledon
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd0v1jrDBwb3wqC5yTs7y71NKK4wuoI6a5R9steEYj08Z/ts
+#EXTINF:-1 xui-id="72416" tvg-id="" tvg-name="L2 | Barrow" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3nSjM5THu16I7hS_e4N2DtKr4x2UVZQ1X1rDvjuetAR6h892BMKEzm7pyyolGNLwsnwmqXoxKX5I9l25iTDElM1X_KQcCOLm_HjkMD-fbxRw.png" group-title="UK | iFollow L2",L2 | Barrow
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd2q4MrfG8iAmkgtuT7lYP31gvPckeF5QjXI-_EW_9gud/ts
+#EXTINF:-1 xui-id="72415" tvg-id="" tvg-name="L2 | Bradford City" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuaapuiIkCPwE6qvyGfW4FNEdaQNRQiJKMRjs7KdFMyiRp0E1JZ6V4ro64A3GRTIGNQ.png" group-title="UK | iFollow L2",L2 | Bradford City
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd8mPHMfPNL3rB7t6zJ-3BhZFei53Mb9SnRWjQp2Z8zgy/ts
+#EXTINF:-1 xui-id="72414" tvg-id="" tvg-name="L2 | Colchester United" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuYPs_o9AJqeCM16Dsr-dC_afXsfiVuLrtleGJnQqH1qprG8Zyhgy6LJOFS6EKMHqn0.png" group-title="UK | iFollow L2",L2 | Colchester United
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd81-EMsVK-P2qc5uKt55miotI0A31JcYVxv_-QeFWhVU/ts
+#EXTINF:-1 xui-id="72413" tvg-id="" tvg-name="L2 | Crawley Town" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMQ3JPiPAZfZh4htHEPKqlnadEfFYrIehzg-wpjiFzfoCciI02bODZCKkQOaTR5KT7JMmy_teZ5oTFueROKbuN4a8P6KyvnBwajxBHdMHF97gPxSLvmKkd-1OO6KjMJmXul93V7-gmlN_5ObL4vb0AM0rguzjwd-Q8Ep6TYuve-78.png" group-title="UK | iFollow L2",L2 | Crawley Town
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd36A-TSOqCBqkAL8K2aPncqmcERo1oFH5FJmaguayAhN/ts
+#EXTINF:-1 xui-id="72412" tvg-id="" tvg-name="L2 | Crewe Alexandra" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuYYpGW3RKmRmqV_MnRMB2Y1kGLlQRdqzOxdujC3SSHFXDssE0cqtfzZRLYTujdAU0Q.png" group-title="UK | iFollow L2",L2 | Crewe Alexandra
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd-gO7WGydmn1FRB2AJ0vTEAijXTptxb491xfE9_2Alr2/ts
+#EXTINF:-1 xui-id="72411" tvg-id="" tvg-name="L2 | Doncaster Rovers" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuZkUnv_i_lWYykVKqN6x26-a7z0NGIqBrq5_dJMa4YEIHXhPD4D49Yk2bgqjhrokdE.png" group-title="UK | iFollow L2",L2 | Doncaster Rovers
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdyax8hWt9vCjHPTvYzv3qNvu2KTqjRtBjvNUiE03M6FU/ts
+#EXTINF:-1 xui-id="72410" tvg-id="" tvg-name="L2 | Gillingham" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuadDV43x4eTzVjAHbPb2cEzIga5thmqPg0sWyFwB4bL5CD-GeLXEpNMAmBfy0jTiZ8.png" group-title="UK | iFollow L2",L2 | Gillingham
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd_8jINNT_JLeyAQEdvCZZ9Qy8eASNPOqR7zypgdLL_ae/ts
+#EXTINF:-1 xui-id="72409" tvg-id="" tvg-name="L2 | Grimsby Town" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMQ3JPiPAZfZh4htHEPKqlnadEfFYrIehzg-wpjiFzfoCciI02bODZCKkQOaTR5KT7JMmy_teZ5oTFueROKbuN4YU3qtDFtWKdKWEkvVAOJMTIG0V63AxerB3ecW7EpV7cVXVSFblq2dO_dco9KpoMraJ2mBep68A-RIU1FS95wVg.png" group-title="UK | iFollow L2",L2 | Grimsby Town
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd20VG5d3VzCifdLtLImV-4qjeK6cLk_8EUWlYZnDtU7l/ts
+#EXTINF:-1 xui-id="72408" tvg-id="" tvg-name="L2 | Harrogate Town" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3nSjM5THu16I7hS_e4N2DtBrcBuwphpedFhQa1vXsVWJ4uy6pWpBX8AEi55cTQHtLW01j-PXFuMtMVBgPgr6rvA.png" group-title="UK | iFollow L2",L2 | Harrogate Town
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd2APhh6yDBkXxy2fglkfmlaiGYsvvwG5pOk_RS7_moLE/ts
+#EXTINF:-1 xui-id="72407" tvg-id="" tvg-name="L2 | Hartlepool United" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRIw2noD_cpaakPdJkkR0qQYyAWXaa0tBvyNrKc5WbKiz7HX6uSuLFetfbtrJd-FXBGmT2p-kTQYA5bst1lMJTKPAm03FKM-8p0FuTv1ZtcSH9WaufZO47Uio2gA45P7_ysA.png" group-title="UK | iFollow L2",L2 | Hartlepool United
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd0_Ysomem1wdzB46poc61QdMJdiV3PSWS3b1io5DH00f/ts
+#EXTINF:-1 xui-id="72406" tvg-id="" tvg-name="L2 | Mansfield Town" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuaC6XcZtp0h_1a_M_ojoOCqBo9KdYMw6wKsZRFeKe5rVvX0MUl_Bre9b_7rHDFIb1g.png" group-title="UK | iFollow L2",L2 | Mansfield Town
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd_wXwXw933fyNXTbiOEbRSREt3RYvvHR6kGcjDMGngyV/ts
+#EXTINF:-1 xui-id="72405" tvg-id="" tvg-name="L2 | Newport County" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuadDV43x4eTzVjAHbPb2cEznELGLWcsenZKYdhWk7XX0awcETFdeTvu5tpnJU0nfWg.png" group-title="UK | iFollow L2",L2 | Newport County
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd2OJGAX9jbSM_3HL0L36n-VkbItlbCGCgd1UIYSlR7ge/ts
+#EXTINF:-1 xui-id="72404" tvg-id="" tvg-name="L2 | Salford City" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3nSjM5THu16I7hS_e4N2DtL1jzlovPrhYwTjpVcM9aJMaaKykJ8b161R_TM8SgiqQYU4LrQstBjkxoWix00u_Gw.png" group-title="UK | iFollow L2",L2 | Salford City
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd1aW_Ea6FjhTS3TSz6AaWPxGEnn99djgiE42QtIRiPfo/ts
+#EXTINF:-1 xui-id="72403" tvg-id="" tvg-name="L2 | Stockport County" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3nSjM5THu16I7hS_e4N2DtOxM8U8_DxE85X4oS5WQ3MyeThof5twVIxTARP8n7InXtRaPK0dAP81aRmcucMAUVSa6HlXsUwHy-btsfOgLn-g.png" group-title="UK | iFollow L2",L2 | Stockport County
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdymbo9zmDg1x5teUHQc_3gOKHXUnf00o7NhtvprDRipK/ts
+#EXTINF:-1 xui-id="72402" tvg-id="" tvg-name="L2 | Sutton United" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3nSjM5THu16I7hS_e4N2DtPEcJwuG-LEjMLyzEaLrZ5Qy3bszLAzmWyEbLfr0Uj8xACBpbZdyBejL7lsAQ6nBzg.png" group-title="UK | iFollow L2",L2 | Sutton United
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdzG8Xqd4PFEctnJhWy_Dw7oT2uPm7rlyiR0TyOiLVnJQ/ts
+#EXTINF:-1 xui-id="72401" tvg-id="" tvg-name="L2 | Swindon Town" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuYYpGW3RKmRmqV_MnRMB2Y1pbe4LYvzUJNVFdgNoPe82JobjAVjfKfCmxEMZfI8KNU.png" group-title="UK | iFollow L2",L2 | Swindon Town
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd_Ko9qRONQItdZJJSMRW1TkFTFBMSVuuclMZ3rH7VghM/ts
+#EXTINF:-1 xui-id="72400" tvg-id="" tvg-name="L2 | Tranmere Rovers" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRIw2noD_cpaakPdJkkR0qQYxDfSDPvU7n8oT1Z6Nm6vl6snwCyloo9lzr5KCTgjl6rx0eCH4ZBWiVVcyGoo83qEAvCaVPHE2d7_jxhY23sA2HL0azVM0oAw7TrTY0cM1abQ.png" group-title="UK | iFollow L2",L2 | Tranmere Rovers
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd6EezP7mKgoIAR0sqQaGOhyUeshAMW_XOgu_lMPW2X9p/ts
+#EXTINF:-1 xui-id="72399" tvg-id="" tvg-name="L2 | Walsall" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuZYfQY3ErPHh_wDsKh6qq8ichOHq7WuaIUb-dyDb3OsPArDqR5sznb1i7n7u_DFafA.png" group-title="UK | iFollow L2",L2 | Walsall
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd-xW_1RN2fhED50eL-1hePjfHgzfa8rFieJDeuQRtiBt/ts
+#EXTINF:-1 xui-id="72398" tvg-id="" tvg-name="L 2:Wrexham" tvg-logo="" group-title="UK | iFollow L2",L 2:Wrexham
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd8Wkg4q5eQubwPFYkKb-irRS6tztROLzXMRcLlmFLb2F/ts
+#EXTINF:-1 xui-id="72397" tvg-id="" tvg-name="L2:Accrington Stanley" tvg-logo="" group-title="UK | iFollow L2",L2:Accrington Stanley
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd5p5D-R4EXJ_ou-OQGi-WzIETktZVCkisEe6QQBn6fEt/ts
+#EXTINF:-1 xui-id="72396" tvg-id="" tvg-name="L2:Notts County" tvg-logo="" group-title="UK | iFollow L2",L2:Notts County
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdwSo3j1ZS3LctOlOmgsGxLUm-Z0mAhPoYh4IF6q3DzR4/ts
+#EXTINF:-1 xui-id="72226" tvg-id="" tvg-name="Club Friendly Games | CA Osasuna vs. Deportivo Alaves | Friday, 04 August 2023 10:00" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqX-Lb468gndPNEX-7D-1iiygJM8iIL5NMfhyAw54Ii2dWn36r8EJ8BFjgkTbomJzHeZEsrcE5-qN4CBrI2_rrKzSuM3_Jh-3UIZAs8iDzSjBda0ITmFy9rtZmD-9AyU3b_jl_Fm0TtF2Vj1ciVDzDBAwukFJDin670JJehk21lso.png" group-title="UK | Football Events",Club Friendly Games | CA Osasuna vs. Deportivo Alaves | Friday, 04 August 2023 10:00
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd6P9-eSrGVRK_PDZsPCmlllQrfG8sWHgkMm_1meiJ9rm/ts
+#EXTINF:-1 xui-id="72225" tvg-id="" tvg-name="Chinese Super League | Qingdao Manatee vs. Chengdu Rongcheng | Friday, 04 August 2023 12:35" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqX-Lb468gndPNEX-7D-1iiygJM8iIL5NMfhyAw54Ii2dWn36r8EJ8BFjgkTbomJzHeZEsrcE5-qN4CBrI2_rrKzSuM3_Jh-3UIZAs8iDzSjBda0ITmFy9rtZmD-9AyU3b_jl_Fm0TtF2Vj1ciVDzDBAwukFJDin670JJehk21lso.png" group-title="UK | Football Events",Chinese Super League | Qingdao Manatee vs. Chengdu Rongcheng | Friday, 04 August 2023 12:35
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd0den3fHJp1l4Xyd-IFYuoRUBazN67vGb8_9lgd0BNCV/ts
+#EXTINF:-1 xui-id="72224" tvg-id="" tvg-name="Liga 1 | FC Uta Arad vs. CS Politehnica Iasi | Friday, 04 August 2023 16:30" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqX-Lb468gndPNEX-7D-1iiygJM8iIL5NMfhyAw54Ii2dWn36r8EJ8BFjgkTbomJzHeZEsrcE5-qN4CBrI2_rrKzSuM3_Jh-3UIZAs8iDzSjBda0ITmFy9rtZmD-9AyU3b_jl_Fm0TtF2Vj1ciVDzDBAwukFJDin670JJehk21lso.png" group-title="UK | Football Events",Liga 1 | FC Uta Arad vs. CS Politehnica Iasi | Friday, 04 August 2023 16:30
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd1lA-RK4ZTc46dP9bbXISRB8VpaDL5eUhLy7BgnC5ihA/ts
+#EXTINF:-1 xui-id="72223" tvg-id="" tvg-name="Superliga | FK Radnicki Nis vs. FK TSC Backa Topola | Thursday, 03 August 2023 16:55" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqX-Lb468gndPNEX-7D-1iiygJM8iIL5NMfhyAw54Ii2dWn36r8EJ8BFjgkTbomJzHeZEsrcE5-qN4CBrI2_rrKzSuM3_Jh-3UIZAs8iDzSjBda0ITmFy9rtZmD-9AyU3b_jl_Fm0TtF2Vj1ciVDzDBAwukFJDin670JJehk21lso.png" group-title="UK | Football Events",Superliga | FK Radnicki Nis vs. FK TSC Backa Topola | Thursday, 03 August 2023 16:55
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd89A76C6SIWR-rTb0oCYoDMEUxMoWEDMes-f9E-Yqf9O/ts
+#EXTINF:-1 xui-id="72222" tvg-id="" tvg-name="Football Event 05?: International Clubs, UEFA Europa Conference League, Qualification | FC Urartu Yerevan vs. FC Farul Constanta | Thursday, 03 August 2023 17:00" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqX-Lb468gndPNEX-7D-1iiygJM8iIL5NMfhyAw54Ii2dWn36r8EJ8BFjgkTbomJzHeZEsrcE5-qN4CBrI2_rrKzSuM3_Jh-3UIZAs8iDzSjBda0ITmFy9rtZmD-9AyU3b_jl_Fm0TtF2Vj1ciVDzDBAwukFJDin670JJehk21lso.png" group-title="UK | Football Events",Football Event 05?: International Clubs, UEFA Europa Conference League, Qualification | FC Urartu Yerevan vs. FC Farul Constanta | Thursday, 03 August 2023 17:00
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd6AY35l5HSGyQ0Yt6-w3FTE8lQVhFFKTRfNiGmwe-CDL/ts
+#EXTINF:-1 xui-id="72221" tvg-id="" tvg-name="Football Event 06?: International Clubs, UEFA Europa Conference League, Qualification | MKS Pogon Szczecin vs. Linfield FC | Thursday, 03 August 2023 17:00" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqX-Lb468gndPNEX-7D-1iiygJM8iIL5NMfhyAw54Ii2dWn36r8EJ8BFjgkTbomJzHeZEsrcE5-qN4CBrI2_rrKzSuM3_Jh-3UIZAs8iDzSjBda0ITmFy9rtZmD-9AyU3b_jl_Fm0TtF2Vj1ciVDzDBAwukFJDin670JJehk21lso.png" group-title="UK | Football Events",Football Event 06?: International Clubs, UEFA Europa Conference League, Qualification | MKS Pogon Szczecin vs. Linfield FC | Thursday, 03 August 2023 17:00
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdzV53mAMx16W8bt7myAGhRwJwVlHhDjXXlDe4yR5QDnp/ts
+#EXTINF:-1 xui-id="72220" tvg-id="" tvg-name="Football Event 07?: International Clubs, UEFA Europa Conference League, Qualification | Neftchi Baku PFC vs. FK Zeljeznicar Sarajevo | Thursday, 03 August 2023 18:00" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqX-Lb468gndPNEX-7D-1iiygJM8iIL5NMfhyAw54Ii2dWn36r8EJ8BFjgkTbomJzHeZEsrcE5-qN4CBrI2_rrKzSuM3_Jh-3UIZAs8iDzSjBda0ITmFy9rtZmD-9AyU3b_jl_Fm0TtF2Vj1ciVDzDBAwukFJDin670JJehk21lso.png" group-title="UK | Football Events",Football Event 07?: International Clubs, UEFA Europa Conference League, Qualification | Neftchi Baku PFC vs. FK Zeljeznicar Sarajevo | Thursday, 03 August 2023 18:00
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdwRBazAvdt0v18emqDRFXkR3YuiJU4wU2uOEc2Nua6DY/ts
+#EXTINF:-1 xui-id="72219" tvg-id="" tvg-name="Football Event 08?: International Clubs, UEFA Europa Conference League, Qualification | Riga FC vs. Kecskemeti TE | Thursday, 03 August 2023 18:00" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqX-Lb468gndPNEX-7D-1iiygJM8iIL5NMfhyAw54Ii2dWn36r8EJ8BFjgkTbomJzHeZEsrcE5-qN4CBrI2_rrKzSuM3_Jh-3UIZAs8iDzSjBda0ITmFy9rtZmD-9AyU3b_jl_Fm0TtF2Vj1ciVDzDBAwukFJDin670JJehk21lso.png" group-title="UK | Football Events",Football Event 08?: International Clubs, UEFA Europa Conference League, Qualification | Riga FC vs. Kecskemeti TE | Thursday, 03 August 2023 18:00
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdz-J8K0yuPqac_j_3xnq23_s3MUPSeRL8Ex5qAT9k9Di/ts
+#EXTINF:-1 xui-id="72218" tvg-id="" tvg-name="Football Event 09?: International Clubs, UEFA Europa Conference League, Qualification | ACS Sepsi OSK Sfantu Gheorghe vs. PFC CSKA Sofia | Thursday, 03 August 2023 18:00" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqX-Lb468gndPNEX-7D-1iiygJM8iIL5NMfhyAw54Ii2dWn36r8EJ8BFjgkTbomJzHeZEsrcE5-qN4CBrI2_rrKzSuM3_Jh-3UIZAs8iDzSjBda0ITmFy9rtZmD-9AyU3b_jl_Fm0TtF2Vj1ciVDzDBAwukFJDin670JJehk21lso.png" group-title="UK | Football Events",Football Event 09?: International Clubs, UEFA Europa Conference League, Qualification | ACS Sepsi OSK Sfantu Gheorghe vs. PFC CSKA Sofia | Thursday, 03 August 2023 18:00
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd9-SebXkaHii0_I3KHMT5nT2ICpGPzY3K6-nFM2q_EP9/ts
+#EXTINF:-1 xui-id="72217" tvg-id="" tvg-name="Football Event 10?: International Clubs, UEFA Europa Conference League, Qualification | PFC Levski Sofia vs. Shkupi Cair | Thursday, 03 August 2023 18:00" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqX-Lb468gndPNEX-7D-1iiygJM8iIL5NMfhyAw54Ii2dWn36r8EJ8BFjgkTbomJzHeZEsrcE5-qN4CBrI2_rrKzSuM3_Jh-3UIZAs8iDzSjBda0ITmFy9rtZmD-9AyU3b_jl_Fm0TtF2Vj1ciVDzDBAwukFJDin670JJehk21lso.png" group-title="UK | Football Events",Football Event 10?: International Clubs, UEFA Europa Conference League, Qualification | PFC Levski Sofia vs. Shkupi Cair | Thursday, 03 August 2023 18:00
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdzQ27wckMlsA-KrwZPd-tBUD2XFyqd5RhEwByBNsHd_G/ts
+#EXTINF:-1 xui-id="72216" tvg-id="" tvg-name="Football Event 11?: International Clubs, UEFA Europa Conference League, Qualification | Bohemians vs. Bod?/Glimt | Thursday, 03 August 2023 18:05" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqX-Lb468gndPNEX-7D-1iiygJM8iIL5NMfhyAw54Ii2dWn36r8EJ8BFjgkTbomJzHeZEsrcE5-qN4CBrI2_rrKzSuM3_Jh-3UIZAs8iDzSjBda0ITmFy9rtZmD-9AyU3b_jl_Fm0TtF2Vj1ciVDzDBAwukFJDin670JJehk21lso.png" group-title="UK | Football Events",Football Event 11?: International Clubs, UEFA Europa Conference League, Qualification | Bohemians vs. Bod?/Glimt | Thursday, 03 August 2023 18:05
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdxBsp1P98c2Ybm6RJcBlTpU30bhpazIumuCE5zTFRuB_/ts
+#EXTINF:-1 xui-id="72215" tvg-id="" tvg-name="Football Event 12?: International Clubs, UEFA Europa Conference League, Qualification | Beitar Jerusalem FC vs. PAOK Thessaloniki | Thursday, 03 August 2023 18:30" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqX-Lb468gndPNEX-7D-1iiygJM8iIL5NMfhyAw54Ii2dWn36r8EJ8BFjgkTbomJzHeZEsrcE5-qN4CBrI2_rrKzSuM3_Jh-3UIZAs8iDzSjBda0ITmFy9rtZmD-9AyU3b_jl_Fm0TtF2Vj1ciVDzDBAwukFJDin670JJehk21lso.png" group-title="UK | Football Events",Football Event 12?: International Clubs, UEFA Europa Conference League, Qualification | Beitar Jerusalem FC vs. PAOK Thessaloniki | Thursday, 03 August 2023 18:30
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd29f7ZzFA_E8AJmTTqlt_iZEGLguQvnF0Ksr30LVdqXt/ts
+#EXTINF:-1 xui-id="72214" tvg-id="" tvg-name="Football Event 13?: International Clubs, UEFA Europa Conference League, Qualification | FK Vojvodina Novi Sad vs. APOEL Nikosia | Thursday, 03 August 2023 19:00" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqX-Lb468gndPNEX-7D-1iiygJM8iIL5NMfhyAw54Ii2dWn36r8EJ8BFjgkTbomJzHeZEsrcE5-qN4CBrI2_rrKzSuM3_Jh-3UIZAs8iDzSjBda0ITmFy9rtZmD-9AyU3b_jl_Fm0TtF2Vj1ciVDzDBAwukFJDin670JJehk21lso.png" group-title="UK | Football Events",Football Event 13?: International Clubs, UEFA Europa Conference League, Qualification | FK Vojvodina Novi Sad vs. APOEL Nikosia | Thursday, 03 August 2023 19:00
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd73G-xCHGfYUAz960R5yvWOqtRyRI1u7478CcyiUj74P/ts
+#EXTINF:-1 xui-id="72213" tvg-id="" tvg-name="Football Event 14?: International Clubs, UEFA Europa Conference League, Qualification | KF Drita vs. FC Viktoria Plzen | Thursday, 03 August 2023 19:00" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqX-Lb468gndPNEX-7D-1iiygJM8iIL5NMfhyAw54Ii2dWn36r8EJ8BFjgkTbomJzHeZEsrcE5-qN4CBrI2_rrKzSuM3_Jh-3UIZAs8iDzSjBda0ITmFy9rtZmD-9AyU3b_jl_Fm0TtF2Vj1ciVDzDBAwukFJDin670JJehk21lso.png" group-title="UK | Football Events",Football Event 14?: International Clubs, UEFA Europa Conference League, Qualification | KF Drita vs. FC Viktoria Plzen | Thursday, 03 August 2023 19:00
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdxxib9uGfWp-KGz2oK727K013GG8SXf1b2c-cxfguz5l/ts
+#EXTINF:-1 xui-id="72212" tvg-id="" tvg-name="Football Event 15?: International Clubs, UEFA Europa Conference League, Qualification | KF Tirana vs. Besiktas Istanbul | Thursday, 03 August 2023 19:00" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqX-Lb468gndPNEX-7D-1iiygJM8iIL5NMfhyAw54Ii2dWn36r8EJ8BFjgkTbomJzHeZEsrcE5-qN4CBrI2_rrKzSuM3_Jh-3UIZAs8iDzSjBda0ITmFy9rtZmD-9AyU3b_jl_Fm0TtF2Vj1ciVDzDBAwukFJDin670JJehk21lso.png" group-title="UK | Football Events",Football Event 15?: International Clubs, UEFA Europa Conference League, Qualification | KF Tirana vs. Besiktas Istanbul | Thursday, 03 August 2023 19:00
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd7vGQCwfzdYKsHwZzbMYkeRMAHkvulTJlgqq7Xe3vmX-/ts
+#EXTINF:-1 xui-id="72211" tvg-id="" tvg-name="08 August 2023 19:00" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqX-Lb468gndPNEX-7D-1iiygJM8iIL5NMfhyAw54Ii2dWn36r8EJ8BFjgkTbomJzHeZEsrcE5-qN4CBrI2_rrKzSuM3_Jh-3UIZAs8iDzSjBda0ITmFy9rtZmD-9AyU3b_jl_Fm0TtF2Vj1ciVDzDBAwukFJDin670JJehk21lso.png" group-title="UK | Football Events",08 August 2023 19:00
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd1doj6Iw-le7jFzZB2yDTI0M5qUzOTEvSLeMeI0Hx7PB/ts
+#EXTINF:-1 xui-id="72210" tvg-id="" tvg-name="Football Event 17?: International Clubs, UEFA Europa Conference League, Qualification | AGF Aarhus vs. Club Brugge | Thursday, 03 August 2023 19:00" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqX-Lb468gndPNEX-7D-1iiygJM8iIL5NMfhyAw54Ii2dWn36r8EJ8BFjgkTbomJzHeZEsrcE5-qN4CBrI2_rrKzSuM3_Jh-3UIZAs8iDzSjBda0ITmFy9rtZmD-9AyU3b_jl_Fm0TtF2Vj1ciVDzDBAwukFJDin670JJehk21lso.png" group-title="UK | Football Events",Football Event 17?: International Clubs, UEFA Europa Conference League, Qualification | AGF Aarhus vs. Club Brugge | Thursday, 03 August 2023 19:00
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdzSkIb-9amMelPUC7tuFw2ibhCv1jo9yrlcgiuytsRjO/ts
+#EXTINF:-1 xui-id="72209" tvg-id="" tvg-name="Football Event 18?: International Clubs, UEFA Europa Conference League, Qualification | HNK Rijeka vs. KF Dukagjini | Thursday, 03 August 2023 19:15" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqX-Lb468gndPNEX-7D-1iiygJM8iIL5NMfhyAw54Ii2dWn36r8EJ8BFjgkTbomJzHeZEsrcE5-qN4CBrI2_rrKzSuM3_Jh-3UIZAs8iDzSjBda0ITmFy9rtZmD-9AyU3b_jl_Fm0TtF2Vj1ciVDzDBAwukFJDin670JJehk21lso.png" group-title="UK | Football Events",Football Event 18?: International Clubs, UEFA Europa Conference League, Qualification | HNK Rijeka vs. KF Dukagjini | Thursday, 03 August 2023 19:15
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd-ccUPs8GddoynpHXAWWE_I2xynuASgb9_IhYlU1zyZF/ts
+#EXTINF:-1 xui-id="72208" tvg-id="" tvg-name="Football Event 19?: International Clubs, UEFA Europa Conference League, Qualification | Hibernian FC vs. Inter Club de Escaldes | Thursday, 03 August 2023 19:15" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqX-Lb468gndPNEX-7D-1iiygJM8iIL5NMfhyAw54Ii2dWn36r8EJ8BFjgkTbomJzHeZEsrcE5-qN4CBrI2_rrKzSuM3_Jh-3UIZAs8iDzSjBda0ITmFy9rtZmD-9AyU3b_jl_Fm0TtF2Vj1ciVDzDBAwukFJDin670JJehk21lso.png" group-title="UK | Football Events",Football Event 19?: International Clubs, UEFA Europa Conference League, Qualification | Hibernian FC vs. Inter Club de Escaldes | Thursday, 03 August 2023 19:15
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdz1vIey9E-c5ODDw4-GCuSS9W3hwLwRn0f-V8T5NHhfs/ts
+#EXTINF:-1 xui-id="72207" tvg-id="" tvg-name="Football Event 20?: International Clubs, UEFA Europa Conference League, Qualification | FK Borac Banja Luka vs. FK Austria Wien | Thursday, 03 August 2023 19:30" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqX-Lb468gndPNEX-7D-1iiygJM8iIL5NMfhyAw54Ii2dWn36r8EJ8BFjgkTbomJzHVp0V6I9yqqcuoEaEWRXcYtWyEshmlUctjrJD10LZ7hjxLZJzxK-qGDyAucRxCd_3Rt9C4u5obXDy4n6oPDzmkA8OlMd4ro5jaZx-wkdT5BL.png" group-title="UK | Football Events",Football Event 20?: International Clubs, UEFA Europa Conference League, Qualification | FK Borac Banja Luka vs. FK Austria Wien | Thursday, 03 August 2023 19:30
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd3zuaOVccxN7eRreb4MIEsywFz5kpqe36UWmesF2VLqw/ts
+#EXTINF:-1 xui-id="72206" tvg-id="" tvg-name="Football Event 21?: International Clubs, UEFA Europa Conference League, Qualification | NK Maribor vs. FC Differdange 03 | Thursday, 03 August 2023 19:30" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqX-Lb468gndPNEX-7D-1iiygJM8iIL5NMfhyAw54Ii2dWn36r8EJ8BFjgkTbomJzHVp0V6I9yqqcuoEaEWRXcYtWyEshmlUctjrJD10LZ7hjxLZJzxK-qGDyAucRxCd_3Rt9C4u5obXDy4n6oPDzmkA8OlMd4ro5jaZx-wkdT5BL.png" group-title="UK | Football Events",Football Event 21?: International Clubs, UEFA Europa Conference League, Qualification | NK Maribor vs. FC Differdange 03 | Thursday, 03 August 2023 19:30
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd5cDW3k_hiluTHjcwWmx5Qlj6fIjvOKiY785C3YHMfiH/ts
+#EXTINF:-1 xui-id="72205" tvg-id="" tvg-name="Football Event 22?: International Clubs, UEFA Europa Conference League, Qualification | Fotbal Club FCSB vs. CSKA 1948 | Thursday, 03 August 2023 19:30" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqX-Lb468gndPNEX-7D-1iiygJM8iIL5NMfhyAw54Ii2dWn36r8EJ8BFjgkTbomJzHVp0V6I9yqqcuoEaEWRXcYtWyEshmlUctjrJD10LZ7hjxLZJzxK-qGDyAucRxCd_3Rt9C4u5obXDy4n6oPDzmkA8OlMd4ro5jaZx-wkdT5BL.png" group-title="UK | Football Events",Football Event 22?: International Clubs, UEFA Europa Conference League, Qualification | Fotbal Club FCSB vs. CSKA 1948 | Thursday, 03 August 2023 19:30
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd9MUPy15XNUIIy6-6kkFxhrui2K8H5oJKZCdqtJkP5Ni/ts
+#EXTINF:-1 xui-id="72204" tvg-id="" tvg-name="Club Friendly Games | Benfica Lisbon vs. Olympiacos Piraeus | Thursday, 03 August 2023 19:45" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqX-Lb468gndPNEX-7D-1iiygJM8iIL5NMfhyAw54Ii2dWn36r8EJ8BFjgkTbomJzHVp0V6I9yqqcuoEaEWRXcYtWyEshmlUctjrJD10LZ7hjxLZJzxK-qGDyAucRxCd_3Rt9C4u5obXDy4n6oPDzmkA8OlMd4ro5jaZx-wkdT5BL.png" group-title="UK | Football Events",Club Friendly Games | Benfica Lisbon vs. Olympiacos Piraeus | Thursday, 03 August 2023 19:45
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd9WpknBE442ui3j6qW7-nJsADdvMWBHuv4RhMZYcKv0H/ts
+#EXTINF:-1 xui-id="72203" tvg-id="" tvg-name="Football Event 24?: International Clubs, UEFA Europa Conference League, Qualification | FC Luzern vs. Djurgardens IF | Thursday, 03 August 2023 19:45" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqX-Lb468gndPNEX-7D-1iiygJM8iIL5NMfhyAw54Ii2dWn36r8EJ8BFjgkTbomJzHVp0V6I9yqqcuoEaEWRXcYtWyEshmlUctjrJD10LZ7hjxLZJzxK-qGDyAucRxCd_3Rt9C4u5obXDy4n6oPDzmkA8OlMd4ro5jaZx-wkdT5BL.png" group-title="UK | Football Events",Football Event 24?: International Clubs, UEFA Europa Conference League, Qualification | FC Luzern vs. Djurgardens IF | Thursday, 03 August 2023 19:45
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd6t90De4O9bTW3x9YCRUD5q1iPnKmWoT_F2PN7ZNTzG0/ts
+#EXTINF:-1 xui-id="72202" tvg-id="" tvg-name="Football Event 25?: International Clubs, UEFA Europa Conference League, Qualification | Debreceni VSC vs. FC Alashkert Yerevan | Thursday, 03 August 2023 20:00" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqX-Lb468gndPNEX-7D-1iiygJM8iIL5NMfhyAw54Ii2dWn36r8EJ8BFjgkTbomJzHVp0V6I9yqqcuoEaEWRXcYtWyEshmlUctjrJD10LZ7hjxLZJzxK-qGDyAucRxCd_3Rt9C4u5obXDy4n6oPDzmkA8OlMd4ro5jaZx-wkdT5BL.png" group-title="UK | Football Events",Football Event 25?: International Clubs, UEFA Europa Conference League, Qualification | Debreceni VSC vs. FC Alashkert Yerevan | Thursday, 03 August 2023 20:00
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdxys-Qr0AEbyXvMTFE5KhMuQJuzfcSgi4SiEVbPzQHRx/ts
+#EXTINF:-1 xui-id="72201" tvg-id="" tvg-name="Football Event 26?: International Clubs, UEFA Europa Conference League, Qualification | Shamrock Rovers vs. Ferencvarosi Budapest | Thursday, 03 August 2023 20:00" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqX-Lb468gndPNEX-7D-1iiygJM8iIL5NMfhyAw54Ii2dWn36r8EJ8BFjgkTbomJzHVp0V6I9yqqcuoEaEWRXcYtWyEshmlUctjrJD10LZ7hjxLZJzxK-qGDyAucRxCd_3Rt9C4u5obXDy4n6oPDzmkA8OlMd4ro5jaZx-wkdT5BL.png" group-title="UK | Football Events",Football Event 26?: International Clubs, UEFA Europa Conference League, Qualification | Shamrock Rovers vs. Ferencvarosi Budapest | Thursday, 03 August 2023 20:00
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd4GkxvNtMA945GBCDhZ9-xI9NM3oTyi1ymXLuLNLUHoj/ts
+#EXTINF:-1 xui-id="72200" tvg-id="" tvg-name="Football Event 27?: International Clubs, UEFA Europa Conference League, Qualification | Legia Warszawa vs. FC Ordabasy | Thursday, 03 August 2023 20:00" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqX-Lb468gndPNEX-7D-1iiygJM8iIL5NMfhyAw54Ii2dWn36r8EJ8BFjgkTbomJzHVp0V6I9yqqcuoEaEWRXcYtWyEshmlUctjrJD10LZ7hjxLZJzxK-qGDyAucRxCd_3Rt9C4u5obXDy4n6oPDzmkA8OlMd4ro5jaZx-wkdT5BL.png" group-title="UK | Football Events",Football Event 27?: International Clubs, UEFA Europa Conference League, Qualification | Legia Warszawa vs. FC Ordabasy | Thursday, 03 August 2023 20:00
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd7eazbatRRe4OYU1nGptiVO21TR-J4WE2eVfmEstXwJq/ts
+#EXTINF:-1 xui-id="72199" tvg-id="" tvg-name="Football Events 26" tvg-logo="" group-title="UK | Football Events",Football Events 26
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd2hTj6tIgBoSNLsM2PsP3sdkIxY_XILHOrxog9FMss2j/ts
+#EXTINF:-1 xui-id="72198" tvg-id="" tvg-name="Football Event 01?: Netherlands, Eredivisie, Women | Utrecht vs. Feyenoord | Sunday, 10 September 2023 11:15" tvg-logo="None" group-title="UK | Football Events",Football Event 01?: Netherlands, Eredivisie, Women | Utrecht vs. Feyenoord | Sunday, 10 September 2023 11:15
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd2iwoQZBxGt0RqXsYem3TGPvFrr5Zf0FIzhELFAgGbdy/ts
+#EXTINF:-1 xui-id="72197" tvg-id="" tvg-name="Football National League | FC Yenisey Krasnoyarsk vs. Rodina Moscow | Sunday, 10 September 2023 11:30" tvg-logo="None" group-title="UK | Football Events",Football National League | FC Yenisey Krasnoyarsk vs. Rodina Moscow | Sunday, 10 September 2023 11:30
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd4qtOUjwv7RSykp0iHp6T_mJYgWz-UVvMby_cb3a8Jgk/ts
+#EXTINF:-1 xui-id="72196" tvg-id="" tvg-name="Football Event 03?: International, EURO Qualification, Group H | Kazakhstan vs. Northern Ireland | Sunday, 10 September 2023 14:00" tvg-logo="None" group-title="UK | Football Events",Football Event 03?: International, EURO Qualification, Group H | Kazakhstan vs. Northern Ireland | Sunday, 10 September 2023 14:00
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd7claKLhOTeEzbPhQyccsqmDt1GXXDYHIWZhzpDwLmoV/ts
+#EXTINF:-1 xui-id="72195" tvg-id="" tvg-name="Taca de Portugal | AD Fafe vs. FC Felgueiras 1932 | Sunday, 10 September 2023 14:00" tvg-logo="None" group-title="UK | Football Events",Taca de Portugal | AD Fafe vs. FC Felgueiras 1932 | Sunday, 10 September 2023 14:00
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd-60cXqDJTnswfOM5WkakkNx7YuuvN8wuPorCFHhA3ep/ts
+#EXTINF:-1 xui-id="72194" tvg-id="" tvg-name="Football Event 05?: Sweden, Damallsvenskan, Women | Hammarby IF vs. Djurgaardens IF | Sunday, 10 September 2023 14:00" tvg-logo="None" group-title="UK | Football Events",Football Event 05?: Sweden, Damallsvenskan, Women | Hammarby IF vs. Djurgaardens IF | Sunday, 10 September 2023 14:00
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd-LTOSHhSKlAPzdT8QaeogoOuqLMSKvXbVyRP_-JqHQt/ts
+#EXTINF:-1 xui-id="72193" tvg-id="" tvg-name="2. HNL | HNK Cibalia Vinkovci vs. NK Solin | Sunday, 10 September 2023 15:00" tvg-logo="None" group-title="UK | Football Events",2. HNL | HNK Cibalia Vinkovci vs. NK Solin | Sunday, 10 September 2023 15:00
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd1UqgGBnnE_iqXzTuKCgahpCvlPcZSuc8-BIf_K7IQd6/ts
+#EXTINF:-1 xui-id="72192" tvg-id="" tvg-name="Football Event 07?: Italy, Serie C, Girone A | Giana Erminio vs. Vicenza | Sunday, 10 September 2023 15:15" tvg-logo="None" group-title="UK | Football Events",Football Event 07?: Italy, Serie C, Girone A | Giana Erminio vs. Vicenza | Sunday, 10 September 2023 15:15
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdzceobFIDq-aRNcjcp-_1R1kDHUeK6FEB4mHZSSDqt-f/ts
+#EXTINF:-1 xui-id="72191" tvg-id="" tvg-name="Football Event 08?: Italy, Serie C, Girone A | Virtus Verona vs. Alessandria | Sunday, 10 September 2023 15:15" tvg-logo="None" group-title="UK | Football Events",Football Event 08?: Italy, Serie C, Girone A | Virtus Verona vs. Alessandria | Sunday, 10 September 2023 15:15
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd0SA7pbbFg9dCfeOG8jIR7jqHyJlfR3INtw3rJq-mz79/ts
+#EXTINF:-1 xui-id="72190" tvg-id="" tvg-name="LaLiga 2 | Racing Santander vs. Amorebieta | Sunday, 10 September 2023 15:15" tvg-logo="None" group-title="UK | Football Events",LaLiga 2 | Racing Santander vs. Amorebieta | Sunday, 10 September 2023 15:15
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdyHEVhbM_8ji1ODw4PNBGguyQr6fEB32mo5AeHHwlhHY/ts
+#EXTINF:-1 xui-id="72189" tvg-id="" tvg-name="Ligue 2 | Girondins Bordeaux vs. SM Caen | Saturday, 06 May 2023 14:00" tvg-logo="None" group-title="UK | Football Events",Ligue 2 | Girondins Bordeaux vs. SM Caen | Saturday, 06 May 2023 14:00
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd9Mj6GGvuKIvb9kgo6-7grg-uQWHYLS4FDLcN4H73X2G/ts
+#EXTINF:-1 xui-id="72188" tvg-id="" tvg-name="LaLiga 2 | Racing Ferrol vs. Villarreal B | Sunday, 10 September 2023 15:15" tvg-logo="None" group-title="UK | Football Events",LaLiga 2 | Racing Ferrol vs. Villarreal B | Sunday, 10 September 2023 15:15
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd-HG7fgLs0ypzgmnQdsK3XuXPYth8X1zaMnz2PdIt5Ii/ts
+#EXTINF:-1 xui-id="72187" tvg-id="" tvg-name="Football Event 11?: Scotland, Premier League 1, Women | Heart of Midl. vs. Hibernian LFC | Sunday, 10 September 2023 16:10" tvg-logo="None" group-title="UK | Football Events",Football Event 11?: Scotland, Premier League 1, Women | Heart of Midl. vs. Hibernian LFC | Sunday, 10 September 2023 16:10
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd1r5KOYceUzDiCfx1GqdQnSSoDmJY3eXQC6w1Xr-18WV/ts
+#EXTINF:-1 xui-id="72186" tvg-id="" tvg-name="Taca de Portugal | Anadia FC vs. AD Sanjoanense | Sunday, 10 September 2023 16:30" tvg-logo="None" group-title="UK | Football Events",Taca de Portugal | Anadia FC vs. AD Sanjoanense | Sunday, 10 September 2023 16:30
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdz2gLPdqnhFs93U0qwGnLItkF3PKf-29xDY8EC4e0YnL/ts
+#EXTINF:-1 xui-id="72185" tvg-id="" tvg-name="Football Event 13?: International, EURO Qualification, Group G | Montenegro vs. Bulgaria | Sunday, 10 September 2023 17:00" tvg-logo="None" group-title="UK | Football Events",Football Event 13?: International, EURO Qualification, Group G | Montenegro vs. Bulgaria | Sunday, 10 September 2023 17:00
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd99rGCP5FU3DqEapdhYiyREhhIZU4549Y4Hd4Zv9pwAL/ts
+#EXTINF:-1 xui-id="72184" tvg-id="" tvg-name="Football Event 14?: International, EURO Qualification, Group E | Faroe Islands vs. Moldova | Sunday, 10 September 2023 17:00" tvg-logo="None" group-title="UK | Football Events",Football Event 14?: International, EURO Qualification, Group E | Faroe Islands vs. Moldova | Sunday, 10 September 2023 17:00
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd42-RQ8SOfbknDfwQDykPXcg4Hrr5M3vVOvlPne0T1pl/ts
+#EXTINF:-1 xui-id="72183" tvg-id="" tvg-name="Football Event 15?: International, EURO Qualification, Group H | Finland vs. Denmark | Sunday, 10 September 2023 17:00" tvg-logo="None" group-title="UK | Football Events",Football Event 15?: International, EURO Qualification, Group H | Finland vs. Denmark | Sunday, 10 September 2023 17:00
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd_7Zv4QPPGEEM5QjzHr6zBbrg7XhU8EPYKr8o8hW5oYL/ts
+#EXTINF:-1 xui-id="72182" tvg-id="" tvg-name="Internat. Friendly | Hungary vs. Czech Republic | Sunday, 10 September 2023 17:00" tvg-logo="None" group-title="UK | Football Events",Internat. Friendly | Hungary vs. Czech Republic | Sunday, 10 September 2023 17:00
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd8i3AbjZWkUNsqTfK_AArCUrtzE8wSeEAzBYAMU7A_BM/ts
+#EXTINF:-1 xui-id="72181" tvg-id="" tvg-name="10 September 2023 17:00 tvg-logo=None group-title=UK VIP | FOOTBALL EVENTS,Football Event 17?: International, Africa Cup of Nations, Qualification, Group A | Nigeria vs. Mauritius | Sunday, 10 September 2023 17:00" tvg-logo="None" group-title="UK | Football Events",10 September 2023 17:00 tvg-logo=None group-title=UK VIP | FOOTBALL EVENTS,Football Event 17?: International, Africa Cup of Nations, Qualification, Group A | Nigeria vs. Mauritius | Sunday, 10 September 2023 17:00
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd-5MIPysZsd3DhNXLw6vyQYJUgmUOYDkslyUk9TtyRiy/ts
+#EXTINF:-1 xui-id="72180" tvg-id="" tvg-name="Football Event 18?: Italy, Serie C, Girone A | Renate vs. Pro Vercelli | Sunday, 10 September 2023 17:30" tvg-logo="None" group-title="UK | Football Events",Football Event 18?: Italy, Serie C, Girone A | Renate vs. Pro Vercelli | Sunday, 10 September 2023 17:30
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd9m2Zawh1SFiZ_Y0Fjj8BaJs5DBjWhjTO1KbN-n6Wnan/ts
+#EXTINF:-1 xui-id="72179" tvg-id="" tvg-name="Football Event 19?: Italy, Serie C, Girone A | Trento vs. Atalanta U-23 | Sunday, 10 September 2023 17:30" tvg-logo="None" group-title="UK | Football Events",Football Event 19?: Italy, Serie C, Girone A | Trento vs. Atalanta U-23 | Sunday, 10 September 2023 17:30
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd-_bXNd3Iukk5UfyFvI7VzyKoa1LYZsRYl_SDYv_FQBc/ts
+#EXTINF:-1 xui-id="72178" tvg-id="" tvg-name="Football Event 20?: Italy, Serie C, Girone A | Novara vs. Pro Patria | Sunday, 10 September 2023 17:30" tvg-logo="None" group-title="UK | Football Events",Football Event 20?: Italy, Serie C, Girone A | Novara vs. Pro Patria | Sunday, 10 September 2023 17:30
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd_zoeFO2hLfjK3Rona8xSpCMxPpm4cR0VfHeua686W73/ts
+#EXTINF:-1 xui-id="72177" tvg-id="" tvg-name="LaLiga 2 | Mirand?s vs. FC Andorra | Sunday, 10 September 2023 17:30" tvg-logo="None" group-title="UK | Football Events",LaLiga 2 | Mirand?s vs. FC Andorra | Sunday, 10 September 2023 17:30
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd8FgwH_T6MMeMWVAysWkpOmGMMFiuyk9lix6vbZf-pfv/ts
+#EXTINF:-1 xui-id="72176" tvg-id="" tvg-name="LaLiga 2 | FC Cartagena vs. Real Zaragoza | Sunday, 10 September 2023 17:30" tvg-logo="None" group-title="UK | Football Events",LaLiga 2 | FC Cartagena vs. Real Zaragoza | Sunday, 10 September 2023 17:30
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd5JTs40Q7yrqhTI7i5wgZCNH-x88VrR9m48iuOkLSiwb/ts
+#EXTINF:-1 xui-id="72175" tvg-id="" tvg-name="Primera Division Femenina | Villarreal CF vs. Atl. Madrid | Sunday, 10 September 2023 18:00" tvg-logo="None" group-title="UK | Football Events",Primera Division Femenina | Villarreal CF vs. Atl. Madrid | Sunday, 10 September 2023 18:00
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd9CL3rzU0pOM5HUfanGnLXdB5lRvGeG873pTeXL0qqNp/ts
+#EXTINF:-1 xui-id="72174" tvg-id="" tvg-name="Football Event 24?: International, EURO Qualification, Group E | Albania vs. Poland | Sunday, 10 September 2023 19:45" tvg-logo="None" group-title="UK | Football Events",Football Event 24?: International, EURO Qualification, Group E | Albania vs. Poland | Sunday, 10 September 2023 19:45
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd9ZEcbjgd-04rNU6VxVBp1YxrGhQqjtKErPi8-ptH5Zq/ts
+#EXTINF:-1 xui-id="72173" tvg-id="" tvg-name="Football Event 25?: International, EURO Qualification, Group B | Greece vs. Gibraltar | Sunday, 10 September 2023 19:45" tvg-logo="None" group-title="UK | Football Events",Football Event 25?: International, EURO Qualification, Group B | Greece vs. Gibraltar | Sunday, 10 September 2023 19:45
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd_pahYI5txSrj0ZrZDoQY3l5EWbOJzFBbcFAP9YZy9bX/ts
+#EXTINF:-1 xui-id="72172" tvg-id="" tvg-name="Football Event 26?: International, EURO Qualification, Group B | Ireland vs. Netherlands | Sunday, 10 September 2023 19:45" tvg-logo="None" group-title="UK | Football Events",Football Event 26?: International, EURO Qualification, Group B | Ireland vs. Netherlands | Sunday, 10 September 2023 19:45
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd2tCzOkj-iz2qX07SDjzToIOU9T17kmqzFV6fhK2tD0T/ts
+#EXTINF:-1 xui-id="72171" tvg-id="" tvg-name="Football Event 27?: International, EURO Qualification, Group G | Lithuania vs. Serbia | Sunday, 10 September 2023 19:45" tvg-logo="None" group-title="UK | Football Events",Football Event 27?: International, EURO Qualification, Group G | Lithuania vs. Serbia | Sunday, 10 September 2023 19:45
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd3RhCINlCTbLQhE9eTmPrTENEqBJXgrG2UDnn6VNJxFx/ts
+#EXTINF:-1 xui-id="72170" tvg-id="" tvg-name="Football Event 29?: Italy, Serie C, Girone C | Monopoli vs. Monterosi Tuscia | Sunday, 10 September 2023 19:45" tvg-logo="None" group-title="UK | Football Events",Football Event 29?: Italy, Serie C, Girone C | Monopoli vs. Monterosi Tuscia | Sunday, 10 September 2023 19:45
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd6vmdz83AS2ONRpzSAoeV7ZtZLpis5az5P3ZD_keilcM/ts
+#EXTINF:-1 xui-id="72169" tvg-id="" tvg-name="Football Event 30?: Italy, Serie C, Girone C | Brindisi vs. Catania | Sunday, 10 September 2023 19:45" tvg-logo="None" group-title="UK | Football Events",Football Event 30?: Italy, Serie C, Girone C | Brindisi vs. Catania | Sunday, 10 September 2023 19:45
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd6OOE21-TOWDkXh_cM_zI6CrDhiRqR85monvpR7QQ6Zh/ts
+#EXTINF:-1 xui-id="72168" tvg-id="" tvg-name="Football Event 31?: Italy, Serie C, Girone C | Perugia vs. Pescara | Sunday, 10 September 2023 19:45" tvg-logo="None" group-title="UK | Football Events",Football Event 31?: Italy, Serie C, Girone C | Perugia vs. Pescara | Sunday, 10 September 2023 19:45
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdymiLVSk8dltU7YY9zvG6B_rEaWSIZ3Bc3qXHFcbMmP8/ts
+#EXTINF:-1 xui-id="72167" tvg-id="" tvg-name="LaLiga 2 | Real Valladolid vs. Elche CF | Sunday, 10 September 2023 20:00" tvg-logo="None" group-title="UK | Football Events",LaLiga 2 | Real Valladolid vs. Elche CF | Sunday, 10 September 2023 20:00
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd_HZdbJBepGA9R74qn0DdBRYvvhQhKJI4cFD2Cu9XYLe/ts
+#EXTINF:-1 xui-id="72166" tvg-id="" tvg-name="10 September 2023 20:00 tvg-logo=None group-title=UK VIP | FOOTBALL EVENTS,Football Event 33?: International, Africa Cup of Nations, Qualification, Group G | Gambia vs. Congo | Sunday, 10 September 2023 20:00" tvg-logo="None" group-title="UK | Football Events",10 September 2023 20:00 tvg-logo=None group-title=UK VIP | FOOTBALL EVENTS,Football Event 33?: International, Africa Cup of Nations, Qualification, Group G | Gambia vs. Congo | Sunday, 10 September 2023 20:00
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd_T2pgzHTyE_KgIhM1H3ksbELL9ef0_HAJxxjtAMLkZR/ts
+#EXTINF:-1 xui-id="72165" tvg-id="" tvg-name="Football Event 34?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 34?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd-tXZPKsv6HRZA5d-wBur4-l5U9UC0Dusa73tvrvx2y-/ts
+#EXTINF:-1 xui-id="72164" tvg-id="" tvg-name="Football Event 35?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 35?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdxIxraFqR9-ZAWvK7u9wf8SP1XTcCY5aVRrewkSEHGhy/ts
+#EXTINF:-1 xui-id="72163" tvg-id="" tvg-name="Football Event 36?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 36?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd5OpdqsjtVlkX7IFqlfJh18dfVd6xt3BTVfiG4zQmJGH/ts
+#EXTINF:-1 xui-id="72162" tvg-id="" tvg-name="Football Event 37?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 37?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdyFre7mPPQ9gIw8DENvbrmUFWWpkGUIzL9fv3060eZ7A/ts
+#EXTINF:-1 xui-id="72161" tvg-id="" tvg-name="Football Event 38?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 38?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd0Ntt3rdLzqIAT6Jq4k7NNspKxaXboSrLl2w6HlX8pRl/ts
+#EXTINF:-1 xui-id="72160" tvg-id="" tvg-name="Football Event 39?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 39?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd3L-IlVG4y0uHVVIZSZxOkEQMXoTNlEftyyx5RT9M-Cd/ts
+#EXTINF:-1 xui-id="72159" tvg-id="" tvg-name="Football Event 40?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 40?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd8Hpn3DnE5h51dDI0nhu8mBluh8BSB5kcFO_wFYahkbJ/ts
+#EXTINF:-1 xui-id="72158" tvg-id="" tvg-name="Football Event 41?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 41?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd-A6J2PFZ0USSRgLY7qVjdfN0cWGHtw_a3S4tbFBTEye/ts
+#EXTINF:-1 xui-id="72157" tvg-id="" tvg-name="Football Event 42?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 42?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd9-6R0plaADqUE5jwOGMgNg6odPpdcYAiccz-u6PzYD5/ts
+#EXTINF:-1 xui-id="72156" tvg-id="" tvg-name="Football Event 43?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 43?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd7lHwfHATMVk6OiFgb9oT4z_34mV741HPkZaQITHCLWx/ts
+#EXTINF:-1 xui-id="72155" tvg-id="" tvg-name="Football Event 44?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 44?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdyziTEccQGE0IOhjG6gFbsDzC_nyo_sBj9RYXhsykbWE/ts
+#EXTINF:-1 xui-id="72154" tvg-id="" tvg-name="Football Event 45?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 45?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd5LzhzbthU30G8OMLGMklJxv9uOIiS1BY8o20wgVKh5k/ts
+#EXTINF:-1 xui-id="72153" tvg-id="" tvg-name="Football Event 46?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 46?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd5YzTt_2s0r5morbwMZnTRBGf3AEAXlTaseNeKACbs4G/ts
+#EXTINF:-1 xui-id="72152" tvg-id="" tvg-name="Football Event 47?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 47?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd24LZuRSQCjS4qGgzQCf5gerAxFgxoKfFS78p4FXgkNC/ts
+#EXTINF:-1 xui-id="72151" tvg-id="" tvg-name="Football Event 48?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 48?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdyI206wu7FNdKK4U46skYQ46GyF19FVaDUpV1WkO0Nvw/ts
+#EXTINF:-1 xui-id="72150" tvg-id="" tvg-name="Football Event 49?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 49?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdxTtI4XqougxR0dPXrXCC-Y1XFaRdJHHfveAP6DW2CtX/ts
+#EXTINF:-1 xui-id="72149" tvg-id="" tvg-name="Football Event 50?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 50?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdzZuDPJJyTWdTRp0HRx3P9OVndXq5PoBGT1Aq00G7Bzm/ts
+#EXTINF:-1 xui-id="72148" tvg-id="" tvg-name="Football Event 51?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 51?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd_7IDRHyJFGKI70rNzkHwMn95hAYgNJJrsWXEx31VMjY/ts
+#EXTINF:-1 xui-id="72147" tvg-id="" tvg-name="Football Event 52?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 52?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdymb-8if6p5bzF_aATbdXvF1NyvRdvL0wASAcXEB-kfq/ts
+#EXTINF:-1 xui-id="72146" tvg-id="" tvg-name="Football Event 53?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 53?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd3cE2p4wxz3U37Hg5LYmaKYDc_x9eqjItuT39e5_DNIH/ts
+#EXTINF:-1 xui-id="72145" tvg-id="" tvg-name="Football Event 54?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 54?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd8fiRMCao7V1R73nqL2v7e6-ZBmVEmBaJfDEsU2cz8aL/ts
+#EXTINF:-1 xui-id="72144" tvg-id="" tvg-name="Football Event 55?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 55?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd3pzW2QjjCJY7-snzzgnxVtk3n0M01ZDnHe07ETFVQ1r/ts
+#EXTINF:-1 xui-id="72143" tvg-id="" tvg-name="Football Event 56?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 56?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd8Mw0j7tVx91GzpwB2o_L7u9OQgl89tmF95GKNHP4Bit/ts
+#EXTINF:-1 xui-id="72142" tvg-id="" tvg-name="Football Event 57?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 57?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdzcNs7EYMy9gMZWUV6CL71bHgOjelDFrYKDgTBlmiFcB/ts
+#EXTINF:-1 xui-id="72141" tvg-id="" tvg-name="Football Event 58?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 58?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdx9Bs-5uyhi5QNvcPmzHT4RcR9pyoawkhQHYtg3DA5WB/ts
+#EXTINF:-1 xui-id="72140" tvg-id="" tvg-name="Football Event 59?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 59?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd9s570V4SlGXJzjOIzeFB-blADQsD3ZXMEY4u8T-Q_oR/ts
+#EXTINF:-1 xui-id="72139" tvg-id="" tvg-name="Football Event 60?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 60?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd7zBfF03FZvx8UWKEKWaT9nm9fjPG_Rg_oPm8OKNP2aH/ts
+#EXTINF:-1 xui-id="72138" tvg-id="" tvg-name="Football Event 61?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 61?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdxqsU5oCkmAdZ66FxsoZA7qE-kzggT38HJXqYAtLIB2s/ts
+#EXTINF:-1 xui-id="72137" tvg-id="" tvg-name="Football Event 62?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 62?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd9t9VjmmicFGzQpxiJdzt9yHQ9abbq_mZscAI-NLzRkC/ts
+#EXTINF:-1 xui-id="72136" tvg-id="" tvg-name="Football Event 63?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 63?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd17f_1seGuGf4COf_coQc3isL5b9sMBdLAdEz-mb9F7_/ts
+#EXTINF:-1 xui-id="72135" tvg-id="" tvg-name="Football Event 64?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 64?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd2YqOyng1h4rrdpC1B0o2iegj-igXjwCg_XNNDJz32JL/ts
+#EXTINF:-1 xui-id="72134" tvg-id="" tvg-name="Football Event 65?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 65?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd-s7QJ0plTqGyfm02JiGL7GyE1MfkrIHa8gCBHqrzjVi/ts
+#EXTINF:-1 xui-id="72133" tvg-id="" tvg-name="Football Event 66?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 66?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd9bZef_leBTzW-vcbaTkozMIFe-6uedmZXelVdvVMdoA/ts
+#EXTINF:-1 xui-id="72132" tvg-id="" tvg-name="Football Event 67?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 67?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd4NIrhbwyzrEgPVCGEk-w2RGJYSAhrg5gK3rQ5ZUNkEf/ts
+#EXTINF:-1 xui-id="72131" tvg-id="" tvg-name="Football Event 68?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 68?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd4RrWYDriI9DNHxonN-rhx2YcBn-LWLrWh7wE00ViDMC/ts
+#EXTINF:-1 xui-id="72130" tvg-id="" tvg-name="Football Event 69?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 69?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdwleUKsgWQj8ufprbpnNKJ6NUSAsShPGIFHOVnMwHFvy/ts
+#EXTINF:-1 xui-id="72129" tvg-id="" tvg-name="Football Event 70?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 70?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd7F7-KHDrqp-cgPG82VflPwZcoHxoqFPievwAfgIYU0M/ts
+#EXTINF:-1 xui-id="72128" tvg-id="" tvg-name="Football Event 71?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 71?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd5I2mNulDudXUikpiSbuvEdb4n5Nl7OWKPnaalITwbIY/ts
+#EXTINF:-1 xui-id="72127" tvg-id="" tvg-name="Football Event 72?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 72?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdybc5WOkAHRv-6QOedUOyFuiHBhwWLTku7qAQhK9se5m/ts
+#EXTINF:-1 xui-id="72126" tvg-id="" tvg-name="Football Event 73?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 73?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdyyFtbAWpzc3CS1M89XjeeKS0hfqfuHd4ayCeDNuhlIi/ts
+#EXTINF:-1 xui-id="72125" tvg-id="" tvg-name="Football Event 74?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 74?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd24OehtQnXGHfLVmLqIG7Y5Q4iEWII82txU6_1SZQHTW/ts
+#EXTINF:-1 xui-id="72124" tvg-id="" tvg-name="Football Event 75?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 75?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd5m7X96DJvjhmRbEmDv_Nbg-lDVkjNPT49RUwfTIKIrb/ts
+#EXTINF:-1 xui-id="72123" tvg-id="" tvg-name="Football Event 76?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 76?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd-1SfPixnPflwrcm0yl4B0Cx7GVRERr6vDHuqf4RBMRo/ts
+#EXTINF:-1 xui-id="72122" tvg-id="" tvg-name="Football Event 77?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 77?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd7sSg766vll9ySDVtAfK13HXNB5jgSx0QQT8RwAwi6h9/ts
+#EXTINF:-1 xui-id="72121" tvg-id="" tvg-name="Football Event 78?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 78?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdxGaAmYVVrnlWfLTpZnn65hzD6LwIVW5FlZ1Yz3M3iUD/ts
+#EXTINF:-1 xui-id="72120" tvg-id="" tvg-name="Football Event 79?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 79?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd3lNEgRRp8RENQ6IUv0E33KAB5ll_3c_eWVGlHx5AfiP/ts
+#EXTINF:-1 xui-id="72119" tvg-id="" tvg-name="Football Event 80?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 80?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd5EzPD7V8-Lri5KDuFiTeMoC0Rq_8zxHqFsId8S4BF5g/ts
+#EXTINF:-1 xui-id="72118" tvg-id="" tvg-name="Football Event 81?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 81?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd5dgo-odJAo0RXYXRX_62TcNWybuYKJz5XTRSTaGXutS/ts
+#EXTINF:-1 xui-id="72117" tvg-id="" tvg-name="Football Event 82?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 82?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdyLicy7Ogfm4oDCxAq6f9VoYx93x4G41Qmna0y3hKXGy/ts
+#EXTINF:-1 xui-id="72116" tvg-id="" tvg-name="Football Event 83?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 83?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd9gWqqNYOyxGR8nftMLhy8U8OVNf4nBrkmQNF7gqvKUJ/ts
+#EXTINF:-1 xui-id="72115" tvg-id="" tvg-name="Football Event 84?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 84?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd70drzrJER6bhMydoi9z6MhNEhL8vAOiBr6BWYEGScYQ/ts
+#EXTINF:-1 xui-id="72114" tvg-id="" tvg-name="Football Event 85?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 85?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd5bqLxErRSmMeolsIB31duX0BAxzjD75gBxCx413wsd-/ts
+#EXTINF:-1 xui-id="72113" tvg-id="" tvg-name="Football Event 86?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 86?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd8pbShttD2nBY_tGEGuQQBRTlYqN8jgpDdgNj49Uf6J1/ts
+#EXTINF:-1 xui-id="72112" tvg-id="" tvg-name="Football Event 87?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 87?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd9SHT2WZQ0xBC5nkTaDBtvxlBTkRjigK_a8MlTcwFNwj/ts
+#EXTINF:-1 xui-id="72111" tvg-id="" tvg-name="Football Event 88?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 88?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd6YepHbgGoLUQYMblfxT3SEk8dHrFjRf9csq0gvyosbt/ts
+#EXTINF:-1 xui-id="72110" tvg-id="" tvg-name="Football Event 89?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 89?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd5uK68z6NL19kkUuuy7YWZbZFKrLo14s0kNHC2oL3V7U/ts
+#EXTINF:-1 xui-id="72109" tvg-id="" tvg-name="Football Event 90?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 90?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd8W83XRkujCNimjZ7Q0rS0CSW8jQavoCEv6NBPBgFsaG/ts
+#EXTINF:-1 xui-id="72108" tvg-id="" tvg-name="Football Event 91?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 91?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd4PE9NQJ0KNnI0K7ES9V8UIWZsRoak_ziQUffqB2fTn3/ts
+#EXTINF:-1 xui-id="72107" tvg-id="" tvg-name="Football Event 92?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 92?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd3stIXkFE7rvzYIaOXvR4mrO_VzX9oH2kcCtOey3eCDI/ts
+#EXTINF:-1 xui-id="72106" tvg-id="" tvg-name="Football Event 93?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 93?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd2Qb1-4S7La7e7zdB00YpXEKqBtfROX8hVbCssMsxg7q/ts
+#EXTINF:-1 xui-id="72105" tvg-id="" tvg-name="Football Event 94?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 94?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd2xUCEz5DLhAFnrLe2hQumf5u2vTyGJHACiMU5wOKmk7/ts
+#EXTINF:-1 xui-id="72104" tvg-id="" tvg-name="Football Event 95?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 95?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd-tgplN34xI9IOC6H7zfz-XyrU6OYsMDUuIFe6-CKOYN/ts
+#EXTINF:-1 xui-id="72103" tvg-id="" tvg-name="Football Event 96?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 96?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd8oZiQIjQlEaHTEQkQha9e5pU4v6CkVUEq2lxc_4AH51/ts
+#EXTINF:-1 xui-id="72102" tvg-id="" tvg-name="Football Event 97?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 97?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd8nkznH1ImD6t5UCCAuksyiEo1O80MpRx6-u2VQuegTe/ts
+#EXTINF:-1 xui-id="72101" tvg-id="" tvg-name="Football Event 98?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 98?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd7UH-xXl68grCH68ZdhH4jjcIjznOPEYlC3whIPuGbwA/ts
+#EXTINF:-1 xui-id="72100" tvg-id="" tvg-name="Football Event 99?: No Scheduled Event" tvg-logo="None" group-title="UK | Football Events",Football Event 99?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdwwQ0mw2dQYeOE9j-qJIMJY-WTMNOIfMuNdT4hsVJXeE/ts
+#EXTINF:-1 xui-id="72047" tvg-id="" tvg-name="EVENTS 99  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 99  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdxdFV3iUrOPzyHcFGoaXv1iCWKFs8Dsla9uZCd-IFrzW/ts
+#EXTINF:-1 xui-id="72046" tvg-id="" tvg-name="EVENTS 98  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 98  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd_cThm-T0qOL_gFa-jOMgeXTNnM5ScyUCr4OfUT6FXNR/ts
+#EXTINF:-1 xui-id="72045" tvg-id="" tvg-name="EVENTS 97  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 97  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdxKmMiZEhECLjZubDLjaWZ6r4nXdZ-z3FrO35XtU04i7/ts
+#EXTINF:-1 xui-id="72044" tvg-id="" tvg-name="EVENTS 96  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 96  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd6V8CwhbSP4W8mvxJJhOSPsHjIZuuHO8GGIL5Sj8Rabm/ts
+#EXTINF:-1 xui-id="72043" tvg-id="" tvg-name="EVENTS 95  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 95  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd17djwkVYN-DL6Z1_kskF69K2j7s6uxULreqzg8IX2rI/ts
+#EXTINF:-1 xui-id="72042" tvg-id="" tvg-name="EVENTS 94  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 94  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdxQo_g7hnOA79VzqMbPe-NTQCL1JI_iOvR3qAepGwNtc/ts
+#EXTINF:-1 xui-id="72041" tvg-id="" tvg-name="EVENTS 93  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 93  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd_ZSBkm2sQdVlz5eDDHaAZTc3WrcfrUSxflYb5-zanRk/ts
+#EXTINF:-1 xui-id="72040" tvg-id="" tvg-name="EVENTS 92  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 92  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd9oXcfktTLH8QypA-1SG6YwwTGGzwVrCW8ayxmO04ONu/ts
+#EXTINF:-1 xui-id="72039" tvg-id="" tvg-name="EVENTS 91  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 91  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd5SGCHlnkpjzlgF05myunUvHoB5Osw7Y7YEvg01FGAaA/ts
+#EXTINF:-1 xui-id="72038" tvg-id="" tvg-name="EVENTS 90  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 90  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd-ViZhGBSocj4LcAMc7NvPjRIcTJ_bFga9O0vJ5YPsLA/ts
+#EXTINF:-1 xui-id="72037" tvg-id="" tvg-name="EVENTS 89  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 89  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdxBSnwm1xxHICiXzFzLrpZaz6kE0zNeSon3TXVNQ5ldz/ts
+#EXTINF:-1 xui-id="72036" tvg-id="" tvg-name="EVENTS 88  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 88  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd1VPnLcqGjOxFkU3YZVy7tJXMe9QIbMmuN7_OPHo2Vlc/ts
+#EXTINF:-1 xui-id="72035" tvg-id="" tvg-name="EVENTS 87  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 87  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd6mzsdYG0ECdoCSmpe1viyDAZm4xB-FWDAEzfPyykKrE/ts
+#EXTINF:-1 xui-id="72034" tvg-id="" tvg-name="EVENTS 86  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 86  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd0luRaYLmvH43fRFwCyWBfVseysR5xtaiD2yvQQOXDp-/ts
+#EXTINF:-1 xui-id="72033" tvg-id="" tvg-name="EVENTS 85  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 85  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd8gr5QRz7UfICcDwk_o7TCFAcCCRP-Du7VnYdE0FiFQv/ts
+#EXTINF:-1 xui-id="72032" tvg-id="" tvg-name="EVENTS 84  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 84  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd-KSopWh0du5ttqui2jndGTPvc-GDbZuKe0ok000K6QA/ts
+#EXTINF:-1 xui-id="72031" tvg-id="" tvg-name="EVENTS 83  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 83  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd2b7O8BWt2gNSu3tY3rfimrQksNQcK-jN04TWKgpTr4F/ts
+#EXTINF:-1 xui-id="72030" tvg-id="" tvg-name="EVENTS 82  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 82  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd1QVFWQJ8-zfOrzuIsFif9hLe02p_Ul69BPeOsfvbn8o/ts
+#EXTINF:-1 xui-id="72029" tvg-id="" tvg-name="EVENTS 81  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 81  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd62N05nLxk9rabgFK9D3bDj-5YrF496yPcXgcVQYWQ9K/ts
+#EXTINF:-1 xui-id="72028" tvg-id="" tvg-name="EVENTS 80  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 80  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd-YF4guJ9cDzrHmpc7MGNj_TlB6zKEJzysOPCU1lAv7y/ts
+#EXTINF:-1 xui-id="72027" tvg-id="" tvg-name="EVENTS 79  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 79  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd40rYO0mAibrsKCHqBWXCJzWfWfnXmumUbs2dYgF_UbC/ts
+#EXTINF:-1 xui-id="72026" tvg-id="" tvg-name="EVENTS 78  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 78  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd8S4Piq1wXfJBgtoaigKDVVe3BdnMgYsdS1gVdaELvqw/ts
+#EXTINF:-1 xui-id="72025" tvg-id="" tvg-name="EVENTS 77  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 77  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd6QzlV5fshIie7AyZOGY_2kYffqxMPRZfywIn4xWppOX/ts
+#EXTINF:-1 xui-id="72024" tvg-id="" tvg-name="EVENTS 76  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 76  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdwD4kkUy1jd0P4rJ7TM92Jcmk-zoOxefJkw0jGdvdxt9/ts
+#EXTINF:-1 xui-id="72023" tvg-id="" tvg-name="EVENTS 75  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 75  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd8UQDC_ztnrP1ak4mvpYAGogobZ4TPdGwT1LOj8NrpDF/ts
+#EXTINF:-1 xui-id="72022" tvg-id="" tvg-name="EVENTS 74  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 74  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd-RccjB3sqBXP4D6KwqdqQ9itOgxJfloncp-pCaC87wd/ts
+#EXTINF:-1 xui-id="72021" tvg-id="" tvg-name="EVENTS 73  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 73  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd3RvZiUcYZStd-TtbpecxXsvetxzPawa0hS4IO7yS-a-/ts
+#EXTINF:-1 xui-id="72020" tvg-id="" tvg-name="EVENTS 72  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 72  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd0LegHEnuijw8cPadCW_8bthJ9gdrz0go48Kqsj9ymGn/ts
+#EXTINF:-1 xui-id="72019" tvg-id="" tvg-name="EVENTS 71  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 71  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd87WlFI_v_xtDKSRv0n0fjgmTTMDvNxVB7zNK4AQePMu/ts
+#EXTINF:-1 xui-id="72018" tvg-id="" tvg-name="EVENTS 70  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 70  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdzLvJzEJ0v1RYOmiveeo0fndqDDbNlYOOzho8TiLngHi/ts
+#EXTINF:-1 xui-id="72017" tvg-id="" tvg-name="EVENTS 69  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 69  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd3eh9zu3voJou0qNlPjjQRr9JpxlTbtvpJ-SZf6Ol3Gq/ts
+#EXTINF:-1 xui-id="72016" tvg-id="" tvg-name="EVENTS 68  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 68  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd94_jHhe775VMETXaWNcs6C6c3RXbEsY1NGSvVUKsIv7/ts
+#EXTINF:-1 xui-id="72015" tvg-id="" tvg-name="EVENTS 67  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 67  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd4b1PSPX3AfQmd_NFRGe1wn4iTfQgn_P2A-5UHZ4h1o2/ts
+#EXTINF:-1 xui-id="72014" tvg-id="" tvg-name="EVENTS 66  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 66  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdxrMhqNIPS7iLuePWzXWAqxyRM9UdbMFwlGvuHNn_JHa/ts
+#EXTINF:-1 xui-id="72013" tvg-id="" tvg-name="EVENTS 65  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 65  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd7UW1l4_USbdWOQhuxjCj3zuLB_PYmMxEdfhRZkWFQjh/ts
+#EXTINF:-1 xui-id="72012" tvg-id="" tvg-name="EVENTS 64  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 64  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd50Io78AEs45nq-DqfaL87cDG4xuhCO5DMCF5CiO06T_/ts
+#EXTINF:-1 xui-id="72011" tvg-id="" tvg-name="EVENTS 63  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 63  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd1ZeOEfRw8w6TFMK_RVRUPhfQLhJRFrk2GSWiHC6wqBO/ts
+#EXTINF:-1 xui-id="72010" tvg-id="" tvg-name="EVENTS 62  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 62  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd79i4MtdjrUfiqFTJWvbiYeqQRkfbqAWS6ZNyRx282YI/ts
+#EXTINF:-1 xui-id="72009" tvg-id="" tvg-name="EVENTS 61  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 61  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd7uZBRvoIYE-bS8seCFS6GFZVVrnqkfVUtBZ0TIVCWbt/ts
+#EXTINF:-1 xui-id="72008" tvg-id="" tvg-name="EVENTS 60  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 60  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd2Hi82R6lEVYmpMZjWSWYPbeUTSaZyjhS2o-bgJKdGDW/ts
+#EXTINF:-1 xui-id="72007" tvg-id="" tvg-name="EVENTS 59  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 59  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd_72f-TPqAhHgO6GwKhVajxigd40Vyp9NgzT2SfgNsh-/ts
+#EXTINF:-1 xui-id="72006" tvg-id="" tvg-name="EVENTS 58  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 58  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd1vuf6Q6t0WEsQAuBKKlW07h_OopNb_IiwMTNhnQPjYt/ts
+#EXTINF:-1 xui-id="72005" tvg-id="" tvg-name="EVENTS 57  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 57  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd_n7PKmsr9II4CQG9T1t3EMiMmaR6PFp-g-GSIgnYZmG/ts
+#EXTINF:-1 xui-id="72004" tvg-id="" tvg-name="EVENTS 56  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 56  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdwkUFKla4jieF5P0ncFfzl5q98PRHBw1GGrEkdhxYkQG/ts
+#EXTINF:-1 xui-id="72003" tvg-id="" tvg-name="EVENTS 55  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 55  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd4qXPajD59smWdNtlgOdXjEgssqBEF7pwuDgoxGUxczx/ts
+#EXTINF:-1 xui-id="72002" tvg-id="" tvg-name="EVENTS 54  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 54  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd4IVmBMa6F_obdg84ndvgIE1xf9LW651nTTHjmkvnjlz/ts
+#EXTINF:-1 xui-id="72001" tvg-id="" tvg-name="EVENTS 53  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 53  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd5t7F3wLCAM1Q6x3_AAfg7rzC334eZ5nP6blBD_Wlxbn/ts
+#EXTINF:-1 xui-id="72000" tvg-id="" tvg-name="EVENTS 52  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 52  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd0pRPVRZjI0AAPvCDIQaDga47HEIb6jZHj1fUxz4Vnv9/ts
+#EXTINF:-1 xui-id="71999" tvg-id="" tvg-name="EVENTS 51  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 51  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd6JPLUq9pb0gb1LCVooPr7fIK0X-OtTlvsG7xkg0dDBZ/ts
+#EXTINF:-1 xui-id="71998" tvg-id="" tvg-name="EVENTS 50  |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqQkR3zvToz8u6h6zVPx-K7WWKSpUoHFeTTM6y10nX_MY8SqMEou-aC5JtLfHdRiITVE5Ny6KBbAtQum5n8kIr7w.png" group-title="UK | PPV Events",EVENTS 50  |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd_Gue6paKOzUMgLiWaON35FE25WvOH4iq2CyLWU2dFrB/ts
+#EXTINF:-1 xui-id="71997" tvg-id="" tvg-name="PPV 49  | No Scheduled Event" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 49  | No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd1ZPOe7L4JrF2XL5rpDLqtByNSRGdBeg6hYerZNUuOfl/ts
+#EXTINF:-1 xui-id="71996" tvg-id="" tvg-name="PPV 48  | No Scheduled Event" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 48  | No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdxKEu7cXa1Nx5mk5j8pj4fctYFT4ibXvhxdpQVJK3Yun/ts
+#EXTINF:-1 xui-id="71995" tvg-id="" tvg-name="PPV 47  | No Scheduled Event" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 47  | No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd8KqKkMiG1Lehli09IGu-5NT8JDD-m_S3xU4YQmvPKNB/ts
+#EXTINF:-1 xui-id="71994" tvg-id="" tvg-name="PPV 46  | No Scheduled Event" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 46  | No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd2Xiu6NYX8s1QoaM_OduVWnnqPwyO7Tf2hnbBaiklseM/ts
+#EXTINF:-1 xui-id="71993" tvg-id="" tvg-name="PPV 45  | No Scheduled Event" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 45  | No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd7f2f3MeTa4Y9hpqKJ0WPOe8BmRofKHa9LWefaFmZSSh/ts
+#EXTINF:-1 xui-id="71992" tvg-id="" tvg-name="PPV 44  | No Scheduled Event" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 44  | No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd2vjj0UnEg_lyHT3aY-q2mlgkTTVV8tY87bwCfNtcG9s/ts
+#EXTINF:-1 xui-id="71991" tvg-id="" tvg-name="PPV 43  | No Scheduled Event" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 43  | No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd9pB-KOUjpFmo61JTLrvp3OX04zCskGbiXFq7_Zubyl1/ts
+#EXTINF:-1 xui-id="71990" tvg-id="" tvg-name="PPV 42  | No Scheduled Event" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 42  | No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdxPc0Toy_FpxvMoLb52MXIenHcNIT6aGITCWd1_TV7U5/ts
+#EXTINF:-1 xui-id="71989" tvg-id="" tvg-name="PPV 41  | No Scheduled Event" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 41  | No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd295nHjwmBYWmqEiqUXYXlkUPmU8oLlvCRYTgOs8Obxl/ts
+#EXTINF:-1 xui-id="71988" tvg-id="" tvg-name="PPV 40  | No Scheduled Event" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 40  | No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdypi-MVBo3EcPeWNNJ5kDgCVClF2FBhRi7GL8bCZlvRJ/ts
+#EXTINF:-1 xui-id="71987" tvg-id="" tvg-name="PPV 39  | No Scheduled Event" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 39  | No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdydJq25hSNUkghyFvNMFjK8UuZSoJHppNMFA5R0nPeCb/ts
+#EXTINF:-1 xui-id="71986" tvg-id="" tvg-name="PPV 38  | No Scheduled Event" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 38  | No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd8BD-lhUYSl2V-AvK18dmoKxCUp2M8OJsW0XHfxVYmKu/ts
+#EXTINF:-1 xui-id="71985" tvg-id="" tvg-name="PPV 37  | No Scheduled Event" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 37  | No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd6MOGKsg2EaVgQyXRV101MyZGDoDBtNkAM1ArYJa-65S/ts
+#EXTINF:-1 xui-id="71984" tvg-id="" tvg-name="PPV 36  | No Scheduled Event" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 36  | No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd1uplhJpSZOHxEIZys46tjUVFG2nTO3UY6sODxFeXt5-/ts
+#EXTINF:-1 xui-id="71983" tvg-id="" tvg-name="PPV 35  | No Scheduled Event" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 35  | No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdwUIMWBJPNgDxepvpRAcLomU5ub5XwdNtkrs75fdZPh9/ts
+#EXTINF:-1 xui-id="71982" tvg-id="" tvg-name="PPV 34  | No Scheduled Event" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 34  | No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdyQjk3FxVClwByev0Xx2m-pgT4SvauVwfvrvD8a52XqT/ts
+#EXTINF:-1 xui-id="71981" tvg-id="" tvg-name="PPV 33  | No Scheduled Event" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 33  | No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd_JAzsfrfW1LHYvIeKy8xTwGAOBn4nOdraeoZ587coJ0/ts
+#EXTINF:-1 xui-id="71980" tvg-id="" tvg-name="PPV 32  | No Scheduled Event" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 32  | No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd67jtZO26A4YOH7lSTrV6DXrvkdfOAtkJwE83JSfi3sT/ts
+#EXTINF:-1 xui-id="71979" tvg-id="" tvg-name="PPV 31  | No Scheduled Event" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 31  | No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd9Thvtas6oHElJorjzUbnWvdtYQ8z5wCDmWG7Lsp94Q3/ts
+#EXTINF:-1 xui-id="71978" tvg-id="" tvg-name="PPV 30  | No Scheduled Event" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 30  | No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd3l1CpEwYyU1pD6reswaqVkWLi_bIRjD7UgSKOioxYKb/ts
+#EXTINF:-1 xui-id="71977" tvg-id="" tvg-name="PPV 29  | No Scheduled Event" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 29  | No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd9L94nQ3Iru04TW0J0ybZxYK3jGrKiGj1dWo1sFf8Ekx/ts
+#EXTINF:-1 xui-id="71976" tvg-id="" tvg-name="PPV 28  | No Scheduled Event" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 28  | No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd73zHiY0kO5U6USnrj50CMXgOD59qL7eceFrO5iorm59/ts
+#EXTINF:-1 xui-id="71975" tvg-id="" tvg-name="PPV 27  | No Scheduled Event" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 27  | No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdwlx8p28dcqUB6uVP66Puo73hPbJOZQmjPGBJ45pMN00/ts
+#EXTINF:-1 xui-id="71974" tvg-id="" tvg-name="PPV 26  | No Scheduled Event" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 26  | No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd1_hH4b-ojr6pMzS8Dr7IrdwUDeZafNVuUteyZsxzFV7/ts
+#EXTINF:-1 xui-id="71973" tvg-id="" tvg-name="PPV 25  | No Scheduled Event" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 25  | No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdxSXInUpOJf7iOoGPn6rOBSxzA1Qo6xl2FSVVu8BIVpy/ts
+#EXTINF:-1 xui-id="71972" tvg-id="" tvg-name="PPV 24  | No Scheduled Event" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 24  | No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd38d1_imRpMzd91neJqd4PlN20exeBBw3XzsIZonsWl8/ts
+#EXTINF:-1 xui-id="71971" tvg-id="" tvg-name="PPV 23  | No Scheduled Event" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 23  | No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd3VnnvMpo6KsJCDROfuo8e-lCb3-7RlJgU9fRWxIHT74/ts
+#EXTINF:-1 xui-id="71970" tvg-id="" tvg-name="PPV 22  | No Scheduled Event" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 22  | No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd1nqcUPPxvWMqigu2bBaKRmPW1Ni6MF1RGoI7OgB8yiE/ts
+#EXTINF:-1 xui-id="71969" tvg-id="" tvg-name="PPV 21  | No Scheduled Event" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 21  | No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd9VmZj-eVBUFrX6j8calil9mjN4LRXwQPkuqw1vez7aZ/ts
+#EXTINF:-1 xui-id="71968" tvg-id="" tvg-name="PPV 20  | No Scheduled Event" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 20  | No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd9JW_KfiNUcF_MSeF4LgzVuWSYkJGii9Z0V642gL6OOY/ts
+#EXTINF:-1 xui-id="71967" tvg-id="" tvg-name="PPV 19  | No Scheduled Event" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 19  | No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd4R9zP2fzGNhwAaZ4hJXo5oTTJayWSwuMyHQIQml1u1E/ts
+#EXTINF:-1 xui-id="71966" tvg-id="" tvg-name="PPV 18  | No Scheduled Event" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 18  | No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd4evTSe4n9j3pUzOxs-gozpn-1u2z6_b40k9enisn9u_/ts
+#EXTINF:-1 xui-id="71965" tvg-id="" tvg-name="PPV 17  | No Scheduled Event" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 17  | No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd6gwwMc2dGRC0loHF-QVObxAaqq_9ZOMg16QwFFBmFxc/ts
+#EXTINF:-1 xui-id="71964" tvg-id="" tvg-name="PPV 16  | BOXING: Joshua v Franklin | Sat 1st 7:00PM UK/2:00PM ET (Backup 2)" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 16  | BOXING: Joshua v Franklin | Sat 1st 7:00PM UK/2:00PM ET (Backup 2)
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdzdfhpB80w_r4QQ8MEhDkxLKAkQOk_ccnDH2rPajjbwi/ts
+#EXTINF:-1 xui-id="71963" tvg-id="" tvg-name="PPV 15  | Kok 111 Riga | Sat 1st 6:00PM UK/1:00PM ET" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 15  | Kok 111 Riga | Sat 1st 6:00PM UK/1:00PM ET
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd_GT8uCiaHP5fvj0HzrLr6q_g7xytMFLaZuGb4dxbjPY/ts
+#EXTINF:-1 xui-id="71962" tvg-id="" tvg-name="NV (fitetv) @ 09:00 PM" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",NV (fitetv) @ 09:00 PM
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd7oXLINlc4bk_9sm1vn-IRSXi3sAG4YJimEXkcLfVluI/ts
+#EXTINF:-1 xui-id="71961" tvg-id="" tvg-name="PPV 13  | OCRS Enid Speedway 4/1/23 @ 08:00 PM" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 13  | OCRS Enid Speedway 4/1/23 @ 08:00 PM
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdzx6D8HdTlp23N8AmWEmdSpc8QtmhvUAfRuZRYcKNNKH/ts
+#EXTINF:-1 xui-id="71960" tvg-id="" tvg-name="PPV 12  | 81 Speedway 4/1/23 @ 08:00 PM" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 12  | 81 Speedway 4/1/23 @ 08:00 PM
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdy2S0o-BsJVNewuUk8Yr_zTvEC379fZqdJrmxaAg7hDY/ts
+#EXTINF:-1 xui-id="71959" tvg-id="" tvg-name="PPV 11  | USMTS Ark-La-Tex Speedway 4/01/23 @ 07:30 PM" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 11  | USMTS Ark-La-Tex Speedway 4/01/23 @ 07:30 PM
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdxhDvcYB7CwMukEMIwU8Hxx_tnkPvuHgeGMse0tpudk8/ts
+#EXTINF:-1 xui-id="71958" tvg-id="" tvg-name="PPV 10  | DEVIL*S BOWL SPEEDWAY @ 07:15 PM" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 10  | DEVIL*S BOWL SPEEDWAY @ 07:15 PM
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd-3DGoTmSVZ8YpsnerdNN2wkKA58VVijLRHc8z9GUJZP/ts
+#EXTINF:-1 xui-id="71957" tvg-id="" tvg-name="AL (fitetv) @ 07:00 PM" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",AL (fitetv) @ 07:00 PM
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd-Z04E7MLEAmeMjmxzWM4xSWf1-tHfVV7R5ETVSm5IFk/ts
+#EXTINF:-1 xui-id="71956" tvg-id="" tvg-name="PPV 08  | Evolution Fighting Championship XVII (fitetv) @ 07:00 PM" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 08  | Evolution Fighting Championship XVII (fitetv) @ 07:00 PM
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd8-lL_Yp6nxPApn-kdZXwQiS28MZg1X3TwIDv3LeD4P_/ts
+#EXTINF:-1 xui-id="71955" tvg-id="" tvg-name="PPV 07  | MILLBRIDGE SPEEDWAY @ 05:30 PM" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 07  | MILLBRIDGE SPEEDWAY @ 05:30 PM
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdx2TIykIC4BdM6_J27-0NmJ7pE5mXUoEGFkn-E-xVnS_/ts
+#EXTINF:-1 xui-id="71954" tvg-id="" tvg-name="PPV 06  | Anthony Joshua vs Jermaine Franklin (Dazn) 10:45 AM" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 06  | Anthony Joshua vs Jermaine Franklin (Dazn) 10:45 AM
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd7XZHlYUiO1D8nggkaqjsWf-b_VOPVVV0L5F1G2NLgKg/ts
+#EXTINF:-1 xui-id="71953" tvg-id="" tvg-name="PPV 05  | Wrestlemania goes Hollywood | Sat 1st 11:00PM UK/6:00PM ET" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 05  | Wrestlemania goes Hollywood | Sat 1st 11:00PM UK/6:00PM ET
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd8gmlE9svDTW1lwPo5zgdTNEya0T2PdzjgI7Kny5ZkQa/ts
+#EXTINF:-1 xui-id="71952" tvg-id="" tvg-name="PPV 04  | WWE: NXT Stand & Deliver | Sat 1st 5:00PM UK/12:00PM ET" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 04  | WWE: NXT Stand & Deliver | Sat 1st 5:00PM UK/12:00PM ET
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd4vK8XBdneDqElFExF7hIujzW99BBl86nipkweAiGwER/ts
+#EXTINF:-1 xui-id="71951" tvg-id="" tvg-name="PPV 03  | BOXING: Ramirez v Dogboe | Sat 1st 12:05AM UK/7:05PM ET" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 03  | BOXING: Ramirez v Dogboe | Sat 1st 12:05AM UK/7:05PM ET
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd77h3tESGz96nk6tz2l5eyCCrbvjXuz_yoosuRDSJCQd/ts
+#EXTINF:-1 xui-id="71950" tvg-id="" tvg-name="PPV 02  | BOXING: Joshua v Franklin | Sat 1st 7:00PM UK/2:00PM ET (Backup)" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 02  | BOXING: Joshua v Franklin | Sat 1st 7:00PM UK/2:00PM ET (Backup)
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd8ITggTr1MJn9RQCySsBeKs66LWpePvgqzjbM7XU-vBZ/ts
+#EXTINF:-1 xui-id="71949" tvg-id="" tvg-name="PPV 01  | BOXING: Joshua v Franklin | Sat 1st 7:00PM UK/2:00PM ET" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqc17shn7eKdID68p_CZn3in5nW8eFoHRU4jQ7WfwksGPO1BMEjLwz3Qcyd9xSNrDg6ZtE5o1M8uBrTunFy0RYcczf-XONlWAM1_huMcUAttAgTESG2jHDcm316Jb-lmTjNOWrBUTtv6ZRHB3jKIZJL19VPv1dO_32NpWS5eK8iwa.png" group-title="UK | PPV Events",PPV 01  | BOXING: Joshua v Franklin | Sat 1st 7:00PM UK/2:00PM ET
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd6d-XYAa1xy4RVWp3hu28_OpabcDoe02PUmOHLeBS53B/ts
+#EXTINF:-1 xui-id="72064" tvg-id="" tvg-name="UK: SportyStuff TV" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqR7vKn7qO4rFGgla5656Ya1dQ7yAj9BBV7BhS1F2WAQOKLWBeh5VYofmJ2pBCuYO1Pk_oeM8UA56QW4TEMFjQzmvNNvuPuiezEJa4fQpGS8_omYK4S-WWsZcxDP0qEpB9PyM6OxCfE0d5seGaUkPEGg.png" group-title="UK | Betting",UK: SportyStuff TV
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd7r5g43kPsL5X-T1aIztmGJC1rbtl60E1Z9cK56x6082/ts
+#EXTINF:-1 xui-id="72063" tvg-id="" tvg-name="UK: William Hill BTV" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqZG7CG2KyKXNTX-NWtCC7NCDfepqiLAikd17iPQJEd8am_54Dy4eTozTlrPdNWBTRspChUZWBR68tqUEi7hPVNw2kWLjOL0jPXDWSbDzbF5KRXnPBnGOVMwg_KVJcDCqJyhJ2-CXXG05rBG9auWZRC7s2KneO_HmSsFaK2DJ4td-.jpg" group-title="UK | Betting",UK: William Hill BTV
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdxV8Lm7Dl9bwzEnTehm-3a5wN9mOAwuSTa3U0EI3Y1tG/ts
+#EXTINF:-1 xui-id="72062" tvg-id="" tvg-name="UK: William Hill TV1" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqZG7CG2KyKXNTX-NWtCC7NCDfepqiLAikd17iPQJEd8am_54Dy4eTozTlrPdNWBTRspChUZWBR68tqUEi7hPVNw2kWLjOL0jPXDWSbDzbF5KRXnPBnGOVMwg_KVJcDCqJyhJ2-CXXG05rBG9auWZRC7s2KneO_HmSsFaK2DJ4td-.jpg" group-title="UK | Betting",UK: William Hill TV1
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd9MZV-yNUQ3wd4_mu8SExQZ8Am-cWxhe80NsHoMqDG1J/ts
+#EXTINF:-1 xui-id="72061" tvg-id="" tvg-name="UK: William Hill TV2" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqZG7CG2KyKXNTX-NWtCC7NCDfepqiLAikd17iPQJEd8am_54Dy4eTozTlrPdNWBTRspChUZWBR68tqUEi7hPVNw2kWLjOL0jPXDWSbDzbF5KRXnPBnGOVMwg_KVJcDCqJyhJ2-CXXG05rBG9auWZRC7s2KneO_HmSsFaK2DJ4td-.jpg" group-title="UK | Betting",UK: William Hill TV2
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd7hvOoyho-iGuzE2WSwL6W5uTjg179ERlk22DeKXkczC/ts
+#EXTINF:-1 xui-id="72060" tvg-id="" tvg-name="UK: SIS Racing" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqSX5vXKYeCXgw7bcxUgePVeED2BZ4vgY3kr9PX8dehi7ztZ3kb_3PDTtpVxIlnBHk1Mn0ahitBm8ukRxL325DE9C5NI77beQToaLZ_jNTLDBc-LK3QNDbt4ZlKabKFu5BM_Rid8akQNXWDxS0JmmG8-7r1wrc5MHNwqKO5UkjHNF.jpg" group-title="UK | Betting",UK: SIS Racing
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd9dZpU6tvFc8NWF7Ofgnh9EkRxQjqGSiVZeBNo7sw9ap/ts
+#EXTINF:-1 xui-id="72059" tvg-id="" tvg-name="UK: SIS Two" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqSX5vXKYeCXgw7bcxUgePVeED2BZ4vgY3kr9PX8dehi7ztZ3kb_3PDTtpVxIlnBHk1Mn0ahitBm8ukRxL325DE9C5NI77beQToaLZ_jNTLDBc-LK3QNDbt4ZlKabKFu5BM_Rid8akQNXWDxS0JmmG8-7r1wrc5MHNwqKO5UkjHNF.jpg" group-title="UK | Betting",UK: SIS Two
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd1hpOncikekGpcg7tghewWkxArNe15mQvZCPh4T75r8m/ts
+#EXTINF:-1 xui-id="72058" tvg-id="" tvg-name="UK: SIS One" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqSX5vXKYeCXgw7bcxUgePVeED2BZ4vgY3kr9PX8dehi7ztZ3kb_3PDTtpVxIlnBHk1Mn0ahitBm8ukRxL325DE9C5NI77beQToaLZ_jNTLDBc-LK3QNDbt4ZlKabKFu5BM_Rid8akQNXWDxS0JmmG8-7r1wrc5MHNwqKO5UkjHNF.jpg" group-title="UK | Betting",UK: SIS One
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd263NOPPedRN4RBW0QLhH1RWcAW5YZnlyxwR6G5CkT0M/ts
+#EXTINF:-1 xui-id="72057" tvg-id="" tvg-name="UK: Racing.Com" tvg-logo="https://panel.4kchannels.co.uk:443/images/RFpGgiFIwD-zg89GX_bnrLd8I6goRRFfXTdLMhD-WuZRmvjkpGhlQ1uoBGuSN8ZWqOpaiXFGC_fn-Mpjordro18lSzpGXOh5LJW6chyDTLRg8r8Mx1XYgeHsKWp2uU_3Tf60dctsa4kX_NxqtQR0bV-44fSi5SghuodYgoiUMPb30cuYteT0ajvP3laMZGyyQ36Ujw81Zd32zt5Ic1glfA.png" group-title="UK | Betting",UK: Racing.Com
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd3gUPv74CiaGuSIXg-hNeLytGINdcW0NzarDBJY5V9rQ/ts
+#EXTINF:-1 xui-id="72056" tvg-id="" tvg-name="UK: Paddy Power TV 3" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqfyRhtOM8E2sF-RNNU0zZ1ehpjhk-DopmxE4qE4PqrTsAXDkuBs38SCuD4n-m3MsYPOz0EGSvp7_l4epU11ceEVyPV-1Xq7TM92dTVuQgUg52dF4TugDUvRR8Ua8feZEEEs71cd0_FeYx73TSgI0qH0EAoVX_R0G1xmyvpELUUPs.jpg" group-title="UK | Betting",UK: Paddy Power TV 3
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd67IENbOg85SJM4QfCTkV4YLxtsRPGlmqI0evz0AjQIk/ts
+#EXTINF:-1 xui-id="72055" tvg-id="" tvg-name="UK: Paddy Power TV 2" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqfyRhtOM8E2sF-RNNU0zZ1ehpjhk-DopmxE4qE4PqrTsAXDkuBs38SCuD4n-m3MsYPOz0EGSvp7_l4epU11ceEVyPV-1Xq7TM92dTVuQgUg52dF4TugDUvRR8Ua8feZEEEs71cd0_FeYx73TSgI0qH0EAoVX_R0G1xmyvpELUUPs.jpg" group-title="UK | Betting",UK: Paddy Power TV 2
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd7s0YbpAM0CdCa36uZPulq-aX7f-zFpbjDK8ob6tgNzZ/ts
+#EXTINF:-1 xui-id="72054" tvg-id="" tvg-name="UK: Paddy Power TV 1" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqfyRhtOM8E2sF-RNNU0zZ1ehpjhk-DopmxE4qE4PqrTsAXDkuBs38SCuD4n-m3MsYPOz0EGSvp7_l4epU11ceEVyPV-1Xq7TM92dTVuQgUg52dF4TugDUvRR8Ua8feZEEEs71cd0_FeYx73TSgI0qH0EAoVX_R0G1xmyvpELUUPs.jpg" group-title="UK | Betting",UK: Paddy Power TV 1
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd-SAWr5JeWddYbz0Hv3wNlCxa1Y1Q2vVo8SzRLQQmJig/ts
+#EXTINF:-1 xui-id="72053" tvg-id="" tvg-name="UK: Ladbrokes TV 3" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqVUJFmvvbfBwFhfYLb4vUE74yhOjDrpT26mtM5h5aEfFmh5lpe4IBkd9mBLPUc87iOH203zOc3_VHBN43Fmfd6asEpLknxrW0RPyu_G7p7iwSt_b0x6w_TccRdBK7_AfUkbkjoCaprgJRTJF84AhRDVIzLPAfKJnMhWAL3h0tbOA.png" group-title="UK | Betting",UK: Ladbrokes TV 3
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd43iad1HvtyIv8BnFs6L404HkGkGcULzW_tG20Eto_P_/ts
+#EXTINF:-1 xui-id="72052" tvg-id="" tvg-name="UK: Ladbrokes TV 2" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqVUJFmvvbfBwFhfYLb4vUE74yhOjDrpT26mtM5h5aEfFmh5lpe4IBkd9mBLPUc87iOH203zOc3_VHBN43Fmfd6asEpLknxrW0RPyu_G7p7iwSt_b0x6w_TccRdBK7_AfUkbkjoCaprgJRTJF84AhRDVIzLPAfKJnMhWAL3h0tbOA.png" group-title="UK | Betting",UK: Ladbrokes TV 2
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd-j1VVA4Fj0fBkrPE40thJvGHNBIO3jB21Oc_xLyoKD6/ts
+#EXTINF:-1 xui-id="72051" tvg-id="" tvg-name="UK: Ladbrokes TV 1" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqVUJFmvvbfBwFhfYLb4vUE74yhOjDrpT26mtM5h5aEfFmh5lpe4IBkd9mBLPUc87iOH203zOc3_VHBN43Fmfd6asEpLknxrW0RPyu_G7p7iwSt_b0x6w_TccRdBK7_AfUkbkjoCaprgJRTJF84AhRDVIzLPAfKJnMhWAL3h0tbOA.png" group-title="UK | Betting",UK: Ladbrokes TV 1
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd_zv70P2yly-VPyXKpnvlZlDMzZcxrKEV8lNWmwmBcx5/ts
+#EXTINF:-1 xui-id="72050" tvg-id="" tvg-name="UK: Coral TV 2" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqRxpd7tqqJ7_G1KN3EwmAwg901qBWnl016PK_nOwidzliBcNQ_OpZi_a8LKZ8L-xORj270nBQNTRMJMgPMVuEVAo6RdFyEBPIzaj0wlA_TUb-9G5s15kpr8syXjsL6ii-hEJ2QdnB7bQW7NQe98ggARaLDASClK5MQOk0EHcSbZ7.png" group-title="UK | Betting",UK: Coral TV 2
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd8mom76i_-FqD2oXVyJjouB35V7O18cqDcidoGorGDEA/ts
+#EXTINF:-1 xui-id="72049" tvg-id="" tvg-name="UK: Coral TV 1" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqRxpd7tqqJ7_G1KN3EwmAwg901qBWnl016PK_nOwidzliBcNQ_OpZi_a8LKZ8L-xORj270nBQNTRMJMgPMVuEVAo6RdFyEBPIzaj0wlA_TUb-9G5s15kpr8syXjsL6ii-hEJ2QdnB7bQW7NQe98ggARaLDASClK5MQOk0EHcSbZ7.png" group-title="UK | Betting",UK: Coral TV 1
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdxZRv7Yzc_lpahZ1xNRdsjZpTV42erbckmxmtIe7Frqn/ts
+#EXTINF:-1 xui-id="72048" tvg-id="" tvg-name="UK: Betfred TV" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqeNwD0DTbH19LxgqOTY9yJofIElcG-6oRruw3ad3U3YPe05-jDokXnyvrMExRmYKWdZlZwFEJ1N847q5OCWaf6meRNWvdeJYI8Px4ZXsr7AZlMzYNBVdDXeWQW1NWagY9oQaSyEcngkofhxvegvs68ez2sR8fwJ6QUYKiL9CjZHj.png" group-title="UK | Betting",UK: Betfred TV
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdyo_GflEE-iN5oo9QB_4-fw0AWrR2_uD-62zB7XBySom/ts
+#EXTINF:-1 xui-id="72473" tvg-id="" tvg-name="DAZN UK | Event 1" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqXyfvXwHWycWorh5PyDkj9uT61NuzJPZ1N6vL2E9Cy2ig2lwEqzlwRVXctacsFz4ForyMy0aPYUsKDEjY6QNmMPjYTQWgRQUF1zi9Q5Exc38jRAXwl_WbgijNqT1B-iEvA.png" group-title="UK | DAZN Events",DAZN UK | Event 1
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd6ABNSLJN3Owj5HUO5IPWGHZ9aqq1tTQ3W1VcBEGdxrY/ts
+#EXTINF:-1 xui-id="72472" tvg-id="" tvg-name="DAZN UK | Event 2" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqXyfvXwHWycWorh5PyDkj9uT61NuzJPZ1N6vL2E9Cy2ig2lwEqzlwRVXctacsFz4ForyMy0aPYUsKDEjY6QNmMPjYTQWgRQUF1zi9Q5Exc38jRAXwl_WbgijNqT1B-iEvA.png" group-title="UK | DAZN Events",DAZN UK | Event 2
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd0NgZmXzN1A5Y4oqoRvbohy9EiWEWX6FTBq8Llav6Z4t/ts
+#EXTINF:-1 xui-id="72471" tvg-id="" tvg-name="DAZN UK | Event 3" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqXyfvXwHWycWorh5PyDkj9uT61NuzJPZ1N6vL2E9Cy2ig2lwEqzlwRVXctacsFz4ForyMy0aPYUsKDEjY6QNmMPjYTQWgRQUF1zi9Q5Exc38jRAXwl_WbgijNqT1B-iEvA.png" group-title="UK | DAZN Events",DAZN UK | Event 3
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd9lkgTyJqWS-JhlgjtdgJ1MD1uO2oYfRlUj8XjgOyqdy/ts
+#EXTINF:-1 xui-id="72470" tvg-id="" tvg-name="DAZN UK | Event 4" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqXyfvXwHWycWorh5PyDkj9uT61NuzJPZ1N6vL2E9Cy2ig2lwEqzlwRVXctacsFz4ForyMy0aPYUsKDEjY6QNmMPjYTQWgRQUF1zi9Q5Exc38jRAXwl_WbgijNqT1B-iEvA.png" group-title="UK | DAZN Events",DAZN UK | Event 4
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdzQlfrRNZ66qC4pytoFbv-io0nyNQ-VR0tJdKoDCcJ24/ts
+#EXTINF:-1 xui-id="72469" tvg-id="" tvg-name="DAZN UK | Event 5" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqXyfvXwHWycWorh5PyDkj9uT61NuzJPZ1N6vL2E9Cy2ig2lwEqzlwRVXctacsFz4ForyMy0aPYUsKDEjY6QNmMPjYTQWgRQUF1zi9Q5Exc38jRAXwl_WbgijNqT1B-iEvA.png" group-title="UK | DAZN Events",DAZN UK | Event 5
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd2CGdDo3T3YzZ2r8HGqJc3n-EkhS6ii9SN03vBYFoXD3/ts
+#EXTINF:-1 xui-id="72468" tvg-id="" tvg-name="DAZN UK | Event 6" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqXyfvXwHWycWorh5PyDkj9uT61NuzJPZ1N6vL2E9Cy2ig2lwEqzlwRVXctacsFz4ForyMy0aPYUsKDEjY6QNmMPjYTQWgRQUF1zi9Q5Exc38jRAXwl_WbgijNqT1B-iEvA.png" group-title="UK | DAZN Events",DAZN UK | Event 6
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdywzsxLwVdicNrOWL3Eeh9iAKj3oQITv6sj2IxjwEw0b/ts
+#EXTINF:-1 xui-id="72467" tvg-id="" tvg-name="DAZN UK | Event 7" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqXyfvXwHWycWorh5PyDkj9uT61NuzJPZ1N6vL2E9Cy2ig2lwEqzlwRVXctacsFz4ForyMy0aPYUsKDEjY6QNmMPjYTQWgRQUF1zi9Q5Exc38jRAXwl_WbgijNqT1B-iEvA.png" group-title="UK | DAZN Events",DAZN UK | Event 7
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd95wqQ8i6KkMu8tyCW1bhNKm7sIZvpxx1Vw9bQS0ZIau/ts
+#EXTINF:-1 xui-id="72466" tvg-id="" tvg-name="UK: DAZN 13" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqXyfvXwHWycWorh5PyDkj9uT61NuzJPZ1N6vL2E9Cy2ig2lwEqzlwRVXctacsFz4ForyMy0aPYUsKDEjY6QNmMPjYTQWgRQUF1zi9Q5Exc38jRAXwl_WbgijNqT1B-iEvA.png" group-title="UK | DAZN Events",UK: DAZN 13
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd-s0HZJdiT2g4DbD9aDwsFgc7I3vZEpBOHVScS7JDSJM/ts
+#EXTINF:-1 xui-id="72465" tvg-id="" tvg-name="UK: DAZN 12" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqXyfvXwHWycWorh5PyDkj9uT61NuzJPZ1N6vL2E9Cy2ig2lwEqzlwRVXctacsFz4ForyMy0aPYUsKDEjY6QNmMPjYTQWgRQUF1zi9Q5Exc38jRAXwl_WbgijNqT1B-iEvA.png" group-title="UK | DAZN Events",UK: DAZN 12
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd-c8iGVA8ysGMY-Sr57qaIFqBiNndsveDzJvzidxzrtt/ts
+#EXTINF:-1 xui-id="72464" tvg-id="" tvg-name="UK: DAZN 11" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqXyfvXwHWycWorh5PyDkj9uT61NuzJPZ1N6vL2E9Cy2ig2lwEqzlwRVXctacsFz4ForyMy0aPYUsKDEjY6QNmMPjYTQWgRQUF1zi9Q5Exc38jRAXwl_WbgijNqT1B-iEvA.png" group-title="UK | DAZN Events",UK: DAZN 11
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdwtKuoK3iz0kh9EVwtqhirqwNDYFQc4OS8mD-95X9qkP/ts
+#EXTINF:-1 xui-id="72463" tvg-id="" tvg-name="UK: DAZN 10" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqXyfvXwHWycWorh5PyDkj9uT61NuzJPZ1N6vL2E9Cy2ig2lwEqzlwRVXctacsFz4ForyMy0aPYUsKDEjY6QNmMPjYTQWgRQUF1zi9Q5Exc38jRAXwl_WbgijNqT1B-iEvA.png" group-title="UK | DAZN Events",UK: DAZN 10
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd5_SNSdUMOPTWGmZCzsTs0tw2JbA3-1C2NbAzVLBJcw5/ts
+#EXTINF:-1 xui-id="72462" tvg-id="" tvg-name="DAZN 09 |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqXyfvXwHWycWorh5PyDkj9uT61NuzJPZ1N6vL2E9Cy2ig2lwEqzlwRVXctacsFz4ForyMy0aPYUsKDEjY6QNmMPjYTQWgRQUF1zi9Q5Exc38jRAXwl_WbgijNqT1B-iEvA.png" group-title="UK | DAZN Events",DAZN 09 |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdyyENPWP0_76p5GecqIZhPj0ZXrT_ar3ftSQUEV9Ny_7/ts
+#EXTINF:-1 xui-id="72461" tvg-id="" tvg-name="DAZN 08 |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqXyfvXwHWycWorh5PyDkj9uT61NuzJPZ1N6vL2E9Cy2ig2lwEqzlwRVXctacsFz4ForyMy0aPYUsKDEjY6QNmMPjYTQWgRQUF1zi9Q5Exc38jRAXwl_WbgijNqT1B-iEvA.png" group-title="UK | DAZN Events",DAZN 08 |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdzrG6fpsHFoo7qc6knIbdzX0RcffKyM7GNITwAATA-F8/ts
+#EXTINF:-1 xui-id="72460" tvg-id="" tvg-name="DAZN 07 |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqXyfvXwHWycWorh5PyDkj9uT61NuzJPZ1N6vL2E9Cy2ig2lwEqzlwRVXctacsFz4ForyMy0aPYUsKDEjY6QNmMPjYTQWgRQUF1zi9Q5Exc38jRAXwl_WbgijNqT1B-iEvA.png" group-title="UK | DAZN Events",DAZN 07 |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdxb0tNyPrgzwB12Q-qHhStwMmFY8SrWpePpL64wKAr2L/ts
+#EXTINF:-1 xui-id="72459" tvg-id="" tvg-name="DAZN 06 |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqXyfvXwHWycWorh5PyDkj9uT61NuzJPZ1N6vL2E9Cy2ig2lwEqzlwRVXctacsFz4ForyMy0aPYUsKDEjY6QNmMPjYTQWgRQUF1zi9Q5Exc38jRAXwl_WbgijNqT1B-iEvA.png" group-title="UK | DAZN Events",DAZN 06 |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd2gWEW9sI0rmt2e40SDAHrYPDz5fQP0w_ByG21lrPWMD/ts
+#EXTINF:-1 xui-id="72458" tvg-id="" tvg-name="DAZN 05 |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqXyfvXwHWycWorh5PyDkj9uT61NuzJPZ1N6vL2E9Cy2ig2lwEqzlwRVXctacsFz4ForyMy0aPYUsKDEjY6QNmMPjYTQWgRQUF1zi9Q5Exc38jRAXwl_WbgijNqT1B-iEvA.png" group-title="UK | DAZN Events",DAZN 05 |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd1ILyK11r5sboRCRMyv078gpWv9XfF7t83nVuPGuNmnj/ts
+#EXTINF:-1 xui-id="72457" tvg-id="" tvg-name="DAZN 04 |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqXyfvXwHWycWorh5PyDkj9uT61NuzJPZ1N6vL2E9Cy2ig2lwEqzlwRVXctacsFz4ForyMy0aPYUsKDEjY6QNmMPjYTQWgRQUF1zi9Q5Exc38jRAXwl_WbgijNqT1B-iEvA.png" group-title="UK | DAZN Events",DAZN 04 |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd6kmA81b6_-cLsmaIKnRJYTg7ce8MvopGhsAgWy9etO4/ts
+#EXTINF:-1 xui-id="72456" tvg-id="" tvg-name="DAZN 03 |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqXyfvXwHWycWorh5PyDkj9uT61NuzJPZ1N6vL2E9Cy2ig2lwEqzlwRVXctacsFz4ForyMy0aPYUsKDEjY6QNmMPjYTQWgRQUF1zi9Q5Exc38jRAXwl_WbgijNqT1B-iEvA.png" group-title="UK | DAZN Events",DAZN 03 |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd6mWjW0sjxW-8yfpEMlTRzrEJtfDMdI-bPYg-E4cp2Pi/ts
+#EXTINF:-1 xui-id="72455" tvg-id="" tvg-name="DAZN 02 |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqXyfvXwHWycWorh5PyDkj9uT61NuzJPZ1N6vL2E9Cy2ig2lwEqzlwRVXctacsFz4ForyMy0aPYUsKDEjY6QNmMPjYTQWgRQUF1zi9Q5Exc38jRAXwl_WbgijNqT1B-iEvA.png" group-title="UK | DAZN Events",DAZN 02 |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdx00tJpJEIwjGzztM7Yp8DqGUcYvVo0SNUyYer4kn2sJ/ts
+#EXTINF:-1 xui-id="72454" tvg-id="" tvg-name="DAZN 01 |" tvg-logo="https://panel.4kchannels.co.uk:443/images/Xx5WlzhdIbYMG-2K6AHMqXyfvXwHWycWorh5PyDkj9uT61NuzJPZ1N6vL2E9Cy2ig2lwEqzlwRVXctacsFz4ForyMy0aPYUsKDEjY6QNmMPjYTQWgRQUF1zi9Q5Exc38jRAXwl_WbgijNqT1B-iEvA.png" group-title="UK | DAZN Events",DAZN 01 |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdxpxkRKUVjAlvsuyijQ8CkVBMoWBhRa2gM0HKJeeabE4/ts
+#EXTINF:-1 xui-id="76001" tvg-id="" tvg-name="LOI TV 00 |" tvg-logo="None" group-title="UK | LOL Events",LOI TV 00 |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd9P18nBT994WEu2PrQcnn6BVda4Eei3s3lCRZ8EQLgc4/ts
+#EXTINF:-1 xui-id="76000" tvg-id="" tvg-name="LOI TV 01 |" tvg-logo="None" group-title="UK | LOL Events",LOI TV 01 |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd3zRHpEuGEkzeHbwZPbzHFvp87OZen8lFx8aRoq26HYe/ts
+#EXTINF:-1 xui-id="75999" tvg-id="" tvg-name="LOI TV 02 |" tvg-logo="None" group-title="UK | LOL Events",LOI TV 02 |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd8tK5RsCpPnFR6GnWYj8ayZ39yI3UK8wVU5SAjDE5y7B/ts
+#EXTINF:-1 xui-id="75998" tvg-id="" tvg-name="LOI TV 03 |" tvg-logo="None" group-title="UK | LOL Events",LOI TV 03 |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd_VuzjD6tGn08UrisSLGHBXXvb87Szm5BjN6-X5CCnMi/ts
+#EXTINF:-1 xui-id="75997" tvg-id="" tvg-name="LOI TV 04 |" tvg-logo="None" group-title="UK | LOL Events",LOI TV 04 |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdzVb-Yup4PESts7hRd_QAR2EW-pZ3sAcDDdYlgR-ErRm/ts
+#EXTINF:-1 xui-id="75996" tvg-id="" tvg-name="LOI TV 05 |" tvg-logo="None" group-title="UK | LOL Events",LOI TV 05 |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd3LloA8rMAgdwpS20vBKrDUFgh5vcAC40MdNExV784Qf/ts
+#EXTINF:-1 xui-id="75995" tvg-id="" tvg-name="LOI TV 06 |" tvg-logo="None" group-title="UK | LOL Events",LOI TV 06 |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdw7GdHj5Q07rWm1GjU0FID2lbu3OzZkboftkd5Tw2LaM/ts
+#EXTINF:-1 xui-id="75994" tvg-id="" tvg-name="LOI TV 07 |" tvg-logo="None" group-title="UK | LOL Events",LOI TV 07 |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd0IMsYcTP3ETF4mMRTRg1zqc3_oINlpmbe7PRrlze2Jr/ts
+#EXTINF:-1 xui-id="75993" tvg-id="" tvg-name="LOI TV 08 |" tvg-logo="None" group-title="UK | LOL Events",LOI TV 08 |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdwas0Ef6G3zBM2Gt3XhdVBvUAsLIRGbHvEju-DBN6c90/ts
+#EXTINF:-1 xui-id="75992" tvg-id="" tvg-name="LOI TV 09 |" tvg-logo="None" group-title="UK | LOL Events",LOI TV 09 |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd3eO8n88Sna8v5_5jwCC_c3tTYHiDCJ8CeltmI5xxJrt/ts
+#EXTINF:-1 xui-id="75991" tvg-id="" tvg-name="LOI TV 10 |" tvg-logo="None" group-title="UK | LOL Events",LOI TV 10 |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd6fgBdbGI1YaDGgbwFWn9s71O9xSvrT3tQZOIdfiPkCu/ts
+#EXTINF:-1 xui-id="75990" tvg-id="" tvg-name="LOI TV 11 |" tvg-logo="None" group-title="UK | LOL Events",LOI TV 11 |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd2_OUZOy8T8ZA17t7cR7EOg6X5QKW9-K1dfsjsxRmUcm/ts
+#EXTINF:-1 xui-id="75989" tvg-id="" tvg-name="LOI TV 12 |" tvg-logo="None" group-title="UK | LOL Events",LOI TV 12 |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd54LE3-Ol3hDfuFq7sRCB92RRuKGQ_MSmjoYD2rRMhBj/ts
+#EXTINF:-1 xui-id="75988" tvg-id="" tvg-name="LOI TV 13 |" tvg-logo="None" group-title="UK | LOL Events",LOI TV 13 |
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd_5uAhvohmV8JmlH-gfhuvv6IG02vFA5EtIZPbMBBGh6/ts
+#EXTINF:-1 xui-id="91045" tvg-id="" tvg-name="GaaGo TV 00: NOT IN USE" tvg-logo="None" group-title="UK | Gaago (Events)",GaaGo TV 00: NOT IN USE
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdyov5GPiiOTTctgfbb2evhZ8MSkoE6uX1Xg84FUxw8FT/ts
+#EXTINF:-1 xui-id="91044" tvg-id="" tvg-name="GaaGo TV 02:" tvg-logo="None" group-title="UK | Gaago (Events)",GaaGo TV 02:
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd4JSRAQ12O0BYKvhl_Y2o94OhGcQF5BPA1otqsRGT_a7/ts
+#EXTINF:-1 xui-id="91043" tvg-id="" tvg-name="GaaGo TV 02: DUBLIN v WEXFORD 17:00 07/05" tvg-logo="None" group-title="UK | Gaago (Events)",GaaGo TV 02: DUBLIN v WEXFORD 17:00 07/05
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd6v4lRtNGOe_n4l51dB7H5qPeo9yxMr-u2tku1GDC3EO/ts
+#EXTINF:-1 xui-id="91042" tvg-id="" tvg-name="GaaGo TV 03:" tvg-logo="None" group-title="UK | Gaago (Events)",GaaGo TV 03:
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd45YWpdO0MMoRvKR6I5i5JOEqkujb2pJh0ty0-bOLSwi/ts
+#EXTINF:-1 xui-id="91041" tvg-id="" tvg-name="GaaGo TV 04:" tvg-logo="None" group-title="UK | Gaago (Events)",GaaGo TV 04:
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd3MbE-BP95VLNWyNlz-Frrf8vZZ8Vex56FbGg_VJlP8m/ts
+#EXTINF:-1 xui-id="91040" tvg-id="" tvg-name="GaaGo TV 05:" tvg-logo="None" group-title="UK | Gaago (Events)",GaaGo TV 05:
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd5AzznaNdtwHib6kZ_KZ3iWcsZgEXD6OtdbQdPDvTs-e/ts
+#EXTINF:-1 xui-id="91039" tvg-id="" tvg-name="GaaGo TV 06:" tvg-logo="None" group-title="UK | Gaago (Events)",GaaGo TV 06:
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd8gUCi3tdqFqbN2CR0JMt9j5POpe-lhYBlRlZtzofwaI/ts
+#EXTINF:-1 xui-id="91038" tvg-id="" tvg-name="GaaGo TV: No Scheduled Event" tvg-logo="http://roomtv.xyz:8080/images/sHfoiSUfN4A5wRsA_5q3Bzxes_EnvdbaKR3T1EnDgfKqKKvP9yWtWzzLwGGf0uEiIft3UsnZX14nIVaNtURxHwGrSIXhFF-zigitHdzGlAeQxB-cPV6lBSuzvBg_LNIB-cBfv8_JfAFzKZeQ5bdycg.png" group-title="UK | Gaago (Events)",GaaGo TV: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdw7gxOxwizY0ImagkRAN8oKJ6Hy8taCA_S2Ne_iNpcqc/ts
+#EXTINF:-1 xui-id="91037" tvg-id="" tvg-name="GaaGo TV | No Scheduled Event" tvg-logo="http://roomtv.xyz:8080/images/sHfoiSUfN4A5wRsA_5q3Bzxes_EnvdbaKR3T1EnDgfKqKKvP9yWtWzzLwGGf0uEiIft3UsnZX14nIVaNtURxHwGrSIXhFF-zigitHdzGlAeQxB-cPV6lBSuzvBg_LNIB-cBfv8_JfAFzKZeQ5bdycg.png" group-title="UK | Gaago (Events)",GaaGo TV | No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd-ZBona2MPhgMS3n0EFSWYjY-s9V-1eHmwjtfdCkMoNo/ts
+#EXTINF:-1 xui-id="76021" tvg-id="" tvg-name="RugbyPass 20?: No Scheduled Event" tvg-logo="None" group-title="UK | Rugby Pass (Events)",RugbyPass 20?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd3IEySoL8958_inJX9GXIwb0KcbL8MnVgIywKLDjYBo_/ts
+#EXTINF:-1 xui-id="76020" tvg-id="" tvg-name="RugbyPass 19?: No Scheduled Event" tvg-logo="None" group-title="UK | Rugby Pass (Events)",RugbyPass 19?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd8mpdMgCEnDubks7pVW8OqYUi8UUtlDrDtCKqV6L5fwK/ts
+#EXTINF:-1 xui-id="76019" tvg-id="" tvg-name="RugbyPass 18?: No Scheduled Event" tvg-logo="None" group-title="UK | Rugby Pass (Events)",RugbyPass 18?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd3T5j2Ueo7xWTqCz2eqqHKtr8TYj9a6aWmZwdMlBnKB2/ts
+#EXTINF:-1 xui-id="76018" tvg-id="" tvg-name="RugbyPass 17?: No Scheduled Event" tvg-logo="None" group-title="UK | Rugby Pass (Events)",RugbyPass 17?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdxwQVoS9BVU_zz3gniTUG_tpwakW5byIkqHZjBFOLT7l/ts
+#EXTINF:-1 xui-id="76017" tvg-id="" tvg-name="RugbyPass 16?: No Scheduled Event" tvg-logo="None" group-title="UK | Rugby Pass (Events)",RugbyPass 16?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd7xucvP7VgkQK-DmFXCmw7MrwgBy8dMVo0Y2byXWjOgc/ts
+#EXTINF:-1 xui-id="76016" tvg-id="" tvg-name="RugbyPass 15?: No Scheduled Event" tvg-logo="None" group-title="UK | Rugby Pass (Events)",RugbyPass 15?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd5u1VAUfzkdoyY2zBHVQXz0EySo2UCqVVR8xIbGuWhSg/ts
+#EXTINF:-1 xui-id="76015" tvg-id="" tvg-name="RugbyPass 14?: No Scheduled Event" tvg-logo="None" group-title="UK | Rugby Pass (Events)",RugbyPass 14?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd3L5K8xiaplwPygHrmj3MX951vnCc1p2t2rvuo6cdUqI/ts
+#EXTINF:-1 xui-id="76014" tvg-id="" tvg-name="RugbyPass 13?: No Scheduled Event" tvg-logo="None" group-title="UK | Rugby Pass (Events)",RugbyPass 13?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdxdihk_MvGC3HVpWpSiy4DaFiAwJjqbTla-AV1HyfK6f/ts
+#EXTINF:-1 xui-id="76013" tvg-id="" tvg-name="RugbyPass 12?: No Scheduled Event" tvg-logo="None" group-title="UK | Rugby Pass (Events)",RugbyPass 12?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd1jQjNO3Gu-WyqxubT2bOvNiN8Uq4qnIP7DZ2tsJvplU/ts
+#EXTINF:-1 xui-id="76012" tvg-id="" tvg-name="RugbyPass 11?: No Scheduled Event" tvg-logo="None" group-title="UK | Rugby Pass (Events)",RugbyPass 11?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd7blUOCrwt4CFE0FTz2MXyIxuKLjW8emqmh2d-kZFAlw/ts
+#EXTINF:-1 xui-id="76011" tvg-id="" tvg-name="RugbyPass 10?: No Scheduled Event" tvg-logo="None" group-title="UK | Rugby Pass (Events)",RugbyPass 10?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd1Y9MWUOJl5viNpLCViZIga4Hr7-pb3MPiANZcurwMGk/ts
+#EXTINF:-1 xui-id="76010" tvg-id="" tvg-name="RugbyPass 09?: No Scheduled Event" tvg-logo="None" group-title="UK | Rugby Pass (Events)",RugbyPass 09?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd4gnW4vXag65oTYbFbOI8P5YFIgevgX_5v9sqkZsDvAi/ts
+#EXTINF:-1 xui-id="76009" tvg-id="" tvg-name="RugbyPass 08?: No Scheduled Event" tvg-logo="None" group-title="UK | Rugby Pass (Events)",RugbyPass 08?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdyQKOPJ3EmbPTYzY_p0qInbLwyUWY4EO9Y77ega0tpwB/ts
+#EXTINF:-1 xui-id="76008" tvg-id="" tvg-name="RugbyPass 07?: No Scheduled Event" tvg-logo="None" group-title="UK | Rugby Pass (Events)",RugbyPass 07?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd2H7E6coDyYHEdfH7-n8mK3okIcSHzFFdj6cK3XLKF3y/ts
+#EXTINF:-1 xui-id="76007" tvg-id="" tvg-name="RugbyPass 06?: No Scheduled Event" tvg-logo="None" group-title="UK | Rugby Pass (Events)",RugbyPass 06?: No Scheduled Event
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd-cOMmrSE1uBv65CGbiHxR_w-yUbqsGed1UbkiqWB8g2/ts
+#EXTINF:-1 xui-id="76006" tvg-id="" tvg-name="RugbyPass 05?: Wales v Fiji | Sun 10th Sep 8:00PM UK" tvg-logo="None" group-title="UK | Rugby Pass (Events)",RugbyPass 05?: Wales v Fiji | Sun 10th Sep 8:00PM UK
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd7Mm_dovxyjF7ALlg2ant8jgIeg8FKg1Gchr80K9neeC/ts
+#EXTINF:-1 xui-id="76005" tvg-id="" tvg-name="RugbyPass 04?: South Africa v Scotland | Sun 10th Sep 4:45PM UK" tvg-logo="None" group-title="UK | Rugby Pass (Events)",RugbyPass 04?: South Africa v Scotland | Sun 10th Sep 4:45PM UK
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd_FAChDfBiGvyNttceogpMwJi3KBJtxtPSafKjo4yWsV/ts
+#EXTINF:-1 xui-id="76004" tvg-id="" tvg-name="RugbyPass 03?: Ealing v Northampton | Sun 10th Sep 1:00PM UK" tvg-logo="None" group-title="UK | Rugby Pass (Events)",RugbyPass 03?: Ealing v Northampton | Sun 10th Sep 1:00PM UK
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd51rXi7TU3diG8ft2dVH6pC6kh7E0MvgwMnpIjDIJ1Cf/ts
+#EXTINF:-1 xui-id="76003" tvg-id="" tvg-name="RugbyPass 02?: Salford v Warrington | Sun 10th Sep 12:45PM UK" tvg-logo="None" group-title="UK | Rugby Pass (Events)",RugbyPass 02?: Salford v Warrington | Sun 10th Sep 12:45PM UK
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd7uvhI7hsTPt6U9B6od6nV0-oJVyTh5gr9f4aj2hFybG/ts
+#EXTINF:-1 xui-id="76002" tvg-id="" tvg-name="RugbyPass 01?: Japan v Chile | Sun 10th Sep 12:00PM UK" tvg-logo="None" group-title="UK | Rugby Pass (Events)",RugbyPass 01?: Japan v Chile | Sun 10th Sep 12:00PM UK
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdwum370UnCeV0WwmIzmJBd4EWYGeLnb1Ow1D8o-zqW4I/ts
+#EXTINF:-1 xui-id="72799" tvg-id="" tvg-name="UK: Viaplay Xtra" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/5196c0518ef345342db396a5a5af2f91.svg" group-title="Sports | ViaPlay (Event)",UK: Viaplay Xtra
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd3d9-u9mgsCG-Edck8dXDSuM6FPe1u9NmcpQOl4wnUmA/ts
+#EXTINF:-1 xui-id="72288" tvg-id="" tvg-name="UK: VIAPLAY SPORTS 2" tvg-logo="" group-title="Sports | ViaPlay (Event)",UK: VIAPLAY SPORTS 2
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd-G20h7iszEGuCiSJSEbfyAXSpYmSfD8gowC3NGlxyxR/ts
+#EXTINF:-1 xui-id="72286" tvg-id="" tvg-name="UK: Viaplay Sports 1" tvg-logo="" group-title="Sports | ViaPlay (Event)",UK: Viaplay Sports 1
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNdyDuAw4PWbZeEaVrPI-PVYDkfkzNb46tAtebgN00_Ony/ts
+#EXTINF:-1 xui-id="72230" tvg-id="" tvg-name="UK: VIAPLAY XTRA" tvg-logo="" group-title="Sports | ViaPlay (Event)",UK: VIAPLAY XTRA
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd6P-EJfHAFeGiaTV3BQM40YC3zYvoglQY-wLo64GyAP3/ts
+#EXTINF:-1 xui-id="72228" tvg-id="" tvg-name="UK: Viaplay Sports Ultra" tvg-logo="" group-title="Sports | ViaPlay (Event)",UK: Viaplay Sports Ultra
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd3SZdznZwAmp50p5QPMJXZbkmnBfVdnw1KDGf0uyGdVf/ts
+#EXTINF:-1 xui-id="72227" tvg-id="" tvg-name="UK: Viaplay Sports 2" tvg-logo="" group-title="Sports | ViaPlay (Event)",UK: Viaplay Sports 2
+https://panel.4kchannels.co.uk:443/play/IC_cAcScIJlGXmsR2AqNd-ZkguMayMi_qZBJRX6nHyZEcgc8tpBZTJd1Wk0RUnIo/ts
